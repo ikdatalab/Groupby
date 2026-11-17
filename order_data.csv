@@ -1,0 +1,801 @@
+customer_id,customer_name,order_datetime,payment_method,order_status,shipping_city,shipping_state,order_total
+1,Sai,2024-02-23 21:47:00,UPI,SHIPPED,Jaipur,Rajasthan,38940.7
+1,Sai,2024-06-05 19:56:00,UPI,CONFIRMED,Jaipur,Rajasthan,5981.75
+1,Sai,2024-11-27 02:57:00,Wallet,CONFIRMED,Jaipur,Rajasthan,4984.15
+2,Aarav,2025-05-02 00:57:00,UPI,SHIPPED,Pune,Maharashtra,5186.3
+2,Aarav,2025-03-13 20:43:00,COD,CONFIRMED,Pune,Maharashtra,20959.85
+2,Aarav,2024-06-01 20:09:00,UPI,DELIVERED,Pune,Maharashtra,92737.47
+3,Saanvi,2024-02-19 12:49:00,UPI,SHIPPED,Kolkata,West Bengal,16495.47
+3,Saanvi,2024-11-15 22:12:00,UPI,CONFIRMED,Kolkata,West Bengal,4089.67
+5,Kiara,2025-07-05 14:20:00,UPI,RETURNED,Patna,Bihar,25529.17
+5,Kiara,2025-01-05 23:54:00,Credit Card,DELIVERED,Patna,Bihar,70439.2
+5,Kiara,2024-12-31 09:25:00,Credit Card,SHIPPED,Patna,Bihar,13642.19
+6,Tara,2025-03-10 21:32:00,COD,CONFIRMED,Nagpur,Maharashtra,3774.13
+6,Tara,2025-07-28 19:12:00,UPI,DELIVERED,Nagpur,Maharashtra,804.19
+6,Tara,2024-12-02 06:29:00,Credit Card,SHIPPED,Nagpur,Maharashtra,20566.74
+6,Tara,2024-07-19 14:23:00,Credit Card,PLACED,Nagpur,Maharashtra,56075.48
+7,Ishita,2024-08-26 00:39:00,NetBanking,CONFIRMED,Pune,Maharashtra,3525.78
+7,Ishita,2024-04-12 12:24:00,UPI,CANCELLED,Pune,Maharashtra,3496.48
+7,Ishita,2024-10-20 03:09:00,UPI,DELIVERED,Pune,Maharashtra,9218.16
+7,Ishita,2024-12-27 09:45:00,UPI,DELIVERED,Pune,Maharashtra,2322.12
+7,Ishita,2024-02-06 00:48:00,COD,CONFIRMED,Pune,Maharashtra,226331.12
+7,Ishita,2024-06-14 16:47:00,UPI,SHIPPED,Pune,Maharashtra,24210.36
+7,Ishita,2024-10-06 01:41:00,UPI,DELIVERED,Pune,Maharashtra,716.77
+8,Virat,2024-05-26 09:35:00,COD,DELIVERED,Delhi,Delhi,19839.69
+8,Virat,2024-07-16 08:18:00,NetBanking,RETURN_REQUESTED,Delhi,Delhi,5479.04
+9,Saanvi,2025-01-06 17:30:00,Wallet,RETURNED,Noida,Uttar Pradesh,5977.15
+9,Saanvi,2024-03-12 15:06:00,NetBanking,DELIVERED,Noida,Uttar Pradesh,19103.94
+9,Saanvi,2025-04-16 05:17:00,UPI,DELIVERED,Noida,Uttar Pradesh,39483.83
+10,Riya,2024-10-08 06:15:00,NetBanking,CANCELLED,Visakhapatnam,Andhra Pradesh,2244.48
+10,Riya,2025-08-12 00:58:00,Credit Card,CONFIRMED,Visakhapatnam,Andhra Pradesh,11447.96
+11,Sara,2024-05-31 13:54:00,UPI,RETURNED,Bhopal,Madhya Pradesh,639.88
+11,Sara,2024-02-26 00:49:00,NetBanking,SHIPPED,Bhopal,Madhya Pradesh,46929.25
+11,Sara,2025-01-23 02:49:00,Debit Card,RETURNED,Bhopal,Madhya Pradesh,105795.79
+12,Vihaan,2025-06-29 19:16:00,Debit Card,RETURN_REQUESTED,Nagpur,Maharashtra,680.14
+12,Vihaan,2024-06-29 08:58:00,UPI,CANCELLED,Nagpur,Maharashtra,753.0
+12,Vihaan,2025-03-09 08:16:00,Debit Card,CONFIRMED,Nagpur,Maharashtra,55480.65
+13,Meera,2025-08-08 20:50:00,NetBanking,SHIPPED,Noida,Uttar Pradesh,4731.36
+13,Meera,2024-12-08 08:15:00,UPI,SHIPPED,Noida,Uttar Pradesh,9766.39
+14,Anika,2024-06-06 11:53:00,NetBanking,CANCELLED,Jaipur,Rajasthan,3385.76
+15,Ishaan,2025-07-10 02:36:00,UPI,DELIVERED,Gurugram,Haryana,7299.12
+16,Atharv,2024-06-11 07:06:00,Debit Card,DELIVERED,Jaipur,Rajasthan,21330.35
+16,Atharv,2024-02-03 10:26:00,UPI,SHIPPED,Jaipur,Rajasthan,90605.84
+16,Atharv,2025-04-27 19:40:00,Credit Card,SHIPPED,Jaipur,Rajasthan,56273.27
+17,Ayaan,2024-06-09 17:23:00,COD,CONFIRMED,Delhi,Delhi,1529.48
+17,Ayaan,2024-05-22 04:21:00,Credit Card,DELIVERED,Delhi,Delhi,7714.28
+17,Ayaan,2025-05-15 00:11:00,UPI,RETURNED,Delhi,Delhi,5525.37
+17,Ayaan,2024-09-03 08:05:00,Wallet,DELIVERED,Delhi,Delhi,10556.83
+17,Ayaan,2025-07-08 11:59:00,UPI,DELIVERED,Delhi,Delhi,13725.75
+19,Rudra,2024-07-31 07:57:00,UPI,RETURN_REQUESTED,Patna,Bihar,3590.69
+19,Rudra,2024-08-11 23:12:00,Credit Card,DELIVERED,Patna,Bihar,58400.68
+19,Rudra,2025-01-02 15:40:00,NetBanking,SHIPPED,Patna,Bihar,5445.72
+20,Pranav,2024-01-11 08:07:00,Debit Card,CONFIRMED,Jaipur,Rajasthan,1699.42
+21,Rudra,2024-04-03 09:41:00,COD,DELIVERED,Bhopal,Madhya Pradesh,26926.13
+21,Rudra,2024-05-11 18:13:00,Debit Card,CONFIRMED,Bhopal,Madhya Pradesh,2407.76
+21,Rudra,2024-08-10 09:52:00,Credit Card,CONFIRMED,Bhopal,Madhya Pradesh,3666.92
+22,Diya,2025-05-22 07:58:00,UPI,SHIPPED,Mumbai,Maharashtra,946.47
+22,Diya,2024-04-16 01:31:00,Credit Card,DELIVERED,Mumbai,Maharashtra,186153.63
+22,Diya,2024-08-03 13:33:00,UPI,RETURN_REQUESTED,Mumbai,Maharashtra,20147.68
+23,Dhruv,2024-01-31 06:12:00,UPI,SHIPPED,Lucknow,Uttar Pradesh,17422.06
+23,Dhruv,2024-09-02 05:17:00,COD,DELIVERED,Lucknow,Uttar Pradesh,9547.98
+23,Dhruv,2024-09-16 08:40:00,UPI,DELIVERED,Lucknow,Uttar Pradesh,735.12
+24,Mohammad,2025-03-29 23:17:00,Debit Card,RETURN_REQUESTED,Bhopal,Madhya Pradesh,4781.33
+24,Mohammad,2024-07-12 17:18:00,NetBanking,SHIPPED,Bhopal,Madhya Pradesh,1056.34
+24,Mohammad,2024-03-16 23:58:00,UPI,DELIVERED,Bhopal,Madhya Pradesh,11038.18
+25,Aisha,2024-10-11 13:34:00,Credit Card,PLACED,Pune,Maharashtra,13473.34
+27,Ira,2024-07-02 15:46:00,UPI,RETURNED,Gurugram,Haryana,790.38
+27,Ira,2024-12-16 13:38:00,Debit Card,DELIVERED,Gurugram,Haryana,4265.73
+27,Ira,2025-01-24 13:33:00,UPI,DELIVERED,Gurugram,Haryana,368.34
+27,Ira,2025-08-14 13:08:00,COD,DELIVERED,Gurugram,Haryana,16887.68
+27,Ira,2025-01-31 12:44:00,UPI,DELIVERED,Gurugram,Haryana,19377.63
+28,Navya,2025-03-08 11:12:00,Wallet,DELIVERED,Delhi,Delhi,52448.06
+28,Navya,2024-10-13 04:54:00,Credit Card,DELIVERED,Delhi,Delhi,7032.9
+28,Navya,2024-04-04 13:21:00,Wallet,SHIPPED,Delhi,Delhi,3763.5
+28,Navya,2025-03-27 08:23:00,UPI,DELIVERED,Delhi,Delhi,1943.32
+28,Navya,2024-07-28 16:09:00,Credit Card,RETURNED,Delhi,Delhi,1775.67
+29,Vivaan,2024-08-12 12:11:00,NetBanking,RETURNED,Kolkata,West Bengal,68600.37
+29,Vivaan,2024-05-04 09:25:00,Credit Card,SHIPPED,Kolkata,West Bengal,3999.5
+29,Vivaan,2025-03-30 20:45:00,UPI,CONFIRMED,Kolkata,West Bengal,84822.21
+30,Ananya,2025-01-29 13:47:00,UPI,DELIVERED,Kolkata,West Bengal,11028.16
+30,Ananya,2024-01-11 11:14:00,Debit Card,SHIPPED,Kolkata,West Bengal,1585.56
+30,Ananya,2024-03-19 01:08:00,Credit Card,SHIPPED,Kolkata,West Bengal,2018.17
+30,Ananya,2024-04-21 17:24:00,Wallet,RETURNED,Kolkata,West Bengal,1349.88
+30,Ananya,2025-08-16 02:17:00,COD,DELIVERED,Kolkata,West Bengal,4106.74
+31,Saanvi,2024-11-29 05:01:00,Debit Card,SHIPPED,Patna,Bihar,4001.47
+31,Saanvi,2024-07-06 06:16:00,Wallet,RETURN_REQUESTED,Patna,Bihar,1594.76
+31,Saanvi,2024-12-23 11:54:00,NetBanking,DELIVERED,Patna,Bihar,1383.85
+31,Saanvi,2024-05-22 06:35:00,NetBanking,SHIPPED,Patna,Bihar,302.45
+32,Navya,2024-02-04 12:20:00,COD,DELIVERED,Kochi,Kerala,12645.08
+32,Navya,2025-01-05 13:30:00,UPI,SHIPPED,Kochi,Kerala,72635.65
+32,Navya,2024-09-22 08:01:00,Debit Card,RETURN_REQUESTED,Kochi,Kerala,1870.45
+33,Aarya,2024-06-27 20:09:00,UPI,DELIVERED,Visakhapatnam,Andhra Pradesh,1901.77
+33,Aarya,2025-03-27 05:16:00,NetBanking,SHIPPED,Visakhapatnam,Andhra Pradesh,1651.75
+34,Sai,2024-04-14 21:03:00,Credit Card,SHIPPED,Gurugram,Haryana,11328.29
+34,Sai,2025-05-18 02:12:00,UPI,RETURNED,Gurugram,Haryana,7389.36
+35,Anay,2024-12-24 20:35:00,COD,SHIPPED,Chennai,Tamil Nadu,73527.03
+36,Virat,2025-02-02 06:08:00,COD,SHIPPED,Ahmedabad,Gujarat,10122.54
+36,Virat,2024-10-07 12:05:00,UPI,DELIVERED,Ahmedabad,Gujarat,408.4
+37,Reyansh,2024-12-07 04:45:00,Credit Card,SHIPPED,Ahmedabad,Gujarat,2904.76
+38,Sai,2025-03-28 11:38:00,Debit Card,PLACED,Ahmedabad,Gujarat,3556.08
+39,Myra,2024-11-30 05:32:00,UPI,DELIVERED,Surat,Gujarat,25770.59
+40,Kiara,2024-01-13 18:53:00,NetBanking,CONFIRMED,Visakhapatnam,Andhra Pradesh,1858.34
+40,Kiara,2025-06-03 14:07:00,Credit Card,SHIPPED,Visakhapatnam,Andhra Pradesh,32664.32
+41,Aarav,2024-12-26 17:32:00,UPI,DELIVERED,Gurugram,Haryana,1303.26
+42,Aarav,2024-12-22 13:59:00,COD,DELIVERED,Bhopal,Madhya Pradesh,9190.62
+42,Aarav,2024-04-17 13:44:00,UPI,CONFIRMED,Bhopal,Madhya Pradesh,15112.74
+43,Arnav,2025-02-27 16:28:00,UPI,RETURN_REQUESTED,Bengaluru,Karnataka,7459.1
+44,Rudra,2024-02-14 19:09:00,UPI,DELIVERED,Ahmedabad,Gujarat,67232.81
+44,Rudra,2024-09-12 17:18:00,UPI,DELIVERED,Ahmedabad,Gujarat,31495.22
+44,Rudra,2024-03-19 02:32:00,Debit Card,DELIVERED,Ahmedabad,Gujarat,3393.03
+45,Sara,2025-05-25 03:29:00,UPI,RETURNED,Noida,Uttar Pradesh,59531.96
+46,Kiara,2025-01-06 10:49:00,UPI,RETURN_REQUESTED,Gurugram,Haryana,1940.8
+47,Myra,2024-04-27 03:34:00,UPI,CONFIRMED,Ahmedabad,Gujarat,9708.74
+48,Zara,2025-06-18 12:08:00,Debit Card,DELIVERED,Bengaluru,Karnataka,14348.42
+48,Zara,2024-12-23 14:29:00,Debit Card,RETURNED,Bengaluru,Karnataka,4304.99
+48,Zara,2024-01-27 13:00:00,Debit Card,DELIVERED,Bengaluru,Karnataka,6090.12
+48,Zara,2024-03-20 15:54:00,UPI,CANCELLED,Bengaluru,Karnataka,11287.15
+48,Zara,2024-09-27 09:45:00,UPI,DELIVERED,Bengaluru,Karnataka,8031.15
+49,Diya,2024-04-12 09:51:00,Debit Card,DELIVERED,Mumbai,Maharashtra,13093.51
+50,Aditya,2024-06-20 23:10:00,UPI,DELIVERED,Patna,Bihar,2898.78
+50,Aditya,2024-12-30 15:11:00,COD,CONFIRMED,Patna,Bihar,3190.83
+50,Aditya,2024-07-27 01:51:00,UPI,PLACED,Patna,Bihar,45018.19
+51,Aadhya,2024-11-23 04:26:00,COD,SHIPPED,Hyderabad,Telangana,840.49
+51,Aadhya,2024-05-01 02:23:00,UPI,SHIPPED,Hyderabad,Telangana,319.66
+51,Aadhya,2024-11-29 02:45:00,COD,DELIVERED,Hyderabad,Telangana,9106.63
+51,Aadhya,2024-02-15 07:02:00,UPI,SHIPPED,Hyderabad,Telangana,15859.24
+51,Aadhya,2024-03-30 03:05:00,Debit Card,DELIVERED,Hyderabad,Telangana,4494.79
+52,Saanvi,2024-09-09 17:41:00,NetBanking,SHIPPED,Ahmedabad,Gujarat,5447.33
+52,Saanvi,2025-03-30 16:37:00,NetBanking,DELIVERED,Ahmedabad,Gujarat,5584.87
+53,Zara,2025-05-29 19:11:00,UPI,RETURN_REQUESTED,Nagpur,Maharashtra,8417.72
+53,Zara,2025-07-11 09:06:00,Credit Card,CANCELLED,Nagpur,Maharashtra,12508.04
+53,Zara,2024-05-30 14:56:00,UPI,CONFIRMED,Nagpur,Maharashtra,7516.53
+53,Zara,2024-08-09 08:11:00,UPI,CONFIRMED,Nagpur,Maharashtra,5798.52
+54,Saanvi,2025-05-31 10:26:00,Credit Card,SHIPPED,Indore,Madhya Pradesh,53939.99
+54,Saanvi,2024-11-26 22:46:00,Credit Card,SHIPPED,Indore,Madhya Pradesh,15394.79
+55,Aisha,2025-03-21 22:01:00,UPI,RETURNED,Chandigarh,Chandigarh,9477.46
+55,Aisha,2025-04-20 13:52:00,Credit Card,PLACED,Chandigarh,Chandigarh,2476.66
+57,Mohammad,2024-10-11 18:32:00,Credit Card,DELIVERED,Patna,Bihar,1725.6
+57,Mohammad,2025-08-19 15:59:00,COD,SHIPPED,Patna,Bihar,821.68
+58,Atharv,2024-12-12 21:15:00,NetBanking,RETURN_REQUESTED,Patna,Bihar,11562.43
+58,Atharv,2025-05-18 05:07:00,UPI,RETURNED,Patna,Bihar,1335.58
+59,Arnav,2024-01-22 15:53:00,UPI,SHIPPED,Delhi,Delhi,433.34
+59,Arnav,2024-12-21 22:25:00,Debit Card,DELIVERED,Delhi,Delhi,11898.57
+59,Arnav,2024-02-09 13:31:00,UPI,CANCELLED,Delhi,Delhi,24307.12
+60,Aisha,2024-09-03 14:46:00,Wallet,DELIVERED,Hyderabad,Telangana,15384.37
+61,Ayaan,2024-05-27 04:50:00,UPI,DELIVERED,Nagpur,Maharashtra,11717.64
+61,Ayaan,2024-10-24 09:30:00,UPI,SHIPPED,Nagpur,Maharashtra,3550.0
+61,Ayaan,2025-03-22 02:30:00,Credit Card,RETURNED,Nagpur,Maharashtra,13798.96
+61,Ayaan,2024-05-26 12:46:00,UPI,RETURNED,Nagpur,Maharashtra,58601.03
+61,Ayaan,2024-03-24 13:26:00,Credit Card,CONFIRMED,Nagpur,Maharashtra,14707.77
+61,Ayaan,2024-09-03 17:25:00,UPI,DELIVERED,Nagpur,Maharashtra,2129.56
+62,Myra,2024-02-23 06:15:00,NetBanking,DELIVERED,Kochi,Kerala,13711.16
+62,Myra,2025-03-31 13:31:00,UPI,RETURN_REQUESTED,Kochi,Kerala,68657.41
+62,Myra,2025-07-25 13:41:00,UPI,PLACED,Kochi,Kerala,3399.23
+63,Kabir,2025-07-14 11:04:00,COD,DELIVERED,Surat,Gujarat,93441.08
+63,Kabir,2025-03-19 14:36:00,Wallet,DELIVERED,Surat,Gujarat,116189.24
+64,Ira,2025-01-29 18:10:00,UPI,DELIVERED,Hyderabad,Telangana,18743.82
+64,Ira,2024-10-10 02:21:00,UPI,SHIPPED,Hyderabad,Telangana,3376.85
+64,Ira,2024-10-07 22:36:00,Credit Card,CANCELLED,Hyderabad,Telangana,9491.65
+65,Arjun,2025-06-05 08:22:00,Credit Card,DELIVERED,Hyderabad,Telangana,2872.91
+65,Arjun,2025-06-16 21:38:00,Credit Card,CONFIRMED,Hyderabad,Telangana,157461.01
+65,Arjun,2024-05-26 12:36:00,Debit Card,CONFIRMED,Hyderabad,Telangana,3866.72
+65,Arjun,2024-06-08 11:32:00,UPI,DELIVERED,Hyderabad,Telangana,2886.14
+65,Arjun,2025-05-31 03:40:00,Credit Card,DELIVERED,Hyderabad,Telangana,13313.48
+65,Arjun,2024-10-01 08:30:00,UPI,CONFIRMED,Hyderabad,Telangana,10158.41
+65,Arjun,2025-07-04 07:49:00,COD,DELIVERED,Hyderabad,Telangana,14760.99
+65,Arjun,2024-02-04 13:01:00,Debit Card,RETURNED,Hyderabad,Telangana,1288.21
+65,Arjun,2025-04-09 09:58:00,UPI,DELIVERED,Hyderabad,Telangana,892.21
+66,Riya,2024-03-04 14:03:00,UPI,DELIVERED,Kochi,Kerala,3657.01
+66,Riya,2025-05-24 02:19:00,NetBanking,RETURNED,Kochi,Kerala,11362.84
+66,Riya,2025-03-08 02:35:00,UPI,DELIVERED,Kochi,Kerala,61772.5
+66,Riya,2024-09-22 00:43:00,Credit Card,SHIPPED,Kochi,Kerala,4412.33
+66,Riya,2025-02-15 22:35:00,UPI,SHIPPED,Kochi,Kerala,7810.67
+67,Ishita,2025-06-09 16:07:00,Debit Card,DELIVERED,Patna,Bihar,6877.02
+67,Ishita,2024-12-05 11:47:00,NetBanking,DELIVERED,Patna,Bihar,17063.17
+67,Ishita,2025-04-09 20:40:00,NetBanking,SHIPPED,Patna,Bihar,5044.08
+67,Ishita,2025-02-11 15:42:00,UPI,CONFIRMED,Patna,Bihar,931.74
+68,Mira,2025-06-11 16:58:00,UPI,DELIVERED,Kochi,Kerala,363.18
+69,Reyansh,2024-07-06 23:49:00,Credit Card,CANCELLED,Chennai,Tamil Nadu,7469.18
+70,Myra,2024-08-16 21:40:00,COD,SHIPPED,Indore,Madhya Pradesh,22374.82
+71,Kavya,2025-01-23 20:50:00,COD,SHIPPED,Pune,Maharashtra,2150.64
+71,Kavya,2024-03-09 14:27:00,Debit Card,RETURN_REQUESTED,Pune,Maharashtra,7083.65
+72,Anay,2025-07-23 08:56:00,Credit Card,DELIVERED,Nagpur,Maharashtra,3745.19
+72,Anay,2025-08-14 04:19:00,COD,PLACED,Nagpur,Maharashtra,4582.53
+72,Anay,2024-01-27 19:07:00,COD,SHIPPED,Nagpur,Maharashtra,7431.36
+72,Anay,2024-10-28 14:09:00,NetBanking,DELIVERED,Nagpur,Maharashtra,4731.36
+73,Reyansh,2025-01-17 17:10:00,NetBanking,DELIVERED,Ahmedabad,Gujarat,61852.29
+73,Reyansh,2024-01-02 07:01:00,UPI,DELIVERED,Ahmedabad,Gujarat,6021.21
+73,Reyansh,2024-02-06 07:44:00,Credit Card,DELIVERED,Ahmedabad,Gujarat,21280.91
+74,Aarya,2025-04-01 02:52:00,UPI,CANCELLED,Chennai,Tamil Nadu,8347.15
+74,Aarya,2024-10-02 23:13:00,COD,DELIVERED,Chennai,Tamil Nadu,11605.13
+74,Aarya,2025-06-16 18:50:00,COD,DELIVERED,Chennai,Tamil Nadu,48952.22
+74,Aarya,2025-07-02 06:04:00,Debit Card,SHIPPED,Chennai,Tamil Nadu,6709.94
+75,Sai,2024-08-02 06:51:00,Debit Card,DELIVERED,Visakhapatnam,Andhra Pradesh,207.96
+75,Sai,2024-04-02 10:08:00,UPI,DELIVERED,Visakhapatnam,Andhra Pradesh,6904.89
+76,Aarya,2025-01-20 13:43:00,NetBanking,RETURNED,Nagpur,Maharashtra,1954.89
+76,Aarya,2024-10-11 04:17:00,COD,CONFIRMED,Nagpur,Maharashtra,7064.89
+78,Aadhya,2025-04-19 02:56:00,Debit Card,RETURNED,Hyderabad,Telangana,784.54
+78,Aadhya,2024-04-07 23:37:00,NetBanking,SHIPPED,Hyderabad,Telangana,5056.68
+79,Anay,2024-04-30 11:19:00,Wallet,SHIPPED,Hyderabad,Telangana,1778.8
+79,Anay,2025-03-27 11:11:00,UPI,PLACED,Hyderabad,Telangana,5769.45
+79,Anay,2024-08-03 23:59:00,NetBanking,DELIVERED,Hyderabad,Telangana,113314.1
+79,Anay,2025-06-07 05:15:00,UPI,CONFIRMED,Hyderabad,Telangana,181194.08
+79,Anay,2024-06-30 04:05:00,Credit Card,CANCELLED,Hyderabad,Telangana,16644.43
+81,Saanvi,2024-10-21 02:34:00,Credit Card,RETURN_REQUESTED,Surat,Gujarat,7560.44
+83,Riya,2024-01-13 03:49:00,UPI,DELIVERED,Patna,Bihar,2541.06
+83,Riya,2024-03-10 08:36:00,UPI,CONFIRMED,Patna,Bihar,4138.97
+83,Riya,2025-03-23 11:58:00,Debit Card,DELIVERED,Patna,Bihar,11919.13
+83,Riya,2025-01-17 10:26:00,UPI,DELIVERED,Patna,Bihar,178110.12
+84,Aisha,2025-02-13 14:05:00,COD,DELIVERED,Chandigarh,Chandigarh,2371.22
+85,Kavya,2024-07-21 07:27:00,UPI,SHIPPED,Bengaluru,Karnataka,12520.68
+85,Kavya,2025-03-24 16:24:00,Credit Card,DELIVERED,Bengaluru,Karnataka,5642.33
+85,Kavya,2024-07-29 23:31:00,Credit Card,DELIVERED,Bengaluru,Karnataka,7678.01
+85,Kavya,2024-05-24 09:33:00,Debit Card,CANCELLED,Bengaluru,Karnataka,2830.27
+86,Kavya,2025-01-21 06:22:00,UPI,SHIPPED,Mumbai,Maharashtra,855.32
+88,Rudra,2025-06-23 19:56:00,Credit Card,DELIVERED,Pune,Maharashtra,50121.59
+88,Rudra,2024-01-19 19:06:00,UPI,CONFIRMED,Pune,Maharashtra,7808.12
+88,Rudra,2024-08-17 01:34:00,UPI,PLACED,Pune,Maharashtra,60193.96
+88,Rudra,2024-11-18 21:04:00,UPI,SHIPPED,Pune,Maharashtra,3600.23
+89,Myra,2025-02-16 10:33:00,UPI,SHIPPED,Jaipur,Rajasthan,8359.9
+90,Aadhya,2024-11-24 03:44:00,Credit Card,CONFIRMED,Indore,Madhya Pradesh,1303.51
+91,Meera,2025-01-18 05:45:00,UPI,DELIVERED,Noida,Uttar Pradesh,13497.34
+91,Meera,2024-07-12 18:31:00,COD,SHIPPED,Noida,Uttar Pradesh,626.9
+91,Meera,2024-09-27 02:10:00,Debit Card,RETURN_REQUESTED,Noida,Uttar Pradesh,72.31
+92,Vihaan,2025-04-16 08:30:00,Wallet,DELIVERED,Visakhapatnam,Andhra Pradesh,295.56
+93,Arnav,2025-02-28 00:55:00,Credit Card,DELIVERED,Kolkata,West Bengal,11875.73
+93,Arnav,2024-11-03 07:56:00,UPI,DELIVERED,Kolkata,West Bengal,11027.52
+94,Virat,2025-04-26 23:08:00,Debit Card,DELIVERED,Lucknow,Uttar Pradesh,1940.8
+94,Virat,2025-01-19 13:06:00,UPI,DELIVERED,Lucknow,Uttar Pradesh,1846.16
+95,Reyansh,2025-02-19 22:01:00,UPI,CANCELLED,Patna,Bihar,10843.68
+96,Aarya,2025-05-23 09:08:00,UPI,RETURN_REQUESTED,Chennai,Tamil Nadu,11058.58
+97,Pranav,2025-03-09 05:53:00,Credit Card,DELIVERED,Pune,Maharashtra,3557.6
+97,Pranav,2024-04-28 18:23:00,UPI,SHIPPED,Pune,Maharashtra,16494.53
+98,Arnav,2024-01-05 00:55:00,Credit Card,DELIVERED,Noida,Uttar Pradesh,33651.51
+98,Arnav,2025-02-01 13:20:00,NetBanking,DELIVERED,Noida,Uttar Pradesh,1478.93
+98,Arnav,2024-07-16 22:28:00,COD,CONFIRMED,Noida,Uttar Pradesh,1084.58
+98,Arnav,2025-01-12 17:00:00,COD,RETURN_REQUESTED,Noida,Uttar Pradesh,5943.92
+98,Arnav,2024-02-12 18:33:00,Debit Card,CANCELLED,Noida,Uttar Pradesh,20199.71
+99,Diya,2025-03-31 00:14:00,Debit Card,DELIVERED,Hyderabad,Telangana,2306.91
+99,Diya,2024-05-29 13:01:00,Debit Card,CONFIRMED,Hyderabad,Telangana,99068.52
+100,Ishita,2024-12-08 02:56:00,Credit Card,PLACED,Lucknow,Uttar Pradesh,6170.02
+100,Ishita,2024-10-03 03:06:00,UPI,DELIVERED,Lucknow,Uttar Pradesh,7739.41
+101,Reyansh,2024-12-03 08:19:00,Debit Card,DELIVERED,Patna,Bihar,21194.67
+101,Reyansh,2025-04-25 03:22:00,Wallet,RETURNED,Patna,Bihar,32221.01
+101,Reyansh,2025-03-18 18:58:00,UPI,SHIPPED,Patna,Bihar,17389.27
+102,Navya,2024-12-23 13:30:00,Credit Card,DELIVERED,Noida,Uttar Pradesh,12721.0
+102,Navya,2024-06-09 17:25:00,COD,SHIPPED,Noida,Uttar Pradesh,302.45
+103,Aarya,2025-08-03 11:23:00,COD,CANCELLED,Lucknow,Uttar Pradesh,12010.32
+104,Pranav,2024-03-11 10:12:00,Debit Card,DELIVERED,Nagpur,Maharashtra,6240.5
+104,Pranav,2025-05-29 22:43:00,Credit Card,SHIPPED,Nagpur,Maharashtra,9292.53
+105,Ira,2024-05-08 02:11:00,Credit Card,CANCELLED,Mumbai,Maharashtra,18866.67
+105,Ira,2024-08-29 16:05:00,Credit Card,DELIVERED,Mumbai,Maharashtra,6473.44
+105,Ira,2025-08-18 20:51:00,COD,DELIVERED,Mumbai,Maharashtra,191.8
+105,Ira,2024-04-16 15:01:00,NetBanking,DELIVERED,Mumbai,Maharashtra,4585.9
+106,Tara,2025-07-06 01:58:00,COD,RETURNED,Surat,Gujarat,7292.19
+107,Anika,2024-07-01 01:26:00,Debit Card,DELIVERED,Bhopal,Madhya Pradesh,36828.66
+108,Reyansh,2024-11-08 14:15:00,UPI,DELIVERED,Patna,Bihar,102065.6
+109,Rudra,2025-04-14 07:04:00,Debit Card,SHIPPED,Hyderabad,Telangana,3254.81
+109,Rudra,2024-01-12 09:12:00,Credit Card,DELIVERED,Hyderabad,Telangana,90605.84
+109,Rudra,2024-01-14 21:13:00,Credit Card,DELIVERED,Hyderabad,Telangana,6356.44
+110,Anika,2024-11-23 18:02:00,Wallet,DELIVERED,Kolkata,West Bengal,2012.5
+111,Kabir,2024-05-17 19:35:00,UPI,DELIVERED,Visakhapatnam,Andhra Pradesh,40559.05
+111,Kabir,2024-04-03 19:09:00,UPI,DELIVERED,Visakhapatnam,Andhra Pradesh,9080.54
+112,Krish,2024-01-31 10:08:00,UPI,DELIVERED,Chennai,Tamil Nadu,23597.2
+112,Krish,2024-04-15 17:17:00,Debit Card,RETURNED,Chennai,Tamil Nadu,47709.94
+113,Myra,2025-05-26 21:29:00,UPI,SHIPPED,Pune,Maharashtra,52807.25
+113,Myra,2025-03-30 22:19:00,COD,DELIVERED,Pune,Maharashtra,1081.34
+113,Myra,2024-04-25 09:26:00,Wallet,SHIPPED,Pune,Maharashtra,4214.94
+113,Myra,2024-12-13 20:52:00,UPI,DELIVERED,Pune,Maharashtra,363.18
+114,Aditya,2024-08-27 15:23:00,UPI,DELIVERED,Nagpur,Maharashtra,6965.47
+114,Aditya,2025-01-25 16:20:00,UPI,DELIVERED,Nagpur,Maharashtra,11977.89
+114,Aditya,2025-08-09 05:34:00,UPI,DELIVERED,Nagpur,Maharashtra,52147.39
+116,Zara,2025-03-09 02:58:00,UPI,SHIPPED,Nagpur,Maharashtra,11580.06
+116,Zara,2024-10-07 00:06:00,UPI,RETURNED,Nagpur,Maharashtra,8197.85
+117,Aarohi,2025-06-19 23:50:00,UPI,CANCELLED,Nagpur,Maharashtra,23905.53
+118,Kartik,2025-04-22 19:13:00,UPI,DELIVERED,Chennai,Tamil Nadu,1737.54
+119,Riya,2024-08-15 10:27:00,Credit Card,DELIVERED,Pune,Maharashtra,6000.32
+119,Riya,2024-08-08 21:41:00,UPI,DELIVERED,Pune,Maharashtra,7454.98
+119,Riya,2024-04-04 18:00:00,UPI,DELIVERED,Pune,Maharashtra,1452.22
+119,Riya,2025-04-02 11:30:00,Credit Card,DELIVERED,Pune,Maharashtra,22263.32
+120,Diya,2025-07-29 02:24:00,UPI,SHIPPED,Kochi,Kerala,21141.84
+121,Dhruv,2025-07-13 08:52:00,Debit Card,DELIVERED,Nagpur,Maharashtra,12563.16
+122,Kiara,2025-03-14 07:39:00,UPI,CONFIRMED,Lucknow,Uttar Pradesh,7246.48
+122,Kiara,2025-03-30 23:56:00,UPI,SHIPPED,Lucknow,Uttar Pradesh,23434.37
+122,Kiara,2024-04-17 05:46:00,COD,DELIVERED,Lucknow,Uttar Pradesh,2622.74
+122,Kiara,2024-05-15 00:17:00,NetBanking,RETURNED,Lucknow,Uttar Pradesh,2482.81
+123,Reyansh,2024-07-23 02:01:00,Credit Card,RETURNED,Ahmedabad,Gujarat,2570.88
+124,Saanvi,2025-07-23 12:12:00,Debit Card,DELIVERED,Patna,Bihar,10478.93
+125,Anika,2025-03-24 04:30:00,NetBanking,CANCELLED,Lucknow,Uttar Pradesh,1082.79
+125,Anika,2024-08-04 05:48:00,COD,DELIVERED,Lucknow,Uttar Pradesh,44978.06
+125,Anika,2024-07-29 22:04:00,UPI,DELIVERED,Lucknow,Uttar Pradesh,36922.91
+126,Diya,2025-01-26 00:31:00,Debit Card,RETURNED,Kochi,Kerala,2075.49
+128,Ira,2024-07-02 19:46:00,Credit Card,DELIVERED,Chennai,Tamil Nadu,10730.32
+128,Ira,2025-01-12 14:39:00,Debit Card,RETURN_REQUESTED,Chennai,Tamil Nadu,45464.93
+128,Ira,2024-08-03 17:07:00,UPI,SHIPPED,Chennai,Tamil Nadu,5009.67
+128,Ira,2024-04-23 07:07:00,UPI,PLACED,Chennai,Tamil Nadu,3768.04
+129,Aisha,2024-05-21 11:56:00,UPI,RETURN_REQUESTED,Visakhapatnam,Andhra Pradesh,639.32
+129,Aisha,2025-07-10 06:31:00,Debit Card,CANCELLED,Visakhapatnam,Andhra Pradesh,20475.65
+130,Sai,2025-07-27 11:57:00,UPI,DELIVERED,Gurugram,Haryana,4841.81
+131,Dhruv,2024-04-01 04:19:00,Wallet,DELIVERED,Chandigarh,Chandigarh,5793.02
+131,Dhruv,2024-12-22 16:45:00,Credit Card,DELIVERED,Chandigarh,Chandigarh,13760.54
+132,Umar,2024-02-05 02:07:00,Credit Card,DELIVERED,Bhopal,Madhya Pradesh,205271.54
+132,Umar,2024-01-17 17:42:00,Wallet,DELIVERED,Bhopal,Madhya Pradesh,905.75
+132,Umar,2025-07-18 06:52:00,Credit Card,SHIPPED,Bhopal,Madhya Pradesh,58270.77
+133,Reyansh,2024-11-06 07:18:00,Debit Card,DELIVERED,Noida,Uttar Pradesh,3795.99
+133,Reyansh,2024-02-14 03:03:00,COD,CONFIRMED,Noida,Uttar Pradesh,3172.04
+133,Reyansh,2024-04-18 07:42:00,UPI,CONFIRMED,Noida,Uttar Pradesh,2424.62
+135,Virat,2024-06-27 10:54:00,Credit Card,SHIPPED,Jaipur,Rajasthan,1359.54
+135,Virat,2024-09-10 21:52:00,Credit Card,DELIVERED,Jaipur,Rajasthan,7451.19
+136,Aarav,2024-03-18 11:57:00,UPI,CANCELLED,Surat,Gujarat,4454.17
+136,Aarav,2024-05-16 13:57:00,Debit Card,SHIPPED,Surat,Gujarat,7912.08
+136,Aarav,2024-07-02 14:29:00,UPI,PLACED,Surat,Gujarat,575.45
+137,Mira,2024-09-01 02:34:00,UPI,SHIPPED,Mumbai,Maharashtra,5466.73
+138,Reyansh,2025-08-18 12:40:00,COD,DELIVERED,Gurugram,Haryana,29898.27
+138,Reyansh,2024-09-27 09:53:00,COD,RETURNED,Gurugram,Haryana,15568.46
+138,Reyansh,2025-05-22 06:10:00,NetBanking,SHIPPED,Gurugram,Haryana,1278.64
+138,Reyansh,2025-06-03 06:56:00,COD,DELIVERED,Gurugram,Haryana,2691.36
+139,Tara,2025-06-19 10:39:00,COD,DELIVERED,Noida,Uttar Pradesh,5688.85
+140,Diya,2024-09-08 21:20:00,UPI,DELIVERED,Lucknow,Uttar Pradesh,7815.86
+141,Virat,2024-07-14 22:38:00,Wallet,RETURNED,Bhopal,Madhya Pradesh,7841.24
+141,Virat,2025-04-14 06:06:00,UPI,DELIVERED,Bhopal,Madhya Pradesh,2640.32
+142,Kabir,2025-03-14 16:45:00,COD,CANCELLED,Indore,Madhya Pradesh,11506.35
+142,Kabir,2025-04-29 06:10:00,UPI,SHIPPED,Indore,Madhya Pradesh,2724.31
+143,Sarim,2024-04-29 11:51:00,UPI,DELIVERED,Chandigarh,Chandigarh,38150.8
+144,Anika,2024-04-13 13:11:00,UPI,DELIVERED,Bengaluru,Karnataka,1339.42
+144,Anika,2025-02-06 03:37:00,NetBanking,DELIVERED,Bengaluru,Karnataka,12223.67
+145,Kavya,2024-07-18 22:54:00,Credit Card,CONFIRMED,Patna,Bihar,233602.72
+145,Kavya,2025-07-18 08:38:00,UPI,PLACED,Patna,Bihar,3819.28
+145,Kavya,2024-01-22 09:10:00,COD,CANCELLED,Patna,Bihar,52747.58
+145,Kavya,2024-12-31 02:39:00,UPI,DELIVERED,Patna,Bihar,8145.05
+147,Meera,2025-08-13 14:40:00,UPI,RETURN_REQUESTED,Delhi,Delhi,12814.77
+147,Meera,2025-02-14 13:54:00,Debit Card,DELIVERED,Delhi,Delhi,311.12
+147,Meera,2024-11-26 12:20:00,NetBanking,RETURNED,Delhi,Delhi,73752.13
+148,Ira,2024-01-25 07:54:00,Debit Card,SHIPPED,Gurugram,Haryana,411.67
+148,Ira,2024-10-21 23:00:00,UPI,DELIVERED,Gurugram,Haryana,5187.57
+148,Ira,2024-04-22 00:31:00,COD,CONFIRMED,Gurugram,Haryana,4288.3
+148,Ira,2025-07-01 14:27:00,Credit Card,DELIVERED,Gurugram,Haryana,861.52
+149,Kabir,2025-03-26 06:40:00,Credit Card,DELIVERED,Pune,Maharashtra,3352.77
+149,Kabir,2024-03-30 03:05:00,UPI,DELIVERED,Pune,Maharashtra,31047.95
+149,Kabir,2024-10-15 15:05:00,NetBanking,SHIPPED,Pune,Maharashtra,7788.87
+149,Kabir,2024-02-16 18:03:00,NetBanking,DELIVERED,Pune,Maharashtra,9068.93
+149,Kabir,2024-08-21 16:32:00,UPI,CONFIRMED,Pune,Maharashtra,3989.08
+149,Kabir,2024-09-14 12:45:00,UPI,RETURN_REQUESTED,Pune,Maharashtra,3488.73
+150,Meera,2024-09-07 16:57:00,UPI,DELIVERED,Bengaluru,Karnataka,1813.72
+151,Pranav,2024-02-24 12:08:00,Credit Card,PLACED,Jaipur,Rajasthan,165647.86
+151,Pranav,2024-02-01 05:23:00,UPI,RETURNED,Jaipur,Rajasthan,62012.15
+152,Ananya,2024-04-30 13:18:00,Debit Card,RETURN_REQUESTED,Indore,Madhya Pradesh,7866.48
+153,Dhruv,2025-02-04 19:52:00,NetBanking,SHIPPED,Gurugram,Haryana,3752.4
+154,Riya,2025-07-04 04:35:00,Debit Card,SHIPPED,Chennai,Tamil Nadu,105404.52
+154,Riya,2025-04-26 13:46:00,UPI,DELIVERED,Chennai,Tamil Nadu,1030.07
+155,Anika,2024-10-20 11:56:00,UPI,RETURNED,Mumbai,Maharashtra,60791.49
+155,Anika,2024-10-08 10:48:00,UPI,CONFIRMED,Mumbai,Maharashtra,5312.28
+156,Pranav,2025-05-13 09:04:00,NetBanking,PLACED,Gurugram,Haryana,1339.42
+157,Kavya,2024-10-17 06:11:00,NetBanking,DELIVERED,Chandigarh,Chandigarh,103217.16
+157,Kavya,2024-03-30 09:26:00,NetBanking,CANCELLED,Chandigarh,Chandigarh,7642.38
+157,Kavya,2024-01-06 13:22:00,Debit Card,PLACED,Chandigarh,Chandigarh,4214.3
+157,Kavya,2024-03-28 09:36:00,COD,DELIVERED,Chandigarh,Chandigarh,6388.31
+158,Aarav,2024-01-07 05:52:00,Credit Card,CONFIRMED,Nagpur,Maharashtra,13985.68
+158,Aarav,2025-05-29 03:44:00,Credit Card,RETURNED,Nagpur,Maharashtra,8681.68
+159,Faiz,2024-12-02 03:58:00,UPI,SHIPPED,Surat,Gujarat,13953.36
+160,Aisha,2024-03-05 20:40:00,UPI,DELIVERED,Gurugram,Haryana,1782.01
+160,Aisha,2025-08-21 13:32:00,Wallet,DELIVERED,Gurugram,Haryana,22287.28
+160,Aisha,2025-08-20 17:49:00,UPI,DELIVERED,Gurugram,Haryana,1689.86
+160,Aisha,2024-01-07 15:39:00,Debit Card,CONFIRMED,Gurugram,Haryana,8102.66
+160,Aisha,2024-12-11 04:02:00,UPI,DELIVERED,Gurugram,Haryana,15411.1
+161,Sai,2025-06-19 11:38:00,Credit Card,SHIPPED,Nagpur,Maharashtra,1045.47
+161,Sai,2025-05-20 19:03:00,UPI,DELIVERED,Nagpur,Maharashtra,17240.07
+161,Sai,2025-05-30 21:45:00,UPI,DELIVERED,Nagpur,Maharashtra,2202.42
+161,Sai,2024-12-24 19:41:00,COD,RETURNED,Nagpur,Maharashtra,20084.62
+161,Sai,2024-04-11 11:18:00,UPI,SHIPPED,Nagpur,Maharashtra,15592.96
+162,Aarohi,2024-09-02 11:42:00,UPI,DELIVERED,Gurugram,Haryana,12961.54
+163,Kavya,2025-04-20 17:26:00,UPI,PLACED,Hyderabad,Telangana,5332.08
+163,Kavya,2024-12-16 20:16:00,Wallet,DELIVERED,Hyderabad,Telangana,8594.03
+163,Kavya,2025-05-08 02:21:00,UPI,RETURNED,Hyderabad,Telangana,5751.35
+163,Kavya,2025-02-02 05:22:00,NetBanking,DELIVERED,Hyderabad,Telangana,24020.64
+163,Kavya,2024-01-15 04:57:00,Credit Card,CONFIRMED,Hyderabad,Telangana,16348.47
+163,Kavya,2024-04-26 21:26:00,UPI,DELIVERED,Hyderabad,Telangana,2522.67
+163,Kavya,2024-10-02 06:53:00,Credit Card,RETURNED,Hyderabad,Telangana,710.85
+163,Kavya,2025-03-02 05:09:00,Credit Card,RETURNED,Hyderabad,Telangana,22108.22
+164,Aisha,2025-05-21 13:30:00,Debit Card,DELIVERED,Gurugram,Haryana,16417.36
+165,Ira,2024-01-18 20:23:00,COD,RETURNED,Nagpur,Maharashtra,116877.83
+166,Virat,2025-03-18 13:17:00,UPI,DELIVERED,Jaipur,Rajasthan,8478.97
+166,Virat,2024-06-26 00:25:00,Debit Card,PLACED,Jaipur,Rajasthan,541.56
+166,Virat,2025-08-17 01:54:00,COD,SHIPPED,Jaipur,Rajasthan,4247.65
+166,Virat,2025-03-15 05:22:00,UPI,SHIPPED,Jaipur,Rajasthan,324.08
+167,Saanvi,2025-03-30 07:38:00,Credit Card,DELIVERED,Delhi,Delhi,120409.25
+167,Saanvi,2025-08-07 11:53:00,NetBanking,DELIVERED,Delhi,Delhi,30100.8
+168,Navya,2024-11-26 17:40:00,UPI,SHIPPED,Nagpur,Maharashtra,7275.35
+169,Atharv,2025-01-23 08:44:00,UPI,CONFIRMED,Ahmedabad,Gujarat,15351.34
+169,Atharv,2024-09-05 11:14:00,Credit Card,DELIVERED,Ahmedabad,Gujarat,1608.93
+170,Myra,2025-01-19 06:25:00,UPI,RETURNED,Nagpur,Maharashtra,7199.63
+170,Myra,2025-02-04 18:26:00,COD,SHIPPED,Nagpur,Maharashtra,6668.72
+170,Myra,2024-05-18 05:33:00,Debit Card,DELIVERED,Nagpur,Maharashtra,1618.36
+171,Kartik,2024-05-27 20:05:00,UPI,SHIPPED,Surat,Gujarat,22489.03
+172,Ira,2024-11-07 03:06:00,Debit Card,DELIVERED,Nagpur,Maharashtra,175590.02
+172,Ira,2024-01-29 07:18:00,UPI,CONFIRMED,Nagpur,Maharashtra,10441.36
+172,Ira,2024-04-26 05:29:00,Credit Card,SHIPPED,Nagpur,Maharashtra,49542.96
+173,Aarya,2024-07-15 21:42:00,UPI,RETURNED,Jaipur,Rajasthan,19951.86
+173,Aarya,2024-09-25 18:13:00,NetBanking,SHIPPED,Jaipur,Rajasthan,30128.2
+173,Aarya,2024-12-10 18:38:00,Debit Card,RETURNED,Jaipur,Rajasthan,2305.48
+174,Arjun,2024-03-28 06:08:00,Credit Card,DELIVERED,Kolkata,West Bengal,14194.08
+174,Arjun,2025-04-15 22:54:00,NetBanking,SHIPPED,Kolkata,West Bengal,606.18
+175,Anika,2024-02-25 10:33:00,NetBanking,RETURNED,Delhi,Delhi,7051.32
+175,Anika,2025-04-03 04:21:00,UPI,DELIVERED,Delhi,Delhi,4675.32
+176,Aarav,2024-12-21 15:39:00,Credit Card,PLACED,Surat,Gujarat,8346.44
+180,Aarav,2024-08-05 18:53:00,Credit Card,PLACED,Bengaluru,Karnataka,3627.44
+180,Aarav,2025-03-04 07:20:00,COD,SHIPPED,Bengaluru,Karnataka,4054.94
+180,Aarav,2025-07-12 08:42:00,Credit Card,DELIVERED,Bengaluru,Karnataka,3267.23
+181,Anika,2024-02-22 13:31:00,UPI,DELIVERED,Hyderabad,Telangana,10841.37
+181,Anika,2024-10-20 07:58:00,COD,DELIVERED,Hyderabad,Telangana,4299.24
+181,Anika,2025-07-07 22:02:00,Debit Card,SHIPPED,Hyderabad,Telangana,1885.76
+182,Aarya,2024-04-19 00:22:00,COD,SHIPPED,Bhopal,Madhya Pradesh,453.98
+182,Aarya,2024-01-10 03:27:00,Credit Card,CONFIRMED,Bhopal,Madhya Pradesh,116442.45
+183,Arnav,2024-12-04 03:00:00,Credit Card,DELIVERED,Visakhapatnam,Andhra Pradesh,966.68
+183,Arnav,2025-05-24 00:15:00,Credit Card,DELIVERED,Visakhapatnam,Andhra Pradesh,866.68
+184,Aarohi,2024-07-22 03:12:00,UPI,CONFIRMED,Nagpur,Maharashtra,2972.85
+185,Sara,2024-12-09 13:57:00,Debit Card,DELIVERED,Chandigarh,Chandigarh,10074.01
+186,Navya,2024-01-11 02:22:00,UPI,CONFIRMED,Indore,Madhya Pradesh,1787.7
+186,Navya,2024-01-29 22:42:00,Debit Card,SHIPPED,Indore,Madhya Pradesh,112307.52
+188,Sai,2025-04-22 21:22:00,Debit Card,SHIPPED,Patna,Bihar,16081.34
+188,Sai,2025-06-12 00:42:00,Credit Card,CANCELLED,Patna,Bihar,16668.8
+189,Ananya,2024-12-26 06:21:00,Credit Card,CONFIRMED,Kochi,Kerala,906.37
+190,Aarohi,2024-07-27 09:36:00,Credit Card,DELIVERED,Chennai,Tamil Nadu,7384.12
+191,Vihaan,2024-02-25 22:06:00,Debit Card,CONFIRMED,Jaipur,Rajasthan,18899.8
+191,Vihaan,2025-01-15 04:49:00,UPI,PLACED,Jaipur,Rajasthan,10262.34
+191,Vihaan,2025-06-15 19:16:00,Credit Card,SHIPPED,Jaipur,Rajasthan,4761.23
+192,Vihaan,2024-11-21 19:27:00,Wallet,SHIPPED,Nagpur,Maharashtra,23517.59
+192,Vihaan,2025-06-22 22:30:00,Debit Card,DELIVERED,Nagpur,Maharashtra,24181.25
+192,Vihaan,2024-09-17 17:05:00,UPI,CONFIRMED,Nagpur,Maharashtra,2839.41
+193,Rudra,2025-06-16 08:59:00,Credit Card,DELIVERED,Kolkata,West Bengal,40527.66
+193,Rudra,2025-04-28 19:42:00,UPI,DELIVERED,Kolkata,West Bengal,2436.47
+193,Rudra,2024-08-13 21:12:00,UPI,SHIPPED,Kolkata,West Bengal,4063.26
+194,Vihaan,2024-04-17 03:11:00,Credit Card,RETURN_REQUESTED,Kochi,Kerala,105286.41
+194,Vihaan,2024-09-23 21:03:00,UPI,RETURNED,Kochi,Kerala,7796.48
+194,Vihaan,2024-04-20 08:56:00,Debit Card,DELIVERED,Kochi,Kerala,4743.98
+194,Vihaan,2025-02-14 04:52:00,Debit Card,SHIPPED,Kochi,Kerala,103248.69
+195,Saanvi,2025-08-13 23:00:00,UPI,DELIVERED,Kolkata,West Bengal,887.32
+195,Saanvi,2024-07-07 21:27:00,Credit Card,DELIVERED,Kolkata,West Bengal,8093.0
+196,Anay,2025-02-15 03:39:00,NetBanking,SHIPPED,Noida,Uttar Pradesh,5539.87
+196,Anay,2025-07-29 13:51:00,UPI,SHIPPED,Noida,Uttar Pradesh,7768.92
+196,Anay,2025-05-03 18:55:00,COD,SHIPPED,Noida,Uttar Pradesh,48631.12
+197,Aquib,2025-02-11 22:37:00,Wallet,CONFIRMED,Gurugram,Haryana,3577.26
+197,Aquib,2024-10-14 07:46:00,UPI,DELIVERED,Gurugram,Haryana,2833.83
+197,Aquib,2025-05-10 20:44:00,Credit Card,DELIVERED,Gurugram,Haryana,7719.87
+197,Aquib,2025-03-04 17:31:00,Credit Card,DELIVERED,Gurugram,Haryana,4779.23
+197,Aquib,2024-11-03 02:03:00,UPI,DELIVERED,Gurugram,Haryana,597.14
+198,Anika,2024-10-17 06:14:00,UPI,DELIVERED,Nagpur,Maharashtra,11378.57
+199,Aarya,2024-06-30 22:00:00,UPI,DELIVERED,Gurugram,Haryana,2559.44
+199,Aarya,2024-05-16 10:11:00,Debit Card,RETURN_REQUESTED,Gurugram,Haryana,8655.38
+201,Aisha,2024-06-21 02:42:00,NetBanking,DELIVERED,Gurugram,Haryana,3860.31
+201,Aisha,2024-12-30 04:44:00,Debit Card,SHIPPED,Gurugram,Haryana,2522.04
+201,Aisha,2024-04-13 15:50:00,UPI,CONFIRMED,Gurugram,Haryana,3499.49
+203,Tara,2024-08-11 09:27:00,COD,DELIVERED,Jaipur,Rajasthan,7799.63
+204,Aarya,2025-05-21 21:34:00,COD,RETURNED,Chennai,Tamil Nadu,184.45
+204,Aarya,2025-03-19 06:25:00,UPI,SHIPPED,Chennai,Tamil Nadu,47416.28
+204,Aarya,2025-05-11 01:10:00,UPI,PLACED,Chennai,Tamil Nadu,7327.95
+205,Ayaan,2024-07-16 08:11:00,UPI,CANCELLED,Visakhapatnam,Andhra Pradesh,38286.97
+205,Ayaan,2024-04-10 08:58:00,UPI,SHIPPED,Visakhapatnam,Andhra Pradesh,5497.98
+207,Krish,2025-02-19 18:48:00,Debit Card,DELIVERED,Noida,Uttar Pradesh,8748.34
+207,Krish,2025-07-04 09:20:00,Credit Card,DELIVERED,Noida,Uttar Pradesh,54910.76
+207,Krish,2024-09-07 01:07:00,UPI,DELIVERED,Noida,Uttar Pradesh,5999.45
+207,Krish,2024-02-07 17:58:00,Credit Card,SHIPPED,Noida,Uttar Pradesh,3257.83
+208,Riya,2024-01-15 19:12:00,COD,DELIVERED,Pune,Maharashtra,3916.55
+208,Riya,2025-01-24 05:03:00,NetBanking,DELIVERED,Pune,Maharashtra,9223.46
+209,Ira,2025-04-01 02:54:00,Debit Card,SHIPPED,Chennai,Tamil Nadu,33480.13
+209,Ira,2025-08-04 17:55:00,UPI,SHIPPED,Chennai,Tamil Nadu,13398.72
+209,Ira,2024-01-06 08:44:00,UPI,DELIVERED,Chennai,Tamil Nadu,244495.59
+210,Pranav,2024-04-22 03:23:00,Credit Card,PLACED,Kochi,Kerala,5395.26
+210,Pranav,2025-04-05 23:53:00,Credit Card,DELIVERED,Kochi,Kerala,303.09
+211,Aarya,2025-02-04 05:07:00,UPI,DELIVERED,Nagpur,Maharashtra,1519.55
+211,Aarya,2024-04-01 03:40:00,Credit Card,DELIVERED,Nagpur,Maharashtra,2508.81
+211,Aarya,2024-04-16 15:47:00,NetBanking,RETURNED,Nagpur,Maharashtra,8849.66
+212,Ira,2025-02-24 11:22:00,NetBanking,DELIVERED,Hyderabad,Telangana,3533.88
+212,Ira,2025-02-09 00:23:00,NetBanking,DELIVERED,Hyderabad,Telangana,11669.92
+212,Ira,2025-04-02 21:07:00,Credit Card,SHIPPED,Hyderabad,Telangana,20837.28
+213,Diya,2024-01-21 00:47:00,NetBanking,DELIVERED,Chennai,Tamil Nadu,8369.27
+214,Tara,2024-06-15 04:32:00,UPI,DELIVERED,Bengaluru,Karnataka,2309.37
+214,Tara,2024-08-02 14:28:00,COD,PLACED,Bengaluru,Karnataka,4869.66
+214,Tara,2025-06-21 13:41:00,UPI,DELIVERED,Bengaluru,Karnataka,5578.64
+215,Rudra,2024-12-02 05:06:00,Credit Card,DELIVERED,Kochi,Kerala,15058.07
+215,Rudra,2025-06-21 06:42:00,COD,SHIPPED,Kochi,Kerala,319.66
+215,Rudra,2024-09-26 17:45:00,COD,DELIVERED,Kochi,Kerala,3082.22
+216,Aisha,2024-12-05 01:10:00,Debit Card,RETURNED,Chandigarh,Chandigarh,11756.52
+216,Aisha,2024-09-05 06:52:00,UPI,DELIVERED,Chandigarh,Chandigarh,58065.88
+216,Aisha,2024-08-04 07:49:00,Credit Card,DELIVERED,Chandigarh,Chandigarh,3457.5
+216,Aisha,2024-03-31 04:39:00,COD,DELIVERED,Chandigarh,Chandigarh,8348.16
+216,Aisha,2024-03-06 01:39:00,UPI,PLACED,Chandigarh,Chandigarh,3093.96
+217,Riya,2025-07-22 14:02:00,UPI,DELIVERED,Patna,Bihar,1519.56
+217,Riya,2025-06-01 19:47:00,Credit Card,SHIPPED,Patna,Bihar,4592.01
+217,Riya,2024-06-17 21:19:00,Wallet,DELIVERED,Patna,Bihar,2824.94
+217,Riya,2024-07-17 09:12:00,Credit Card,DELIVERED,Patna,Bihar,6992.84
+218,Aarohi,2025-07-01 23:22:00,UPI,DELIVERED,Gurugram,Haryana,4963.77
+220,Kartik,2024-07-05 17:51:00,UPI,RETURNED,Pune,Maharashtra,4817.07
+221,Atharv,2024-02-10 22:49:00,Debit Card,SHIPPED,Chandigarh,Chandigarh,907.35
+221,Atharv,2024-08-05 04:25:00,Credit Card,DELIVERED,Chandigarh,Chandigarh,1899.58
+221,Atharv,2025-01-03 06:47:00,UPI,RETURNED,Chandigarh,Chandigarh,5036.53
+221,Atharv,2025-05-04 09:50:00,NetBanking,RETURNED,Chandigarh,Chandigarh,3911.11
+222,Riya,2024-04-12 22:50:00,Credit Card,SHIPPED,Ahmedabad,Gujarat,2327.6
+223,Kiara,2025-01-23 00:38:00,UPI,SHIPPED,Jaipur,Rajasthan,9872.46
+223,Kiara,2024-11-21 10:12:00,UPI,CANCELLED,Jaipur,Rajasthan,1778.8
+224,Riya,2025-07-27 14:31:00,Debit Card,SHIPPED,Gurugram,Haryana,36347.78
+226,Reyansh,2024-04-21 20:10:00,UPI,CONFIRMED,Pune,Maharashtra,1525.95
+226,Reyansh,2025-01-10 16:54:00,Debit Card,SHIPPED,Pune,Maharashtra,47616.27
+226,Reyansh,2025-03-11 21:30:00,UPI,DELIVERED,Pune,Maharashtra,1444.08
+227,Arnav,2024-05-23 03:36:00,Credit Card,DELIVERED,Noida,Uttar Pradesh,2957.86
+227,Arnav,2025-03-11 12:16:00,COD,SHIPPED,Noida,Uttar Pradesh,17792.53
+228,Zara,2024-05-06 11:52:00,UPI,DELIVERED,Indore,Madhya Pradesh,30187.83
+228,Zara,2024-07-09 07:08:00,NetBanking,CONFIRMED,Indore,Madhya Pradesh,4540.27
+228,Zara,2025-06-15 11:14:00,Credit Card,DELIVERED,Indore,Madhya Pradesh,1858.87
+228,Zara,2024-06-16 09:21:00,Credit Card,SHIPPED,Indore,Madhya Pradesh,17253.02
+229,Myra,2024-08-25 23:46:00,Credit Card,CONFIRMED,Lucknow,Uttar Pradesh,10733.98
+230,Kartik,2025-01-26 16:40:00,Debit Card,DELIVERED,Gurugram,Haryana,9953.76
+231,Sara,2024-05-08 20:28:00,Debit Card,DELIVERED,Mumbai,Maharashtra,5863.37
+231,Sara,2024-06-20 01:32:00,UPI,DELIVERED,Mumbai,Maharashtra,1358.62
+231,Sara,2025-06-23 05:16:00,COD,SHIPPED,Mumbai,Maharashtra,29844.33
+232,Kabir,2024-11-07 02:10:00,UPI,DELIVERED,Nagpur,Maharashtra,3023.97
+232,Kabir,2025-06-09 06:49:00,Credit Card,CONFIRMED,Nagpur,Maharashtra,52164.78
+232,Kabir,2024-12-26 08:07:00,COD,CONFIRMED,Nagpur,Maharashtra,9084.56
+233,Aisha,2025-06-13 10:37:00,UPI,CONFIRMED,Hyderabad,Telangana,726.36
+233,Aisha,2024-02-28 11:33:00,UPI,SHIPPED,Hyderabad,Telangana,14033.66
+233,Aisha,2024-02-09 17:09:00,COD,CONFIRMED,Hyderabad,Telangana,1562.76
+233,Aisha,2025-05-20 20:58:00,UPI,DELIVERED,Hyderabad,Telangana,6551.25
+234,Aarya,2024-05-30 08:15:00,Debit Card,RETURNED,Kochi,Kerala,2166.83
+234,Aarya,2024-05-25 00:42:00,Credit Card,SHIPPED,Kochi,Kerala,365.34
+235,Aarohi,2024-07-06 14:22:00,NetBanking,DELIVERED,Patna,Bihar,728.29
+235,Aarohi,2024-05-03 18:24:00,UPI,SHIPPED,Patna,Bihar,1867.47
+235,Aarohi,2024-12-04 03:03:00,Debit Card,DELIVERED,Patna,Bihar,5371.18
+236,Aisha,2024-05-02 04:20:00,COD,DELIVERED,Bengaluru,Karnataka,9896.0
+237,Rudra,2024-12-14 02:20:00,NetBanking,DELIVERED,Visakhapatnam,Andhra Pradesh,10122.94
+237,Rudra,2025-01-25 10:47:00,UPI,SHIPPED,Visakhapatnam,Andhra Pradesh,554.39
+237,Rudra,2025-05-09 16:35:00,COD,RETURNED,Visakhapatnam,Andhra Pradesh,9602.33
+238,Mira,2024-11-09 14:18:00,UPI,DELIVERED,Chandigarh,Chandigarh,1177.82
+239,Kavya,2024-04-21 02:11:00,Debit Card,RETURNED,Noida,Uttar Pradesh,4254.44
+239,Kavya,2025-03-06 13:29:00,UPI,DELIVERED,Noida,Uttar Pradesh,7642.0
+240,Navya,2024-12-05 18:36:00,Wallet,DELIVERED,Bhopal,Madhya Pradesh,319.66
+240,Navya,2024-06-21 14:07:00,Credit Card,DELIVERED,Bhopal,Madhya Pradesh,54501.71
+240,Navya,2025-04-14 08:00:00,Wallet,DELIVERED,Bhopal,Madhya Pradesh,10491.43
+242,Kartik,2024-04-22 01:52:00,UPI,DELIVERED,Gurugram,Haryana,51752.2
+242,Kartik,2025-01-20 09:27:00,UPI,RETURNED,Gurugram,Haryana,817.95
+243,Riya,2024-08-27 16:37:00,NetBanking,DELIVERED,Hyderabad,Telangana,63701.33
+243,Riya,2024-12-22 12:25:00,UPI,DELIVERED,Hyderabad,Telangana,8022.26
+243,Riya,2024-12-29 07:51:00,Debit Card,DELIVERED,Hyderabad,Telangana,3642.84
+243,Riya,2025-05-27 11:22:00,Debit Card,DELIVERED,Hyderabad,Telangana,27954.57
+243,Riya,2024-12-29 09:53:00,Credit Card,DELIVERED,Hyderabad,Telangana,3542.66
+244,Ananya,2024-05-15 04:32:00,Debit Card,DELIVERED,Lucknow,Uttar Pradesh,4264.48
+244,Ananya,2025-05-06 09:18:00,Debit Card,RETURNED,Lucknow,Uttar Pradesh,2061.96
+245,Vihaan,2024-03-09 03:36:00,Credit Card,DELIVERED,Nagpur,Maharashtra,8279.27
+245,Vihaan,2025-05-16 08:20:00,NetBanking,DELIVERED,Nagpur,Maharashtra,1914.21
+246,Ira,2024-10-07 22:47:00,UPI,DELIVERED,Indore,Madhya Pradesh,622.24
+246,Ira,2024-04-05 15:11:00,Credit Card,CANCELLED,Indore,Madhya Pradesh,4186.99
+247,Sai,2024-10-06 19:16:00,NetBanking,DELIVERED,Delhi,Delhi,4566.6
+247,Sai,2024-03-22 11:25:00,UPI,DELIVERED,Delhi,Delhi,9915.58
+247,Sai,2024-01-21 12:27:00,COD,DELIVERED,Delhi,Delhi,56703.11
+247,Sai,2024-12-05 01:07:00,Debit Card,DELIVERED,Delhi,Delhi,12331.59
+248,Vivaan,2024-08-23 14:50:00,Credit Card,DELIVERED,Chandigarh,Chandigarh,13669.78
+248,Vivaan,2025-05-15 19:26:00,Debit Card,PLACED,Chandigarh,Chandigarh,9452.1
+249,Ishita,2024-01-29 04:09:00,NetBanking,DELIVERED,Hyderabad,Telangana,4319.64
+249,Ishita,2024-04-13 00:03:00,UPI,RETURNED,Hyderabad,Telangana,154636.64
+250,Virat,2024-02-28 11:00:00,Debit Card,SHIPPED,Noida,Uttar Pradesh,302.45
+250,Virat,2024-04-17 10:13:00,NetBanking,DELIVERED,Noida,Uttar Pradesh,8619.19
+250,Virat,2025-03-25 07:56:00,UPI,RETURNED,Noida,Uttar Pradesh,4400.27
+250,Virat,2024-05-23 23:55:00,Credit Card,DELIVERED,Noida,Uttar Pradesh,1635.9
+251,Ira,2024-08-02 23:05:00,NetBanking,DELIVERED,Chandigarh,Chandigarh,11265.85
+251,Ira,2024-11-11 20:37:00,UPI,RETURN_REQUESTED,Chandigarh,Chandigarh,647.6
+251,Ira,2025-06-05 07:01:00,Credit Card,RETURNED,Chandigarh,Chandigarh,3002.54
+251,Ira,2024-09-12 02:09:00,Credit Card,CANCELLED,Chandigarh,Chandigarh,8219.35
+251,Ira,2025-07-12 15:20:00,Wallet,SHIPPED,Chandigarh,Chandigarh,3469.35
+252,Ayaan,2025-02-18 13:25:00,Wallet,DELIVERED,Chandigarh,Chandigarh,9772.26
+252,Ayaan,2024-04-02 22:21:00,COD,RETURNED,Chandigarh,Chandigarh,570.65
+253,Kartik,2025-06-04 16:24:00,COD,SHIPPED,Kolkata,West Bengal,11121.34
+253,Kartik,2025-02-25 17:07:00,Wallet,CONFIRMED,Kolkata,West Bengal,47355.05
+253,Kartik,2025-01-11 21:17:00,UPI,DELIVERED,Kolkata,West Bengal,834.5
+254,Kiara,2025-01-05 16:48:00,UPI,DELIVERED,Chennai,Tamil Nadu,27017.44
+254,Kiara,2024-10-25 22:24:00,UPI,CANCELLED,Chennai,Tamil Nadu,162595.96
+254,Kiara,2024-01-20 12:24:00,Credit Card,SHIPPED,Chennai,Tamil Nadu,6226.47
+254,Kiara,2024-05-10 07:40:00,UPI,RETURN_REQUESTED,Chennai,Tamil Nadu,404.89
+254,Kiara,2024-07-21 05:56:00,Credit Card,SHIPPED,Chennai,Tamil Nadu,2388.56
+255,Dhruv,2024-11-20 08:24:00,UPI,DELIVERED,Nagpur,Maharashtra,11626.35
+255,Dhruv,2025-06-11 21:43:00,COD,DELIVERED,Nagpur,Maharashtra,2922.93
+256,Zara,2024-10-30 06:09:00,UPI,DELIVERED,Delhi,Delhi,18800.2
+256,Zara,2024-02-17 08:26:00,UPI,DELIVERED,Delhi,Delhi,3680.65
+256,Zara,2024-08-24 01:38:00,Credit Card,PLACED,Delhi,Delhi,4185.33
+257,Sai,2025-06-29 21:56:00,UPI,SHIPPED,Chandigarh,Chandigarh,73210.76
+257,Sai,2025-02-02 04:07:00,Wallet,DELIVERED,Chandigarh,Chandigarh,614.22
+257,Sai,2024-11-09 22:14:00,Credit Card,SHIPPED,Chandigarh,Chandigarh,11391.92
+257,Sai,2025-06-12 23:38:00,Debit Card,RETURNED,Chandigarh,Chandigarh,4765.65
+258,Ananya,2024-01-20 03:42:00,COD,SHIPPED,Noida,Uttar Pradesh,10117.81
+258,Ananya,2024-04-22 14:36:00,NetBanking,SHIPPED,Noida,Uttar Pradesh,24962.57
+258,Ananya,2024-01-23 05:38:00,UPI,RETURNED,Noida,Uttar Pradesh,2088.05
+258,Ananya,2024-04-13 16:51:00,NetBanking,PLACED,Noida,Uttar Pradesh,97527.78
+258,Ananya,2024-08-03 11:57:00,Debit Card,DELIVERED,Noida,Uttar Pradesh,5878.13
+258,Ananya,2024-04-16 01:22:00,COD,DELIVERED,Noida,Uttar Pradesh,5770.64
+259,Arnav,2024-04-18 04:14:00,COD,DELIVERED,Mumbai,Maharashtra,6627.53
+260,Atharv,2024-02-15 14:01:00,UPI,DELIVERED,Pune,Maharashtra,8148.62
+260,Atharv,2025-06-22 08:08:00,Debit Card,DELIVERED,Pune,Maharashtra,2266.13
+260,Atharv,2025-03-26 18:20:00,UPI,DELIVERED,Pune,Maharashtra,2629.9
+261,Pranav,2025-01-18 15:33:00,Credit Card,SHIPPED,Chandigarh,Chandigarh,8995.79
+261,Pranav,2025-08-18 22:22:00,COD,DELIVERED,Chandigarh,Chandigarh,2387.19
+261,Pranav,2024-03-26 04:57:00,UPI,DELIVERED,Chandigarh,Chandigarh,3949.62
+262,Mira,2024-06-16 13:52:00,UPI,RETURNED,Visakhapatnam,Andhra Pradesh,8448.01
+263,Sai,2025-07-13 20:05:00,NetBanking,RETURNED,Patna,Bihar,6749.13
+263,Sai,2024-06-01 12:14:00,UPI,DELIVERED,Patna,Bihar,18360.34
+263,Sai,2024-03-16 22:44:00,UPI,RETURNED,Patna,Bihar,6021.35
+264,Aadhya,2025-02-27 21:12:00,UPI,DELIVERED,Nagpur,Maharashtra,20014.63
+264,Aadhya,2024-12-12 18:27:00,Wallet,DELIVERED,Nagpur,Maharashtra,12548.23
+264,Aadhya,2024-06-06 13:07:00,COD,PLACED,Nagpur,Maharashtra,765.1
+264,Aadhya,2024-11-16 09:45:00,Credit Card,SHIPPED,Nagpur,Maharashtra,2629.3
+265,Vihaan,2024-08-07 00:27:00,UPI,DELIVERED,Noida,Uttar Pradesh,4243.63
+266,Sai,2024-10-27 21:34:00,Credit Card,DELIVERED,Lucknow,Uttar Pradesh,6056.84
+266,Sai,2025-06-08 04:13:00,COD,CONFIRMED,Lucknow,Uttar Pradesh,11460.9
+266,Sai,2025-04-16 01:05:00,UPI,CANCELLED,Lucknow,Uttar Pradesh,15891.08
+266,Sai,2024-09-23 05:24:00,Credit Card,RETURNED,Lucknow,Uttar Pradesh,11711.32
+267,Ishita,2024-08-24 09:47:00,Credit Card,CONFIRMED,Kolkata,West Bengal,1605.69
+268,Tara,2024-04-15 12:44:00,UPI,CONFIRMED,Bengaluru,Karnataka,7069.53
+268,Tara,2024-09-17 03:12:00,Debit Card,DELIVERED,Bengaluru,Karnataka,7381.71
+268,Tara,2025-08-03 07:03:00,NetBanking,SHIPPED,Bengaluru,Karnataka,28746.85
+268,Tara,2025-01-27 10:36:00,NetBanking,DELIVERED,Bengaluru,Karnataka,107760.48
+269,Sai,2024-08-18 05:04:00,UPI,CONFIRMED,Kochi,Kerala,29239.02
+270,Vihaan,2024-12-02 18:56:00,Credit Card,DELIVERED,Bhopal,Madhya Pradesh,13362.75
+271,Navya,2024-02-13 19:28:00,Wallet,DELIVERED,Patna,Bihar,16979.43
+271,Navya,2024-07-15 02:37:00,UPI,RETURNED,Patna,Bihar,5299.82
+271,Navya,2024-02-22 19:30:00,Debit Card,DELIVERED,Patna,Bihar,106572.12
+272,Anay,2025-05-15 02:33:00,NetBanking,DELIVERED,Indore,Madhya Pradesh,14324.25
+272,Anay,2025-05-20 16:27:00,UPI,PLACED,Indore,Madhya Pradesh,6672.66
+273,Meera,2024-04-22 21:35:00,Credit Card,SHIPPED,Bhopal,Madhya Pradesh,3036.54
+273,Meera,2025-07-18 19:56:00,NetBanking,DELIVERED,Bhopal,Madhya Pradesh,7219.24
+274,Tara,2025-07-30 02:19:00,UPI,DELIVERED,Nagpur,Maharashtra,2719.56
+274,Tara,2025-01-30 06:30:00,UPI,DELIVERED,Nagpur,Maharashtra,2352.03
+274,Tara,2024-06-06 01:08:00,UPI,DELIVERED,Nagpur,Maharashtra,1533.24
+275,Virat,2024-08-23 12:05:00,Credit Card,DELIVERED,Lucknow,Uttar Pradesh,1728.75
+275,Virat,2025-08-04 01:51:00,UPI,DELIVERED,Lucknow,Uttar Pradesh,3187.6
+277,Ayaan,2025-07-04 06:00:00,Credit Card,CANCELLED,Visakhapatnam,Andhra Pradesh,5992.04
+278,Aarav,2025-08-13 01:36:00,Credit Card,DELIVERED,Visakhapatnam,Andhra Pradesh,303.68
+278,Aarav,2025-02-08 13:07:00,UPI,CONFIRMED,Visakhapatnam,Andhra Pradesh,26351.82
+279,Mira,2024-09-24 00:49:00,UPI,CANCELLED,Noida,Uttar Pradesh,5809.66
+279,Mira,2024-06-24 13:42:00,UPI,SHIPPED,Noida,Uttar Pradesh,6882.82
+279,Mira,2024-09-30 20:34:00,UPI,CANCELLED,Noida,Uttar Pradesh,14539.0
+279,Mira,2024-10-11 06:41:00,Debit Card,PLACED,Noida,Uttar Pradesh,840.49
+280,Anay,2024-12-17 09:46:00,Credit Card,DELIVERED,Pune,Maharashtra,4657.46
+280,Anay,2024-04-20 14:14:00,Credit Card,PLACED,Pune,Maharashtra,16278.87
+282,Ira,2024-05-21 03:28:00,UPI,DELIVERED,Nagpur,Maharashtra,13480.59
+283,Ananya,2024-10-28 14:47:00,NetBanking,DELIVERED,Jaipur,Rajasthan,4827.26
+283,Ananya,2025-06-04 05:01:00,Credit Card,PLACED,Jaipur,Rajasthan,18973.47
+284,Meera,2024-03-05 20:03:00,Credit Card,DELIVERED,Patna,Bihar,7535.53
+285,Rudra,2025-05-15 12:34:00,UPI,RETURN_REQUESTED,Mumbai,Maharashtra,20207.82
+286,Pranav,2024-02-06 20:40:00,UPI,CONFIRMED,Lucknow,Uttar Pradesh,36771.55
+287,Arjun,2024-07-14 12:23:00,UPI,DELIVERED,Kolkata,West Bengal,8577.5
+288,Aarav,2024-01-09 04:54:00,UPI,DELIVERED,Delhi,Delhi,17738.77
+288,Aarav,2024-11-26 08:43:00,UPI,DELIVERED,Delhi,Delhi,486.12
+288,Aarav,2024-10-12 15:18:00,COD,DELIVERED,Delhi,Delhi,36697.26
+288,Aarav,2025-07-08 20:42:00,UPI,DELIVERED,Delhi,Delhi,52943.6
+289,Zara,2025-05-10 01:03:00,UPI,RETURNED,Indore,Madhya Pradesh,10566.65
+289,Zara,2025-03-22 21:56:00,UPI,DELIVERED,Indore,Madhya Pradesh,2330.81
+289,Zara,2025-06-14 16:37:00,Credit Card,RETURNED,Indore,Madhya Pradesh,22777.99
+292,Arnav,2024-06-24 08:06:00,Credit Card,RETURNED,Pune,Maharashtra,13561.84
+292,Arnav,2025-02-12 02:14:00,UPI,DELIVERED,Pune,Maharashtra,45192.43
+292,Arnav,2024-03-21 04:50:00,Credit Card,CONFIRMED,Pune,Maharashtra,2292.95
+294,Kavya,2024-11-13 18:28:00,COD,DELIVERED,Pune,Maharashtra,5082.12
+295,Aditya,2024-02-28 02:47:00,UPI,RETURNED,Pune,Maharashtra,16458.06
+295,Aditya,2025-07-15 23:26:00,Credit Card,CONFIRMED,Pune,Maharashtra,5619.4
+296,Kartik,2024-08-12 22:05:00,UPI,PLACED,Kolkata,West Bengal,26145.11
+297,Pranav,2025-03-30 02:51:00,Credit Card,SHIPPED,Mumbai,Maharashtra,3090.21
+298,Meera,2025-06-08 11:08:00,Debit Card,RETURN_REQUESTED,Delhi,Delhi,5940.03
+298,Meera,2024-12-22 18:39:00,NetBanking,CONFIRMED,Delhi,Delhi,24644.84
+299,Ishaan,2024-04-18 23:47:00,Debit Card,RETURNED,Surat,Gujarat,2402.98
+299,Ishaan,2024-02-03 21:46:00,UPI,DELIVERED,Surat,Gujarat,290.6
+300,Dhruv,2025-01-28 02:56:00,UPI,DELIVERED,Surat,Gujarat,10119.51
+300,Dhruv,2024-11-09 11:39:00,NetBanking,RETURNED,Surat,Gujarat,1485.01
+302,Diya,2024-02-16 15:55:00,COD,SHIPPED,Indore,Madhya Pradesh,20882.34
+302,Diya,2024-05-11 23:04:00,UPI,RETURNED,Indore,Madhya Pradesh,5036.19
+302,Diya,2025-05-16 03:33:00,UPI,DELIVERED,Indore,Madhya Pradesh,2247.88
+302,Diya,2025-06-25 19:23:00,UPI,SHIPPED,Indore,Madhya Pradesh,47334.15
+302,Diya,2024-10-13 03:14:00,UPI,SHIPPED,Indore,Madhya Pradesh,10095.45
+303,Saanvi,2024-01-27 03:38:00,UPI,SHIPPED,Delhi,Delhi,24954.07
+304,Atharv,2024-01-10 16:29:00,Credit Card,DELIVERED,Ahmedabad,Gujarat,65162.5
+305,Arjun,2024-03-10 18:50:00,NetBanking,RETURNED,Patna,Bihar,12237.29
+305,Arjun,2024-06-10 00:09:00,UPI,CONFIRMED,Patna,Bihar,5178.18
+305,Arjun,2024-06-15 17:27:00,UPI,CANCELLED,Patna,Bihar,6021.35
+305,Arjun,2024-12-26 15:37:00,UPI,RETURN_REQUESTED,Patna,Bihar,164233.26
+306,Vivaan,2024-06-25 20:47:00,UPI,DELIVERED,Kolkata,West Bengal,6201.88
+306,Vivaan,2024-05-05 03:09:00,UPI,RETURN_REQUESTED,Kolkata,West Bengal,2006.14
+306,Vivaan,2024-10-05 10:39:00,UPI,DELIVERED,Kolkata,West Bengal,7268.04
+307,Aarya,2024-12-02 00:58:00,Debit Card,DELIVERED,Lucknow,Uttar Pradesh,35219.6
+307,Aarya,2024-01-11 14:24:00,Credit Card,DELIVERED,Lucknow,Uttar Pradesh,11217.17
+307,Aarya,2025-05-26 03:45:00,Credit Card,RETURNED,Lucknow,Uttar Pradesh,2453.2
+307,Aarya,2024-07-03 00:35:00,Credit Card,SHIPPED,Lucknow,Uttar Pradesh,4726.92
+308,Pranav,2025-03-25 03:40:00,Credit Card,CONFIRMED,Gurugram,Haryana,16123.01
+308,Pranav,2024-03-07 20:21:00,UPI,DELIVERED,Gurugram,Haryana,56638.18
+308,Pranav,2024-07-04 21:27:00,UPI,DELIVERED,Gurugram,Haryana,2834.34
+308,Pranav,2024-11-21 10:10:00,Wallet,RETURNED,Gurugram,Haryana,876.93
+308,Pranav,2024-11-30 18:24:00,UPI,PLACED,Gurugram,Haryana,11292.09
+309,Aadhya,2024-12-17 09:23:00,Wallet,DELIVERED,Lucknow,Uttar Pradesh,1361.94
+309,Aadhya,2024-05-03 01:37:00,Wallet,RETURN_REQUESTED,Lucknow,Uttar Pradesh,4592.01
+310,Krish,2025-03-15 10:23:00,Debit Card,SHIPPED,Indore,Madhya Pradesh,1845.98
+310,Krish,2025-01-12 10:05:00,COD,RETURN_REQUESTED,Indore,Madhya Pradesh,6753.7
+310,Krish,2024-06-26 16:10:00,UPI,CANCELLED,Indore,Madhya Pradesh,5785.08
+310,Krish,2024-03-20 22:29:00,Credit Card,DELIVERED,Indore,Madhya Pradesh,3835.9
+310,Krish,2025-05-12 06:44:00,Debit Card,CONFIRMED,Indore,Madhya Pradesh,2437.15
+310,Krish,2025-06-27 11:25:00,UPI,SHIPPED,Indore,Madhya Pradesh,12691.72
+310,Krish,2024-08-07 05:40:00,NetBanking,DELIVERED,Indore,Madhya Pradesh,5224.31
+311,Saanvi,2024-08-02 00:12:00,Wallet,DELIVERED,Chennai,Tamil Nadu,303.68
+311,Saanvi,2024-10-05 06:11:00,UPI,DELIVERED,Chennai,Tamil Nadu,817.95
+311,Saanvi,2024-11-15 10:27:00,Credit Card,PLACED,Chennai,Tamil Nadu,24136.19
+312,Ira,2025-08-10 12:24:00,UPI,DELIVERED,Chandigarh,Chandigarh,12371.7
+312,Ira,2024-07-11 02:09:00,UPI,SHIPPED,Chandigarh,Chandigarh,4495.52
+312,Ira,2025-01-23 21:43:00,Debit Card,DELIVERED,Chandigarh,Chandigarh,77471.14
+312,Ira,2024-01-13 03:19:00,Credit Card,SHIPPED,Chandigarh,Chandigarh,609.25
+313,Ananya,2024-03-17 04:36:00,Debit Card,DELIVERED,Gurugram,Haryana,19907.92
+313,Ananya,2025-05-27 09:25:00,Debit Card,DELIVERED,Gurugram,Haryana,855.32
+313,Ananya,2024-02-06 11:04:00,COD,DELIVERED,Gurugram,Haryana,1272.14
+314,Dhruv,2024-03-23 17:30:00,COD,SHIPPED,Hyderabad,Telangana,6199.19
+315,Anika,2024-03-07 05:32:00,UPI,RETURN_REQUESTED,Chennai,Tamil Nadu,365.34
+315,Anika,2024-12-03 04:38:00,Credit Card,RETURNED,Chennai,Tamil Nadu,7102.64
+316,Virat,2024-05-28 10:42:00,Wallet,RETURNED,Indore,Madhya Pradesh,971.66
+316,Virat,2024-10-07 11:17:00,Debit Card,DELIVERED,Indore,Madhya Pradesh,4481.21
+317,Zara,2024-04-15 00:14:00,UPI,PLACED,Gurugram,Haryana,2277.02
+318,Ayaan,2024-10-23 20:10:00,UPI,RETURNED,Ahmedabad,Gujarat,647.6
+318,Ayaan,2024-04-13 10:41:00,COD,DELIVERED,Ahmedabad,Gujarat,15447.06
+318,Ayaan,2025-02-18 12:25:00,UPI,DELIVERED,Ahmedabad,Gujarat,11340.77
+319,Virat,2024-12-10 13:28:00,Credit Card,DELIVERED,Mumbai,Maharashtra,47819.75
+319,Virat,2025-05-03 23:19:00,COD,DELIVERED,Mumbai,Maharashtra,2499.63
+319,Virat,2025-05-12 08:05:00,UPI,CONFIRMED,Mumbai,Maharashtra,28319.75
+319,Virat,2025-03-20 13:50:00,Debit Card,DELIVERED,Mumbai,Maharashtra,12102.4
+320,Srikant,2025-02-23 12:14:00,COD,SHIPPED,Chandigarh,Chandigarh,56703.11
+320,Srikant,2025-01-12 01:04:00,COD,DELIVERED,Chandigarh,Chandigarh,13877.4
+321,Ananya,2024-03-19 06:43:00,Credit Card,RETURN_REQUESTED,Kolkata,West Bengal,5018.51
+322,Sara,2024-01-14 00:50:00,UPI,DELIVERED,Gurugram,Haryana,9473.12
+322,Sara,2024-09-23 17:10:00,COD,SHIPPED,Gurugram,Haryana,116801.36
+322,Sara,2024-01-24 20:37:00,COD,CONFIRMED,Gurugram,Haryana,10579.25
+323,Meera,2024-06-01 07:07:00,UPI,PLACED,Pune,Maharashtra,3596.36
+323,Meera,2025-02-05 19:22:00,Credit Card,SHIPPED,Pune,Maharashtra,133834.48
+324,Diya,2025-03-31 11:00:00,UPI,CONFIRMED,Noida,Uttar Pradesh,23468.8
+324,Diya,2025-08-05 12:13:00,COD,RETURNED,Noida,Uttar Pradesh,195.0
+324,Diya,2025-08-20 07:40:00,UPI,DELIVERED,Noida,Uttar Pradesh,4669.04
+324,Diya,2024-09-10 01:17:00,Debit Card,CANCELLED,Noida,Uttar Pradesh,51032.8
+325,Arjun,2024-08-27 00:17:00,Credit Card,DELIVERED,Noida,Uttar Pradesh,4080.65
+325,Arjun,2024-07-16 22:23:00,Credit Card,DELIVERED,Noida,Uttar Pradesh,8055.5
+325,Arjun,2024-03-22 02:46:00,UPI,CONFIRMED,Noida,Uttar Pradesh,17700.62
+325,Arjun,2025-04-06 05:11:00,UPI,RETURNED,Noida,Uttar Pradesh,4231.96
+326,Navya,2025-03-09 14:44:00,COD,DELIVERED,Delhi,Delhi,34677.49
+326,Navya,2024-12-07 04:51:00,COD,RETURNED,Delhi,Delhi,22973.51
+327,Ananya,2025-08-10 17:12:00,UPI,DELIVERED,Indore,Madhya Pradesh,59479.98
+328,Virat,2025-01-14 22:49:00,UPI,DELIVERED,Bengaluru,Karnataka,75742.28
+329,Saba,2025-06-24 15:12:00,NetBanking,DELIVERED,Visakhapatnam,Andhra Pradesh,6927.82
+329,Saba,2025-03-12 09:09:00,UPI,DELIVERED,Visakhapatnam,Andhra Pradesh,40154.76
+330,Krish,2024-02-10 16:50:00,Wallet,DELIVERED,Bengaluru,Karnataka,11472.97
+330,Krish,2025-06-11 01:59:00,Credit Card,DELIVERED,Bengaluru,Karnataka,10541.5
+330,Krish,2024-02-22 09:07:00,UPI,SHIPPED,Bengaluru,Karnataka,4619.31
+330,Krish,2024-02-14 04:15:00,NetBanking,SHIPPED,Bengaluru,Karnataka,25044.92
+331,Aisha,2024-05-06 20:35:00,UPI,RETURNED,Mumbai,Maharashtra,4693.91
+331,Aisha,2025-02-16 03:46:00,Credit Card,DELIVERED,Mumbai,Maharashtra,3642.84
+331,Aisha,2025-03-31 01:58:00,COD,RETURNED,Mumbai,Maharashtra,11124.2
+332,Ayaan,2025-07-12 03:02:00,UPI,DELIVERED,Lucknow,Uttar Pradesh,15798.48
+333,Kiara,2024-04-19 10:38:00,UPI,SHIPPED,Bhopal,Madhya Pradesh,5756.61
+333,Kiara,2024-03-21 02:59:00,Wallet,DELIVERED,Bhopal,Madhya Pradesh,12024.5
+334,Ira,2024-03-20 17:01:00,COD,CANCELLED,Indore,Madhya Pradesh,5992.04
+334,Ira,2024-05-07 06:42:00,COD,SHIPPED,Indore,Madhya Pradesh,3521.27
+335,Meera,2024-08-15 09:12:00,Credit Card,SHIPPED,Nagpur,Maharashtra,170612.85
+336,Ayaan,2024-06-16 18:08:00,Credit Card,DELIVERED,Visakhapatnam,Andhra Pradesh,5352.31
+336,Ayaan,2024-02-20 07:07:00,Debit Card,SHIPPED,Visakhapatnam,Andhra Pradesh,4555.81
+337,Sai,2024-05-28 01:15:00,Credit Card,CANCELLED,Ahmedabad,Gujarat,1138.51
+337,Sai,2024-09-13 07:30:00,UPI,SHIPPED,Ahmedabad,Gujarat,1340.2
+337,Sai,2025-03-25 05:08:00,UPI,DELIVERED,Ahmedabad,Gujarat,7615.38
+337,Sai,2024-05-06 13:09:00,Debit Card,SHIPPED,Ahmedabad,Gujarat,1881.01
+337,Sai,2024-09-03 05:32:00,Debit Card,DELIVERED,Ahmedabad,Gujarat,3216.98
+338,Kartik,2025-08-02 21:43:00,Debit Card,SHIPPED,Bengaluru,Karnataka,2308.44
+338,Kartik,2024-12-29 10:14:00,Credit Card,DELIVERED,Bengaluru,Karnataka,12055.53
+338,Kartik,2024-07-06 22:36:00,UPI,DELIVERED,Bengaluru,Karnataka,1551.95
+338,Kartik,2024-04-12 23:24:00,UPI,SHIPPED,Bengaluru,Karnataka,3666.92
+338,Kartik,2024-06-12 00:35:00,UPI,DELIVERED,Bengaluru,Karnataka,18769.28
+338,Kartik,2025-08-03 20:38:00,COD,CONFIRMED,Bengaluru,Karnataka,58745.62
+338,Kartik,2024-11-06 12:04:00,COD,DELIVERED,Bengaluru,Karnataka,10241.35
+339,Vihaan,2025-01-12 08:51:00,COD,DELIVERED,Pune,Maharashtra,42146.02
+340,Arnav,2025-05-10 03:17:00,Debit Card,DELIVERED,Pune,Maharashtra,104121.63
+340,Arnav,2024-03-04 07:31:00,UPI,RETURNED,Pune,Maharashtra,4369.46
+340,Arnav,2025-03-11 03:11:00,Credit Card,SHIPPED,Pune,Maharashtra,12834.77
+341,Kavya,2025-05-01 05:38:00,Credit Card,SHIPPED,Kochi,Kerala,4157.5
+341,Kavya,2025-08-19 01:06:00,UPI,DELIVERED,Kochi,Kerala,11426.12
+341,Kavya,2024-02-05 19:20:00,UPI,RETURNED,Kochi,Kerala,6672.56
+341,Kavya,2024-09-29 03:26:00,Credit Card,DELIVERED,Kochi,Kerala,3146.78
+341,Kavya,2025-07-28 04:05:00,Debit Card,CONFIRMED,Kochi,Kerala,2191.99
+341,Kavya,2024-05-21 19:16:00,NetBanking,SHIPPED,Kochi,Kerala,1210.32
+342,Kiara,2025-04-04 04:55:00,Debit Card,CONFIRMED,Chennai,Tamil Nadu,11403.31
+342,Kiara,2024-03-09 22:46:00,Debit Card,SHIPPED,Chennai,Tamil Nadu,4971.94
+344,Aisha,2025-04-20 15:29:00,UPI,DELIVERED,Chandigarh,Chandigarh,4065.45
+344,Aisha,2024-05-06 21:08:00,COD,DELIVERED,Chandigarh,Chandigarh,16913.5
+344,Aisha,2024-04-01 14:55:00,NetBanking,DELIVERED,Chandigarh,Chandigarh,667.6
+344,Aisha,2024-03-17 18:57:00,Debit Card,DELIVERED,Chandigarh,Chandigarh,174.2
+345,Kabir,2024-09-04 00:57:00,COD,PLACED,Jaipur,Rajasthan,6009.99
+345,Kabir,2024-11-20 22:10:00,COD,DELIVERED,Jaipur,Rajasthan,7016.83
+346,Sai,2025-06-29 06:28:00,Debit Card,CANCELLED,Visakhapatnam,Andhra Pradesh,3496.09
+346,Sai,2025-04-09 12:20:00,Credit Card,DELIVERED,Visakhapatnam,Andhra Pradesh,64.27
+348,Kartik,2025-08-13 00:23:00,NetBanking,PLACED,Mumbai,Maharashtra,15264.45
+348,Kartik,2025-05-02 10:48:00,UPI,DELIVERED,Mumbai,Maharashtra,2468.43
+348,Kartik,2024-10-19 07:12:00,Debit Card,DELIVERED,Mumbai,Maharashtra,51752.2
+349,Kabir,2025-01-01 06:05:00,NetBanking,DELIVERED,Ahmedabad,Gujarat,34485.28
+349,Kabir,2025-04-10 17:45:00,NetBanking,RETURNED,Ahmedabad,Gujarat,13409.63
+349,Kabir,2025-03-23 20:18:00,Debit Card,RETURNED,Ahmedabad,Gujarat,1399.28
+349,Kabir,2024-06-02 16:18:00,Debit Card,DELIVERED,Ahmedabad,Gujarat,5809.66
+350,Saanvi,2024-05-10 10:48:00,NetBanking,RETURN_REQUESTED,Kolkata,West Bengal,1702.97
+350,Saanvi,2024-02-13 19:41:00,UPI,DELIVERED,Kolkata,West Bengal,18348.63
+350,Saanvi,2024-07-23 08:08:00,Credit Card,SHIPPED,Kolkata,West Bengal,60663.54

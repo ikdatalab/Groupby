@@ -1,0 +1,1555 @@
+product_id,order_id,product_name,category,brand,quantity,unit_price,discount,sell_price,line_total
+1,90,FunBox Toys Item 1,Toys,FunBox,1,1943.24,0.0,1943.24,1943.24
+1,346,FunBox Toys Item 1,Toys,FunBox,1,1943.24,0.0,1943.24,1943.24
+1,370,FunBox Toys Item 1,Toys,FunBox,1,1943.24,0.0,1943.24,1943.24
+1,373,FunBox Toys Item 1,Toys,FunBox,1,1943.24,291.49,1651.75,1651.75
+1,428,FunBox Toys Item 1,Toys,FunBox,1,1943.24,0.0,1943.24,1943.24
+1,498,FunBox Toys Item 1,Toys,FunBox,3,1943.24,0.0,1943.24,5829.72
+1,518,FunBox Toys Item 1,Toys,FunBox,3,1943.24,0.0,1943.24,5829.72
+1,666,FunBox Toys Item 1,Toys,FunBox,1,1943.24,291.49,1651.75,1651.75
+1,670,FunBox Toys Item 1,Toys,FunBox,1,1943.24,194.32,1748.92,1748.92
+1,760,FunBox Toys Item 1,Toys,FunBox,2,1943.24,388.65,1554.59,3109.18
+1,773,FunBox Toys Item 1,Toys,FunBox,1,1943.24,388.65,1554.59,1554.59
+2,95,EthnoWear Fashion Item 2,Fashion,EthnoWear,2,2499.63,0.0,2499.63,4999.26
+2,112,EthnoWear Fashion Item 2,Fashion,EthnoWear,1,2499.63,0.0,2499.63,2499.63
+2,393,EthnoWear Fashion Item 2,Fashion,EthnoWear,1,2499.63,249.96,2249.67,2249.67
+2,475,EthnoWear Fashion Item 2,Fashion,EthnoWear,2,2499.63,0.0,2499.63,4999.26
+2,532,EthnoWear Fashion Item 2,Fashion,EthnoWear,1,2499.63,249.96,2249.67,2249.67
+2,538,EthnoWear Fashion Item 2,Fashion,EthnoWear,1,2499.63,0.0,2499.63,2499.63
+2,542,EthnoWear Fashion Item 2,Fashion,EthnoWear,1,2499.63,0.0,2499.63,2499.63
+2,711,EthnoWear Fashion Item 2,Fashion,EthnoWear,1,2499.63,124.98,2374.65,2374.65
+2,732,EthnoWear Fashion Item 2,Fashion,EthnoWear,2,2499.63,0.0,2499.63,4999.26
+3,54,StreetLine Fashion Item 3,Fashion,StreetLine,1,1710.85,171.08,1539.77,1539.77
+3,64,StreetLine Fashion Item 3,Fashion,StreetLine,2,1710.85,0.0,1710.85,3421.7
+3,84,StreetLine Fashion Item 3,Fashion,StreetLine,1,1710.85,85.54,1625.31,1625.31
+3,306,StreetLine Fashion Item 3,Fashion,StreetLine,2,1710.85,85.54,1625.31,3250.62
+3,329,StreetLine Fashion Item 3,Fashion,StreetLine,3,1710.85,171.08,1539.77,4619.31
+3,342,StreetLine Fashion Item 3,Fashion,StreetLine,1,1710.85,342.17,1368.68,1368.68
+3,488,StreetLine Fashion Item 3,Fashion,StreetLine,1,1710.85,0.0,1710.85,1710.85
+3,737,StreetLine Fashion Item 3,Fashion,StreetLine,3,1710.85,0.0,1710.85,5132.55
+3,777,StreetLine Fashion Item 3,Fashion,StreetLine,4,1710.85,342.17,1368.68,5474.72
+4,37,Harvest Grocery Item 4,Grocery,Harvest,4,906.86,0.0,906.86,3627.44
+4,56,Harvest Grocery Item 4,Grocery,Harvest,1,906.86,226.72,680.14,680.14
+4,141,Harvest Grocery Item 4,Grocery,Harvest,1,906.86,0.0,906.86,906.86
+4,220,Harvest Grocery Item 4,Grocery,Harvest,1,906.86,90.69,816.17,816.17
+4,228,Harvest Grocery Item 4,Grocery,Harvest,2,906.86,90.69,816.17,1632.34
+4,311,Harvest Grocery Item 4,Grocery,Harvest,1,906.86,0.0,906.86,906.86
+4,348,Harvest Grocery Item 4,Grocery,Harvest,1,906.86,45.34,861.52,861.52
+4,456,Harvest Grocery Item 4,Grocery,Harvest,2,906.86,45.34,861.52,1723.04
+4,561,Harvest Grocery Item 4,Grocery,Harvest,3,906.86,226.72,680.14,2040.42
+4,589,Harvest Grocery Item 4,Grocery,Harvest,1,906.86,136.03,770.83,770.83
+4,640,Harvest Grocery Item 4,Grocery,Harvest,1,906.86,45.34,861.52,861.52
+4,644,Harvest Grocery Item 4,Grocery,Harvest,2,906.86,0.0,906.86,1813.72
+4,657,Harvest Grocery Item 4,Grocery,Harvest,1,906.86,45.34,861.52,861.52
+4,688,Harvest Grocery Item 4,Grocery,Harvest,2,906.86,136.03,770.83,1541.66
+4,748,Harvest Grocery Item 4,Grocery,Harvest,1,906.86,45.34,861.52,861.52
+4,755,Harvest Grocery Item 4,Grocery,Harvest,3,906.86,0.0,906.86,2720.58
+5,24,Aura Beauty Item 5,Beauty,Aura,1,1339.42,66.97,1272.45,1272.45
+5,80,Aura Beauty Item 5,Beauty,Aura,1,1339.42,200.91,1138.51,1138.51
+5,130,Aura Beauty Item 5,Beauty,Aura,2,1339.42,66.97,1272.45,2544.9
+5,217,Aura Beauty Item 5,Beauty,Aura,2,1339.42,0.0,1339.42,2678.84
+5,264,Aura Beauty Item 5,Beauty,Aura,1,1339.42,66.97,1272.45,1272.45
+5,297,Aura Beauty Item 5,Beauty,Aura,1,1339.42,200.91,1138.51,1138.51
+5,332,Aura Beauty Item 5,Beauty,Aura,1,1339.42,0.0,1339.42,1339.42
+5,344,Aura Beauty Item 5,Beauty,Aura,1,1339.42,66.97,1272.45,1272.45
+5,349,Aura Beauty Item 5,Beauty,Aura,2,1339.42,0.0,1339.42,2678.84
+5,484,Aura Beauty Item 5,Beauty,Aura,1,1339.42,0.0,1339.42,1339.42
+5,493,Aura Beauty Item 5,Beauty,Aura,1,1339.42,200.91,1138.51,1138.51
+5,510,Aura Beauty Item 5,Beauty,Aura,1,1339.42,0.0,1339.42,1339.42
+5,514,Aura Beauty Item 5,Beauty,Aura,2,1339.42,200.91,1138.51,2277.02
+5,563,Aura Beauty Item 5,Beauty,Aura,1,1339.42,0.0,1339.42,1339.42
+5,630,Aura Beauty Item 5,Beauty,Aura,1,1339.42,0.0,1339.42,1339.42
+5,753,Aura Beauty Item 5,Beauty,Aura,2,1339.42,0.0,1339.42,2678.84
+6,23,Nova Electronics Item 6,Electronics,Nova,2,5977.15,1195.43,4781.72,9563.44
+6,118,Nova Electronics Item 6,Electronics,Nova,2,5977.15,0.0,5977.15,11954.3
+6,173,Nova Electronics Item 6,Electronics,Nova,1,5977.15,0.0,5977.15,5977.15
+6,174,Nova Electronics Item 6,Electronics,Nova,1,5977.15,0.0,5977.15,5977.15
+6,179,Nova Electronics Item 6,Electronics,Nova,2,5977.15,0.0,5977.15,11954.3
+6,254,Nova Electronics Item 6,Electronics,Nova,1,5977.15,597.72,5379.43,5379.43
+6,269,Nova Electronics Item 6,Electronics,Nova,1,5977.15,896.57,5080.58,5080.58
+6,334,Nova Electronics Item 6,Electronics,Nova,1,5977.15,298.86,5678.29,5678.29
+6,383,Nova Electronics Item 6,Electronics,Nova,1,5977.15,298.86,5678.29,5678.29
+6,389,Nova Electronics Item 6,Electronics,Nova,1,5977.15,0.0,5977.15,5977.15
+6,410,Nova Electronics Item 6,Electronics,Nova,1,5977.15,597.72,5379.43,5379.43
+6,490,Nova Electronics Item 6,Electronics,Nova,1,5977.15,0.0,5977.15,5977.15
+6,596,Nova Electronics Item 6,Electronics,Nova,2,5977.15,597.72,5379.43,10758.86
+6,617,Nova Electronics Item 6,Electronics,Nova,4,5977.15,0.0,5977.15,23908.6
+6,629,Nova Electronics Item 6,Electronics,Nova,1,5977.15,597.72,5379.43,5379.43
+6,634,Nova Electronics Item 6,Electronics,Nova,2,5977.15,0.0,5977.15,11954.3
+6,673,Nova Electronics Item 6,Electronics,Nova,3,5977.15,597.72,5379.43,16138.29
+6,705,Nova Electronics Item 6,Electronics,Nova,2,5977.15,0.0,5977.15,11954.3
+6,713,Nova Electronics Item 6,Electronics,Nova,2,5977.15,0.0,5977.15,11954.3
+7,46,Nova Electronics Item 7,Electronics,Nova,3,7796.48,0.0,7796.48,23389.44
+7,131,Nova Electronics Item 7,Electronics,Nova,2,7796.48,779.65,7016.83,14033.66
+7,194,Nova Electronics Item 7,Electronics,Nova,1,7796.48,0.0,7796.48,7796.48
+7,227,Nova Electronics Item 7,Electronics,Nova,1,7796.48,0.0,7796.48,7796.48
+7,268,Nova Electronics Item 7,Electronics,Nova,3,7796.48,779.65,7016.83,21050.49
+7,278,Nova Electronics Item 7,Electronics,Nova,1,7796.48,389.82,7406.66,7406.66
+7,344,Nova Electronics Item 7,Electronics,Nova,1,7796.48,0.0,7796.48,7796.48
+7,367,Nova Electronics Item 7,Electronics,Nova,3,7796.48,389.82,7406.66,22219.98
+7,376,Nova Electronics Item 7,Electronics,Nova,1,7796.48,389.82,7406.66,7406.66
+7,388,Nova Electronics Item 7,Electronics,Nova,1,7796.48,0.0,7796.48,7796.48
+7,392,Nova Electronics Item 7,Electronics,Nova,2,7796.48,1169.47,6627.01,13254.02
+7,399,Nova Electronics Item 7,Electronics,Nova,1,7796.48,389.82,7406.66,7406.66
+7,421,Nova Electronics Item 7,Electronics,Nova,1,7796.48,0.0,7796.48,7796.48
+7,444,Nova Electronics Item 7,Electronics,Nova,2,7796.48,1559.3,6237.18,12474.36
+7,478,Nova Electronics Item 7,Electronics,Nova,1,7796.48,0.0,7796.48,7796.48
+7,519,Nova Electronics Item 7,Electronics,Nova,1,7796.48,0.0,7796.48,7796.48
+7,531,Nova Electronics Item 7,Electronics,Nova,1,7796.48,389.82,7406.66,7406.66
+7,646,Nova Electronics Item 7,Electronics,Nova,1,7796.48,389.82,7406.66,7406.66
+7,706,Nova Electronics Item 7,Electronics,Nova,2,7796.48,0.0,7796.48,15592.96
+7,741,Nova Electronics Item 7,Electronics,Nova,1,7796.48,779.65,7016.83,7016.83
+7,799,Nova Electronics Item 7,Electronics,Nova,1,7796.48,779.65,7016.83,7016.83
+8,35,PageTurner Books Item 8,Books,PageTurner,2,323.8,0.0,323.8,647.6
+8,139,PageTurner Books Item 8,Books,PageTurner,3,323.8,0.0,323.8,971.4
+8,163,PageTurner Books Item 8,Books,PageTurner,1,323.8,48.57,275.23,275.23
+8,191,PageTurner Books Item 8,Books,PageTurner,2,323.8,0.0,323.8,647.6
+8,314,PageTurner Books Item 8,Books,PageTurner,1,323.8,0.0,323.8,323.8
+8,360,PageTurner Books Item 8,Books,PageTurner,1,323.8,0.0,323.8,323.8
+8,525,PageTurner Books Item 8,Books,PageTurner,1,323.8,32.38,291.42,291.42
+8,667,PageTurner Books Item 8,Books,PageTurner,1,323.8,80.95,242.85,242.85
+8,767,PageTurner Books Item 8,Books,PageTurner,3,323.8,0.0,323.8,971.4
+8,777,PageTurner Books Item 8,Books,PageTurner,1,323.8,0.0,323.8,323.8
+9,14,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,1,2186.91,0.0,2186.91,2186.91
+9,53,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,1,2186.91,0.0,2186.91,2186.91
+9,108,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,1,2186.91,328.04,1858.87,1858.87
+9,140,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,4,2186.91,0.0,2186.91,8747.64
+9,287,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,1,2186.91,109.35,2077.56,2077.56
+9,301,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,1,2186.91,0.0,2186.91,2186.91
+9,314,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,1,2186.91,0.0,2186.91,2186.91
+9,414,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,2,2186.91,0.0,2186.91,4373.82
+9,474,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,1,2186.91,0.0,2186.91,2186.91
+9,507,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,3,2186.91,0.0,2186.91,6560.73
+9,591,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,1,2186.91,0.0,2186.91,2186.91
+9,597,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,1,2186.91,0.0,2186.91,2186.91
+9,761,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,4,2186.91,109.35,2077.56,8310.24
+9,767,HomeEase Home & Kitchen Item 9,Home & Kitchen,HomeEase,1,2186.91,328.04,1858.87,1858.87
+10,1,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,1,834.5,41.72,792.78,792.78
+10,64,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,1,834.5,125.18,709.32,709.32
+10,135,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,1,834.5,83.45,751.05,751.05
+10,256,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,1,834.5,0.0,834.5,834.5
+10,257,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,1,834.5,166.9,667.6,667.6
+10,355,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,2,834.5,41.72,792.78,1585.56
+10,370,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,4,834.5,125.18,709.32,2837.28
+10,458,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,1,834.5,125.18,709.32,709.32
+10,593,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,1,834.5,0.0,834.5,834.5
+10,711,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,2,834.5,41.72,792.78,1585.56
+10,723,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,4,834.5,0.0,834.5,3338.0
+10,736,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,2,834.5,41.72,792.78,1585.56
+10,746,UrbanWeave Fashion Item 10,Fashion,UrbanWeave,4,834.5,0.0,834.5,3338.0
+11,77,PlayHub Toys Item 11,Toys,PlayHub,2,2389.6,0.0,2389.6,4779.2
+11,93,PlayHub Toys Item 11,Toys,PlayHub,1,2389.6,238.96,2150.64,2150.64
+11,176,PlayHub Toys Item 11,Toys,PlayHub,1,2389.6,0.0,2389.6,2389.6
+11,202,PlayHub Toys Item 11,Toys,PlayHub,2,2389.6,119.48,2270.12,4540.24
+11,216,PlayHub Toys Item 11,Toys,PlayHub,2,2389.6,119.48,2270.12,4540.24
+11,254,PlayHub Toys Item 11,Toys,PlayHub,3,2389.6,0.0,2389.6,7168.8
+11,267,PlayHub Toys Item 11,Toys,PlayHub,1,2389.6,119.48,2270.12,2270.12
+11,330,PlayHub Toys Item 11,Toys,PlayHub,1,2389.6,0.0,2389.6,2389.6
+11,374,PlayHub Toys Item 11,Toys,PlayHub,1,2389.6,0.0,2389.6,2389.6
+11,471,PlayHub Toys Item 11,Toys,PlayHub,2,2389.6,0.0,2389.6,4779.2
+11,483,PlayHub Toys Item 11,Toys,PlayHub,1,2389.6,358.44,2031.16,2031.16
+11,579,PlayHub Toys Item 11,Toys,PlayHub,1,2389.6,0.0,2389.6,2389.6
+11,585,PlayHub Toys Item 11,Toys,PlayHub,1,2389.6,0.0,2389.6,2389.6
+11,729,PlayHub Toys Item 11,Toys,PlayHub,3,2389.6,0.0,2389.6,7168.8
+12,150,LitWorld Books Item 12,Books,LitWorld,3,303.09,30.31,272.78,818.34
+12,319,LitWorld Books Item 12,Books,LitWorld,2,303.09,60.62,242.47,484.94
+12,527,LitWorld Books Item 12,Books,LitWorld,2,303.09,0.0,303.09,606.18
+12,573,LitWorld Books Item 12,Books,LitWorld,3,303.09,0.0,303.09,909.27
+12,600,LitWorld Books Item 12,Books,LitWorld,2,303.09,0.0,303.09,606.18
+12,682,LitWorld Books Item 12,Books,LitWorld,1,303.09,0.0,303.09,303.09
+12,698,LitWorld Books Item 12,Books,LitWorld,1,303.09,0.0,303.09,303.09
+12,779,LitWorld Books Item 12,Books,LitWorld,2,303.09,15.15,287.94,575.88
+13,76,HomeEase Home & Kitchen Item 13,Home & Kitchen,HomeEase,1,4779.23,238.96,4540.27,4540.27
+13,279,HomeEase Home & Kitchen Item 13,Home & Kitchen,HomeEase,1,4779.23,0.0,4779.23,4779.23
+13,386,HomeEase Home & Kitchen Item 13,Home & Kitchen,HomeEase,1,4779.23,0.0,4779.23,4779.23
+13,402,HomeEase Home & Kitchen Item 13,Home & Kitchen,HomeEase,2,4779.23,0.0,4779.23,9558.46
+13,403,HomeEase Home & Kitchen Item 13,Home & Kitchen,HomeEase,1,4779.23,0.0,4779.23,4779.23
+13,515,HomeEase Home & Kitchen Item 13,Home & Kitchen,HomeEase,2,4779.23,0.0,4779.23,9558.46
+13,552,HomeEase Home & Kitchen Item 13,Home & Kitchen,HomeEase,2,4779.23,238.96,4540.27,9080.54
+13,635,HomeEase Home & Kitchen Item 13,Home & Kitchen,HomeEase,1,4779.23,955.85,3823.38,3823.38
+13,680,HomeEase Home & Kitchen Item 13,Home & Kitchen,HomeEase,1,4779.23,0.0,4779.23,4779.23
+13,745,HomeEase Home & Kitchen Item 13,Home & Kitchen,HomeEase,1,4779.23,238.96,4540.27,4540.27
+13,780,HomeEase Home & Kitchen Item 13,Home & Kitchen,HomeEase,2,4779.23,238.96,4540.27,9080.54
+14,38,FunBox Toys Item 14,Toys,FunBox,2,1431.35,71.57,1359.78,2719.56
+14,43,FunBox Toys Item 14,Toys,FunBox,3,1431.35,71.57,1359.78,4079.34
+14,177,FunBox Toys Item 14,Toys,FunBox,3,1431.35,0.0,1431.35,4294.05
+14,361,FunBox Toys Item 14,Toys,FunBox,1,1431.35,143.14,1288.21,1288.21
+14,382,FunBox Toys Item 14,Toys,FunBox,3,1431.35,214.7,1216.65,3649.95
+14,384,FunBox Toys Item 14,Toys,FunBox,2,1431.35,214.7,1216.65,2433.3
+14,506,FunBox Toys Item 14,Toys,FunBox,2,1431.35,0.0,1431.35,2862.7
+14,515,FunBox Toys Item 14,Toys,FunBox,2,1431.35,214.7,1216.65,2433.3
+14,575,FunBox Toys Item 14,Toys,FunBox,1,1431.35,71.57,1359.78,1359.78
+14,608,FunBox Toys Item 14,Toys,FunBox,1,1431.35,0.0,1431.35,1431.35
+14,692,FunBox Toys Item 14,Toys,FunBox,2,1431.35,0.0,1431.35,2862.7
+14,693,FunBox Toys Item 14,Toys,FunBox,1,1431.35,143.14,1288.21,1288.21
+15,50,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,1,7739.41,773.94,6965.47,6965.47
+15,90,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,2,7739.41,0.0,7739.41,15478.82
+15,190,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,1,7739.41,0.0,7739.41,7739.41
+15,206,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,1,7739.41,0.0,7739.41,7739.41
+15,245,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,3,7739.41,1547.88,6191.53,18574.59
+15,407,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,1,7739.41,0.0,7739.41,7739.41
+15,431,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,2,7739.41,0.0,7739.41,15478.82
+15,492,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,3,7739.41,1547.88,6191.53,18574.59
+15,630,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,2,7739.41,386.97,7352.44,14704.88
+15,660,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,4,7739.41,0.0,7739.41,30957.64
+15,688,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,1,7739.41,0.0,7739.41,7739.41
+15,747,HomeEase Home & Kitchen Item 15,Home & Kitchen,HomeEase,4,7739.41,1934.85,5804.56,23218.24
+16,98,FreshMart Grocery Item 16,Grocery,FreshMart,1,225.65,0.0,225.65,225.65
+16,162,FreshMart Grocery Item 16,Grocery,FreshMart,3,225.65,45.13,180.52,541.56
+16,210,FreshMart Grocery Item 16,Grocery,FreshMart,1,225.65,0.0,225.65,225.65
+16,230,FreshMart Grocery Item 16,Grocery,FreshMart,1,225.65,22.56,203.09,203.09
+16,255,FreshMart Grocery Item 16,Grocery,FreshMart,1,225.65,11.28,214.37,214.37
+16,266,FreshMart Grocery Item 16,Grocery,FreshMart,1,225.65,22.56,203.09,203.09
+16,359,FreshMart Grocery Item 16,Grocery,FreshMart,1,225.65,33.85,191.8,191.8
+16,432,FreshMart Grocery Item 16,Grocery,FreshMart,1,225.65,11.28,214.37,214.37
+16,523,FreshMart Grocery Item 16,Grocery,FreshMart,1,225.65,0.0,225.65,225.65
+16,530,FreshMart Grocery Item 16,Grocery,FreshMart,1,225.65,0.0,225.65,225.65
+16,650,FreshMart Grocery Item 16,Grocery,FreshMart,2,225.65,0.0,225.65,451.3
+16,763,FreshMart Grocery Item 16,Grocery,FreshMart,1,225.65,33.85,191.8,191.8
+17,44,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,3,1028.38,102.84,925.54,2776.62
+17,86,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,1,1028.38,257.1,771.28,771.28
+17,238,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,1,1028.38,102.84,925.54,925.54
+17,270,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,4,1028.38,0.0,1028.38,4113.52
+17,366,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,4,1028.38,154.26,874.12,3496.48
+17,433,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,1,1028.38,0.0,1028.38,1028.38
+17,436,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,1,1028.38,205.68,822.7,822.7
+17,526,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,1,1028.38,0.0,1028.38,1028.38
+17,559,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,2,1028.38,102.84,925.54,1851.08
+17,606,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,2,1028.38,0.0,1028.38,2056.76
+17,639,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,1,1028.38,51.42,976.96,976.96
+17,755,KitchenPro Home & Kitchen Item 17,Home & Kitchen,KitchenPro,3,1028.38,0.0,1028.38,3085.14
+18,233,Apex Electronics Item 18,Electronics,Apex,1,24603.63,1230.18,23373.45,23373.45
+18,238,Apex Electronics Item 18,Electronics,Apex,1,24603.63,0.0,24603.63,24603.63
+18,348,Apex Electronics Item 18,Electronics,Apex,3,24603.63,6150.91,18452.72,55358.16
+18,611,Apex Electronics Item 18,Electronics,Apex,3,24603.63,4920.73,19682.9,59048.7
+18,646,Apex Electronics Item 18,Electronics,Apex,1,24603.63,3690.54,20913.09,20913.09
+18,756,Apex Electronics Item 18,Electronics,Apex,1,24603.63,2460.36,22143.27,22143.27
+19,1,VoltX Electronics Item 19,Electronics,VoltX,1,39864.36,5979.65,33884.71,33884.71
+19,104,VoltX Electronics Item 19,Electronics,VoltX,1,39864.36,9966.09,29898.27,29898.27
+19,220,VoltX Electronics Item 19,Electronics,VoltX,3,39864.36,0.0,39864.36,119593.08
+19,290,VoltX Electronics Item 19,Electronics,VoltX,2,39864.36,1993.22,37871.14,75742.28
+19,632,VoltX Electronics Item 19,Electronics,VoltX,1,39864.36,0.0,39864.36,39864.36
+19,714,VoltX Electronics Item 19,Electronics,VoltX,1,39864.36,3986.44,35877.92,35877.92
+20,110,FunBox Toys Item 20,Toys,FunBox,2,1303.51,65.18,1238.33,2476.66
+20,124,FunBox Toys Item 20,Toys,FunBox,1,1303.51,260.7,1042.81,1042.81
+20,144,FunBox Toys Item 20,Toys,FunBox,2,1303.51,130.35,1173.16,2346.32
+20,153,FunBox Toys Item 20,Toys,FunBox,3,1303.51,195.53,1107.98,3323.94
+20,181,FunBox Toys Item 20,Toys,FunBox,1,1303.51,0.0,1303.51,1303.51
+20,221,FunBox Toys Item 20,Toys,FunBox,1,1303.51,0.0,1303.51,1303.51
+20,273,FunBox Toys Item 20,Toys,FunBox,1,1303.51,65.18,1238.33,1238.33
+20,343,FunBox Toys Item 20,Toys,FunBox,1,1303.51,0.0,1303.51,1303.51
+20,350,FunBox Toys Item 20,Toys,FunBox,1,1303.51,0.0,1303.51,1303.51
+20,479,FunBox Toys Item 20,Toys,FunBox,3,1303.51,0.0,1303.51,3910.53
+20,487,FunBox Toys Item 20,Toys,FunBox,1,1303.51,0.0,1303.51,1303.51
+20,515,FunBox Toys Item 20,Toys,FunBox,1,1303.51,0.0,1303.51,1303.51
+20,594,FunBox Toys Item 20,Toys,FunBox,2,1303.51,65.18,1238.33,2476.66
+20,602,FunBox Toys Item 20,Toys,FunBox,1,1303.51,0.0,1303.51,1303.51
+20,610,FunBox Toys Item 20,Toys,FunBox,1,1303.51,0.0,1303.51,1303.51
+20,613,FunBox Toys Item 20,Toys,FunBox,2,1303.51,195.53,1107.98,2215.96
+20,776,FunBox Toys Item 20,Toys,FunBox,2,1303.51,0.0,1303.51,2607.02
+21,48,ToyJoy Toys Item 21,Toys,ToyJoy,1,1911.72,0.0,1911.72,1911.72
+21,67,ToyJoy Toys Item 21,Toys,ToyJoy,1,1911.72,0.0,1911.72,1911.72
+21,75,ToyJoy Toys Item 21,Toys,ToyJoy,1,1911.72,0.0,1911.72,1911.72
+21,111,ToyJoy Toys Item 21,Toys,ToyJoy,1,1911.72,0.0,1911.72,1911.72
+21,125,ToyJoy Toys Item 21,Toys,ToyJoy,2,1911.72,0.0,1911.72,3823.44
+21,128,ToyJoy Toys Item 21,Toys,ToyJoy,1,1911.72,382.34,1529.38,1529.38
+21,204,ToyJoy Toys Item 21,Toys,ToyJoy,1,1911.72,0.0,1911.72,1911.72
+21,233,ToyJoy Toys Item 21,Toys,ToyJoy,1,1911.72,286.76,1624.96,1624.96
+21,401,ToyJoy Toys Item 21,Toys,ToyJoy,3,1911.72,191.17,1720.55,5161.65
+21,648,ToyJoy Toys Item 21,Toys,ToyJoy,4,1911.72,0.0,1911.72,7646.88
+21,762,ToyJoy Toys Item 21,Toys,ToyJoy,1,1911.72,382.34,1529.38,1529.38
+22,116,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,1025.23,5809.66,5809.66
+22,167,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,1025.23,5809.66,5809.66
+22,171,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,683.49,6151.4,6151.4
+22,301,ActiveX Sports Item 22,Sports,ActiveX,3,6834.89,0.0,6834.89,20504.67
+22,336,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,0.0,6834.89,6834.89
+22,412,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,683.49,6151.4,6151.4
+22,493,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,341.74,6493.15,6493.15
+22,532,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,0.0,6834.89,6834.89
+22,562,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,1025.23,5809.66,5809.66
+22,687,ActiveX Sports Item 22,Sports,ActiveX,2,6834.89,0.0,6834.89,13669.78
+22,704,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,0.0,6834.89,6834.89
+22,718,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,0.0,6834.89,6834.89
+22,760,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,341.74,6493.15,6493.15
+22,796,ActiveX Sports Item 22,Sports,ActiveX,1,6834.89,1025.23,5809.66,5809.66
+23,14,PageTurner Books Item 23,Books,PageTurner,1,311.12,0.0,311.12,311.12
+23,118,PageTurner Books Item 23,Books,PageTurner,1,311.12,0.0,311.12,311.12
+23,129,PageTurner Books Item 23,Books,PageTurner,3,311.12,0.0,311.12,933.36
+23,150,PageTurner Books Item 23,Books,PageTurner,1,311.12,46.67,264.45,264.45
+23,260,PageTurner Books Item 23,Books,PageTurner,2,311.12,0.0,311.12,622.24
+23,275,PageTurner Books Item 23,Books,PageTurner,2,311.12,0.0,311.12,622.24
+23,310,PageTurner Books Item 23,Books,PageTurner,1,311.12,0.0,311.12,311.12
+23,425,PageTurner Books Item 23,Books,PageTurner,1,311.12,15.56,295.56,295.56
+23,427,PageTurner Books Item 23,Books,PageTurner,1,311.12,0.0,311.12,311.12
+23,443,PageTurner Books Item 23,Books,PageTurner,1,311.12,0.0,311.12,311.12
+23,553,PageTurner Books Item 23,Books,PageTurner,1,311.12,46.67,264.45,264.45
+23,598,PageTurner Books Item 23,Books,PageTurner,1,311.12,0.0,311.12,311.12
+23,607,PageTurner Books Item 23,Books,PageTurner,1,311.12,0.0,311.12,311.12
+23,741,PageTurner Books Item 23,Books,PageTurner,1,311.12,0.0,311.12,311.12
+23,782,PageTurner Books Item 23,Books,PageTurner,1,311.12,0.0,311.12,311.12
+24,11,FreshMart Grocery Item 24,Grocery,FreshMart,4,231.07,0.0,231.07,924.28
+24,22,FreshMart Grocery Item 24,Grocery,FreshMart,3,231.07,11.55,219.52,658.56
+24,32,FreshMart Grocery Item 24,Grocery,FreshMart,1,231.07,34.66,196.41,196.41
+24,77,FreshMart Grocery Item 24,Grocery,FreshMart,4,231.07,11.55,219.52,878.08
+24,171,FreshMart Grocery Item 24,Grocery,FreshMart,1,231.07,11.55,219.52,219.52
+24,198,FreshMart Grocery Item 24,Grocery,FreshMart,1,231.07,23.11,207.96,207.96
+24,248,FreshMart Grocery Item 24,Grocery,FreshMart,2,231.07,34.66,196.41,392.82
+24,250,FreshMart Grocery Item 24,Grocery,FreshMart,1,231.07,23.11,207.96,207.96
+24,314,FreshMart Grocery Item 24,Grocery,FreshMart,2,231.07,0.0,231.07,462.14
+24,417,FreshMart Grocery Item 24,Grocery,FreshMart,2,231.07,0.0,231.07,462.14
+24,480,FreshMart Grocery Item 24,Grocery,FreshMart,1,231.07,23.11,207.96,207.96
+24,583,FreshMart Grocery Item 24,Grocery,FreshMart,1,231.07,0.0,231.07,231.07
+24,676,FreshMart Grocery Item 24,Grocery,FreshMart,1,231.07,0.0,231.07,231.07
+24,692,FreshMart Grocery Item 24,Grocery,FreshMart,1,231.07,11.55,219.52,219.52
+24,696,FreshMart Grocery Item 24,Grocery,FreshMart,2,231.07,23.11,207.96,415.92
+24,708,FreshMart Grocery Item 24,Grocery,FreshMart,1,231.07,0.0,231.07,231.07
+25,95,VoltX Electronics Item 25,Electronics,VoltX,1,51752.2,7762.83,43989.37,43989.37
+25,283,VoltX Electronics Item 25,Electronics,VoltX,2,51752.2,0.0,51752.2,103504.4
+25,309,VoltX Electronics Item 25,Electronics,VoltX,3,51752.2,12938.05,38814.15,116442.45
+25,414,VoltX Electronics Item 25,Electronics,VoltX,2,51752.2,5175.22,46576.98,93153.96
+25,435,VoltX Electronics Item 25,Electronics,VoltX,1,51752.2,5175.22,46576.98,46576.98
+25,485,VoltX Electronics Item 25,Electronics,VoltX,1,51752.2,0.0,51752.2,51752.2
+25,503,VoltX Electronics Item 25,Electronics,VoltX,1,51752.2,5175.22,46576.98,46576.98
+25,547,VoltX Electronics Item 25,Electronics,VoltX,1,51752.2,0.0,51752.2,51752.2
+25,552,VoltX Electronics Item 25,Electronics,VoltX,2,51752.2,5175.22,46576.98,93153.96
+25,572,VoltX Electronics Item 25,Electronics,VoltX,1,51752.2,5175.22,46576.98,46576.98
+25,612,VoltX Electronics Item 25,Electronics,VoltX,1,51752.2,0.0,51752.2,51752.2
+25,734,VoltX Electronics Item 25,Electronics,VoltX,1,51752.2,0.0,51752.2,51752.2
+25,794,VoltX Electronics Item 25,Electronics,VoltX,1,51752.2,0.0,51752.2,51752.2
+26,63,HerbalPure Beauty Item 26,Beauty,HerbalPure,1,1980.01,198.0,1782.01,1782.01
+26,81,HerbalPure Beauty Item 26,Beauty,HerbalPure,3,1980.01,0.0,1980.01,5940.03
+26,265,HerbalPure Beauty Item 26,Beauty,HerbalPure,1,1980.01,198.0,1782.01,1782.01
+26,283,HerbalPure Beauty Item 26,Beauty,HerbalPure,1,1980.01,198.0,1782.01,1782.01
+26,292,HerbalPure Beauty Item 26,Beauty,HerbalPure,1,1980.01,0.0,1980.01,1980.01
+26,377,HerbalPure Beauty Item 26,Beauty,HerbalPure,1,1980.01,0.0,1980.01,1980.01
+26,406,HerbalPure Beauty Item 26,Beauty,HerbalPure,4,1980.01,99.0,1881.01,7524.04
+26,411,HerbalPure Beauty Item 26,Beauty,HerbalPure,2,1980.01,0.0,1980.01,3960.02
+26,578,HerbalPure Beauty Item 26,Beauty,HerbalPure,3,1980.01,0.0,1980.01,5940.03
+26,590,HerbalPure Beauty Item 26,Beauty,HerbalPure,1,1980.01,99.0,1881.01,1881.01
+26,715,HerbalPure Beauty Item 26,Beauty,HerbalPure,1,1980.01,0.0,1980.01,1980.01
+26,775,HerbalPure Beauty Item 26,Beauty,HerbalPure,1,1980.01,495.0,1485.01,1485.01
+26,794,HerbalPure Beauty Item 26,Beauty,HerbalPure,1,1980.01,0.0,1980.01,1980.01
+27,7,HerbalPure Beauty Item 27,Beauty,HerbalPure,1,2541.06,0.0,2541.06,2541.06
+27,10,HerbalPure Beauty Item 27,Beauty,HerbalPure,2,2541.06,0.0,2541.06,5082.12
+27,190,HerbalPure Beauty Item 27,Beauty,HerbalPure,1,2541.06,508.21,2032.85,2032.85
+27,197,HerbalPure Beauty Item 27,Beauty,HerbalPure,1,2541.06,0.0,2541.06,2541.06
+27,223,HerbalPure Beauty Item 27,Beauty,HerbalPure,3,2541.06,0.0,2541.06,7623.18
+27,411,HerbalPure Beauty Item 27,Beauty,HerbalPure,1,2541.06,0.0,2541.06,2541.06
+27,509,HerbalPure Beauty Item 27,Beauty,HerbalPure,1,2541.06,0.0,2541.06,2541.06
+27,560,HerbalPure Beauty Item 27,Beauty,HerbalPure,1,2541.06,0.0,2541.06,2541.06
+27,765,HerbalPure Beauty Item 27,Beauty,HerbalPure,3,2541.06,254.11,2286.95,6860.85
+27,794,HerbalPure Beauty Item 27,Beauty,HerbalPure,1,2541.06,0.0,2541.06,2541.06
+28,103,GlowCraft Beauty Item 28,Beauty,GlowCraft,1,971.66,97.17,874.49,874.49
+28,149,GlowCraft Beauty Item 28,Beauty,GlowCraft,2,971.66,145.75,825.91,1651.82
+28,270,GlowCraft Beauty Item 28,Beauty,GlowCraft,2,971.66,0.0,971.66,1943.32
+28,275,GlowCraft Beauty Item 28,Beauty,GlowCraft,2,971.66,97.17,874.49,1748.98
+28,303,GlowCraft Beauty Item 28,Beauty,GlowCraft,1,971.66,97.17,874.49,874.49
+28,447,GlowCraft Beauty Item 28,Beauty,GlowCraft,1,971.66,0.0,971.66,971.66
+28,456,GlowCraft Beauty Item 28,Beauty,GlowCraft,1,971.66,97.17,874.49,874.49
+28,534,GlowCraft Beauty Item 28,Beauty,GlowCraft,2,971.66,0.0,971.66,1943.32
+28,574,GlowCraft Beauty Item 28,Beauty,GlowCraft,2,971.66,48.58,923.08,1846.16
+28,645,GlowCraft Beauty Item 28,Beauty,GlowCraft,2,971.66,97.17,874.49,1748.98
+28,707,GlowCraft Beauty Item 28,Beauty,GlowCraft,1,971.66,97.17,874.49,874.49
+29,12,PlayHub Toys Item 29,Toys,PlayHub,2,1499.87,149.99,1349.88,2699.76
+29,34,PlayHub Toys Item 29,Toys,PlayHub,1,1499.87,299.97,1199.9,1199.9
+29,224,PlayHub Toys Item 29,Toys,PlayHub,3,1499.87,299.97,1199.9,3599.7
+29,266,PlayHub Toys Item 29,Toys,PlayHub,1,1499.87,0.0,1499.87,1499.87
+29,324,PlayHub Toys Item 29,Toys,PlayHub,1,1499.87,74.99,1424.88,1424.88
+29,470,PlayHub Toys Item 29,Toys,PlayHub,1,1499.87,149.99,1349.88,1349.88
+29,513,PlayHub Toys Item 29,Toys,PlayHub,2,1499.87,224.98,1274.89,2549.78
+29,528,PlayHub Toys Item 29,Toys,PlayHub,3,1499.87,224.98,1274.89,3824.67
+29,656,PlayHub Toys Item 29,Toys,PlayHub,1,1499.87,149.99,1349.88,1349.88
+29,678,PlayHub Toys Item 29,Toys,PlayHub,1,1499.87,0.0,1499.87,1499.87
+29,714,PlayHub Toys Item 29,Toys,PlayHub,1,1499.87,0.0,1499.87,1499.87
+29,721,PlayHub Toys Item 29,Toys,PlayHub,1,1499.87,74.99,1424.88,1424.88
+29,784,PlayHub Toys Item 29,Toys,PlayHub,1,1499.87,0.0,1499.87,1499.87
+30,22,Apex Electronics Item 30,Electronics,Apex,1,11217.17,0.0,11217.17,11217.17
+30,59,Apex Electronics Item 30,Electronics,Apex,3,11217.17,2804.29,8412.88,25238.64
+30,60,Apex Electronics Item 30,Electronics,Apex,1,11217.17,1121.72,10095.45,10095.45
+30,71,Apex Electronics Item 30,Electronics,Apex,1,11217.17,0.0,11217.17,11217.17
+30,100,Apex Electronics Item 30,Electronics,Apex,1,11217.17,2804.29,8412.88,8412.88
+30,181,Apex Electronics Item 30,Electronics,Apex,1,11217.17,0.0,11217.17,11217.17
+30,189,Apex Electronics Item 30,Electronics,Apex,3,11217.17,0.0,11217.17,33651.51
+30,214,Apex Electronics Item 30,Electronics,Apex,1,11217.17,0.0,11217.17,11217.17
+30,242,Apex Electronics Item 30,Electronics,Apex,2,11217.17,0.0,11217.17,22434.34
+30,273,Apex Electronics Item 30,Electronics,Apex,3,11217.17,0.0,11217.17,33651.51
+30,422,Apex Electronics Item 30,Electronics,Apex,1,11217.17,560.86,10656.31,10656.31
+30,531,Apex Electronics Item 30,Electronics,Apex,2,11217.17,560.86,10656.31,21312.62
+30,531,Apex Electronics Item 30,Electronics,Apex,1,11217.17,1682.58,9534.59,9534.59
+30,640,Apex Electronics Item 30,Electronics,Apex,1,11217.17,0.0,11217.17,11217.17
+30,685,Apex Electronics Item 30,Electronics,Apex,1,11217.17,0.0,11217.17,11217.17
+30,702,Apex Electronics Item 30,Electronics,Apex,1,11217.17,1121.72,10095.45,10095.45
+30,703,Apex Electronics Item 30,Electronics,Apex,2,11217.17,0.0,11217.17,22434.34
+30,758,Apex Electronics Item 30,Electronics,Apex,4,11217.17,0.0,11217.17,44868.68
+30,762,Apex Electronics Item 30,Electronics,Apex,2,11217.17,0.0,11217.17,22434.34
+30,763,Apex Electronics Item 30,Electronics,Apex,2,11217.17,0.0,11217.17,22434.34
+31,141,Harvest Grocery Item 31,Grocery,Harvest,1,716.77,71.68,645.09,645.09
+31,165,Harvest Grocery Item 31,Grocery,Harvest,2,716.77,0.0,716.77,1433.54
+31,358,Harvest Grocery Item 31,Grocery,Harvest,2,716.77,71.68,645.09,1290.18
+31,461,Harvest Grocery Item 31,Grocery,Harvest,1,716.77,107.52,609.25,609.25
+31,509,Harvest Grocery Item 31,Grocery,Harvest,1,716.77,0.0,716.77,716.77
+31,537,Harvest Grocery Item 31,Grocery,Harvest,4,716.77,107.52,609.25,2437.0
+31,637,Harvest Grocery Item 31,Grocery,Harvest,2,716.77,71.68,645.09,1290.18
+31,660,Harvest Grocery Item 31,Grocery,Harvest,1,716.77,179.19,537.58,537.58
+31,662,Harvest Grocery Item 31,Grocery,Harvest,1,716.77,107.52,609.25,609.25
+31,784,Harvest Grocery Item 31,Grocery,Harvest,3,716.77,35.84,680.93,2042.79
+31,792,Harvest Grocery Item 31,Grocery,Harvest,1,716.77,0.0,716.77,716.77
+32,5,ToyJoy Toys Item 32,Toys,ToyJoy,4,204.94,20.49,184.45,737.8
+32,126,ToyJoy Toys Item 32,Toys,ToyJoy,2,204.94,10.25,194.69,389.38
+32,208,ToyJoy Toys Item 32,Toys,ToyJoy,2,204.94,10.25,194.69,389.38
+32,245,ToyJoy Toys Item 32,Toys,ToyJoy,1,204.94,10.25,194.69,194.69
+32,292,ToyJoy Toys Item 32,Toys,ToyJoy,1,204.94,40.99,163.95,163.95
+32,345,ToyJoy Toys Item 32,Toys,ToyJoy,1,204.94,20.49,184.45,184.45
+32,375,ToyJoy Toys Item 32,Toys,ToyJoy,2,204.94,20.49,184.45,368.9
+32,403,ToyJoy Toys Item 32,Toys,ToyJoy,1,204.94,30.74,174.2,174.2
+32,504,ToyJoy Toys Item 32,Toys,ToyJoy,1,204.94,30.74,174.2,174.2
+32,517,ToyJoy Toys Item 32,Toys,ToyJoy,1,204.94,0.0,204.94,204.94
+32,549,ToyJoy Toys Item 32,Toys,ToyJoy,3,204.94,0.0,204.94,614.82
+32,592,ToyJoy Toys Item 32,Toys,ToyJoy,1,204.94,0.0,204.94,204.94
+32,607,ToyJoy Toys Item 32,Toys,ToyJoy,1,204.94,0.0,204.94,204.94
+32,629,ToyJoy Toys Item 32,Toys,ToyJoy,4,204.94,0.0,204.94,819.76
+32,661,ToyJoy Toys Item 32,Toys,ToyJoy,2,204.94,30.74,174.2,348.4
+32,671,ToyJoy Toys Item 32,Toys,ToyJoy,4,204.94,40.99,163.95,655.8
+33,26,FunBox Toys Item 33,Toys,FunBox,1,840.49,0.0,840.49,840.49
+33,227,FunBox Toys Item 33,Toys,FunBox,2,840.49,0.0,840.49,1680.98
+33,277,FunBox Toys Item 33,Toys,FunBox,1,840.49,84.05,756.44,756.44
+33,341,FunBox Toys Item 33,Toys,FunBox,1,840.49,0.0,840.49,840.49
+33,410,FunBox Toys Item 33,Toys,FunBox,2,840.49,0.0,840.49,1680.98
+33,421,FunBox Toys Item 33,Toys,FunBox,3,840.49,42.02,798.47,2395.41
+33,464,FunBox Toys Item 33,Toys,FunBox,1,840.49,42.02,798.47,798.47
+33,467,FunBox Toys Item 33,Toys,FunBox,3,840.49,84.05,756.44,2269.32
+33,557,FunBox Toys Item 33,Toys,FunBox,1,840.49,0.0,840.49,840.49
+33,577,FunBox Toys Item 33,Toys,FunBox,3,840.49,0.0,840.49,2521.47
+33,634,FunBox Toys Item 33,Toys,FunBox,3,840.49,126.07,714.42,2143.26
+33,763,FunBox Toys Item 33,Toys,FunBox,2,840.49,0.0,840.49,1680.98
+33,798,FunBox Toys Item 33,Toys,FunBox,1,840.49,0.0,840.49,840.49
+34,28,KitchenPro Home & Kitchen Item 34,Home & Kitchen,KitchenPro,1,6668.72,333.44,6335.28,6335.28
+34,200,KitchenPro Home & Kitchen Item 34,Home & Kitchen,KitchenPro,2,6668.72,0.0,6668.72,13337.44
+34,429,KitchenPro Home & Kitchen Item 34,Home & Kitchen,KitchenPro,1,6668.72,0.0,6668.72,6668.72
+34,479,KitchenPro Home & Kitchen Item 34,Home & Kitchen,KitchenPro,1,6668.72,0.0,6668.72,6668.72
+34,558,KitchenPro Home & Kitchen Item 34,Home & Kitchen,KitchenPro,1,6668.72,0.0,6668.72,6668.72
+34,572,KitchenPro Home & Kitchen Item 34,Home & Kitchen,KitchenPro,1,6668.72,1000.31,5668.41,5668.41
+34,604,KitchenPro Home & Kitchen Item 34,Home & Kitchen,KitchenPro,1,6668.72,0.0,6668.72,6668.72
+34,654,KitchenPro Home & Kitchen Item 34,Home & Kitchen,KitchenPro,2,6668.72,1333.74,5334.98,10669.96
+34,697,KitchenPro Home & Kitchen Item 34,Home & Kitchen,KitchenPro,1,6668.72,0.0,6668.72,6668.72
+34,752,KitchenPro Home & Kitchen Item 34,Home & Kitchen,KitchenPro,2,6668.72,666.87,6001.85,12003.7
+34,770,KitchenPro Home & Kitchen Item 34,Home & Kitchen,KitchenPro,1,6668.72,0.0,6668.72,6668.72
+35,52,LitWorld Books Item 35,Books,LitWorld,1,766.62,0.0,766.62,766.62
+35,188,LitWorld Books Item 35,Books,LitWorld,3,766.62,0.0,766.62,2299.86
+35,196,LitWorld Books Item 35,Books,LitWorld,1,766.62,38.33,728.29,728.29
+35,201,LitWorld Books Item 35,Books,LitWorld,1,766.62,0.0,766.62,766.62
+35,252,LitWorld Books Item 35,Books,LitWorld,3,766.62,114.99,651.63,1954.89
+35,273,LitWorld Books Item 35,Books,LitWorld,1,766.62,0.0,766.62,766.62
+35,291,LitWorld Books Item 35,Books,LitWorld,1,766.62,38.33,728.29,728.29
+35,298,LitWorld Books Item 35,Books,LitWorld,1,766.62,0.0,766.62,766.62
+35,338,LitWorld Books Item 35,Books,LitWorld,1,766.62,76.66,689.96,689.96
+35,340,LitWorld Books Item 35,Books,LitWorld,2,766.62,0.0,766.62,1533.24
+35,383,LitWorld Books Item 35,Books,LitWorld,2,766.62,153.32,613.3,1226.6
+35,458,LitWorld Books Item 35,Books,LitWorld,1,766.62,76.66,689.96,689.96
+35,475,LitWorld Books Item 35,Books,LitWorld,3,766.62,0.0,766.62,2299.86
+35,510,LitWorld Books Item 35,Books,LitWorld,1,766.62,38.33,728.29,728.29
+35,533,LitWorld Books Item 35,Books,LitWorld,1,766.62,0.0,766.62,766.62
+35,550,LitWorld Books Item 35,Books,LitWorld,2,766.62,38.33,728.29,1456.58
+35,570,LitWorld Books Item 35,Books,LitWorld,1,766.62,0.0,766.62,766.62
+35,634,LitWorld Books Item 35,Books,LitWorld,4,766.62,38.33,728.29,2913.16
+35,686,LitWorld Books Item 35,Books,LitWorld,2,766.62,114.99,651.63,1303.26
+35,691,LitWorld Books Item 35,Books,LitWorld,2,766.62,0.0,766.62,1533.24
+35,719,LitWorld Books Item 35,Books,LitWorld,2,766.62,76.66,689.96,1379.92
+35,773,LitWorld Books Item 35,Books,LitWorld,2,766.62,0.0,766.62,1533.24
+35,781,LitWorld Books Item 35,Books,LitWorld,3,766.62,76.66,689.96,2069.88
+36,5,StreetLine Fashion Item 36,Fashion,StreetLine,1,4902.59,245.13,4657.46,4657.46
+36,156,StreetLine Fashion Item 36,Fashion,StreetLine,3,4902.59,0.0,4902.59,14707.77
+36,176,StreetLine Fashion Item 36,Fashion,StreetLine,1,4902.59,0.0,4902.59,4902.59
+36,273,StreetLine Fashion Item 36,Fashion,StreetLine,1,4902.59,0.0,4902.59,4902.59
+36,288,StreetLine Fashion Item 36,Fashion,StreetLine,1,4902.59,490.26,4412.33,4412.33
+36,339,StreetLine Fashion Item 36,Fashion,StreetLine,1,4902.59,245.13,4657.46,4657.46
+36,371,StreetLine Fashion Item 36,Fashion,StreetLine,2,4902.59,0.0,4902.59,9805.18
+36,528,StreetLine Fashion Item 36,Fashion,StreetLine,1,4902.59,0.0,4902.59,4902.59
+36,546,StreetLine Fashion Item 36,Fashion,StreetLine,1,4902.59,0.0,4902.59,4902.59
+36,685,StreetLine Fashion Item 36,Fashion,StreetLine,1,4902.59,735.39,4167.2,4167.2
+36,690,StreetLine Fashion Item 36,Fashion,StreetLine,3,4902.59,0.0,4902.59,14707.77
+36,778,StreetLine Fashion Item 36,Fashion,StreetLine,1,4902.59,0.0,4902.59,4902.59
+36,800,StreetLine Fashion Item 36,Fashion,StreetLine,4,4902.59,735.39,4167.2,16668.8
+37,65,FunBox Toys Item 37,Toys,FunBox,2,1798.18,0.0,1798.18,3596.36
+37,123,FunBox Toys Item 37,Toys,FunBox,2,1798.18,449.54,1348.64,2697.28
+37,137,FunBox Toys Item 37,Toys,FunBox,1,1798.18,89.91,1708.27,1708.27
+37,179,FunBox Toys Item 37,Toys,FunBox,1,1798.18,0.0,1798.18,1798.18
+37,180,FunBox Toys Item 37,Toys,FunBox,4,1798.18,179.82,1618.36,6473.44
+37,196,FunBox Toys Item 37,Toys,FunBox,1,1798.18,359.64,1438.54,1438.54
+37,277,FunBox Toys Item 37,Toys,FunBox,2,1798.18,0.0,1798.18,3596.36
+37,323,FunBox Toys Item 37,Toys,FunBox,2,1798.18,0.0,1798.18,3596.36
+37,325,FunBox Toys Item 37,Toys,FunBox,2,1798.18,0.0,1798.18,3596.36
+37,380,FunBox Toys Item 37,Toys,FunBox,1,1798.18,179.82,1618.36,1618.36
+37,466,FunBox Toys Item 37,Toys,FunBox,2,1798.18,0.0,1798.18,3596.36
+37,480,FunBox Toys Item 37,Toys,FunBox,1,1798.18,0.0,1798.18,1798.18
+37,489,FunBox Toys Item 37,Toys,FunBox,1,1798.18,359.64,1438.54,1438.54
+37,769,FunBox Toys Item 37,Toys,FunBox,1,1798.18,179.82,1618.36,1618.36
+38,25,CasaJoy Home & Kitchen Item 38,Home & Kitchen,CasaJoy,1,4001.47,0.0,4001.47,4001.47
+38,69,CasaJoy Home & Kitchen Item 38,Home & Kitchen,CasaJoy,2,4001.47,400.15,3601.32,7202.64
+38,210,CasaJoy Home & Kitchen Item 38,Home & Kitchen,CasaJoy,1,4001.47,600.22,3401.25,3401.25
+38,241,CasaJoy Home & Kitchen Item 38,Home & Kitchen,CasaJoy,1,4001.47,0.0,4001.47,4001.47
+38,272,CasaJoy Home & Kitchen Item 38,Home & Kitchen,CasaJoy,3,4001.47,0.0,4001.47,12004.41
+38,295,CasaJoy Home & Kitchen Item 38,Home & Kitchen,CasaJoy,4,4001.47,400.15,3601.32,14405.28
+38,303,CasaJoy Home & Kitchen Item 38,Home & Kitchen,CasaJoy,1,4001.47,0.0,4001.47,4001.47
+38,481,CasaJoy Home & Kitchen Item 38,Home & Kitchen,CasaJoy,1,4001.47,0.0,4001.47,4001.47
+38,513,CasaJoy Home & Kitchen Item 38,Home & Kitchen,CasaJoy,1,4001.47,0.0,4001.47,4001.47
+38,761,CasaJoy Home & Kitchen Item 38,Home & Kitchen,CasaJoy,2,4001.47,600.22,3401.25,6802.5
+39,204,FunBox Toys Item 39,Toys,FunBox,2,1833.46,0.0,1833.46,3666.92
+39,222,FunBox Toys Item 39,Toys,FunBox,2,1833.46,0.0,1833.46,3666.92
+39,224,FunBox Toys Item 39,Toys,FunBox,1,1833.46,91.67,1741.79,1741.79
+39,259,FunBox Toys Item 39,Toys,FunBox,1,1833.46,0.0,1833.46,1833.46
+39,402,FunBox Toys Item 39,Toys,FunBox,1,1833.46,0.0,1833.46,1833.46
+39,419,FunBox Toys Item 39,Toys,FunBox,3,1833.46,275.02,1558.44,4675.32
+39,453,FunBox Toys Item 39,Toys,FunBox,2,1833.46,458.36,1375.1,2750.2
+39,564,FunBox Toys Item 39,Toys,FunBox,2,1833.46,0.0,1833.46,3666.92
+39,599,FunBox Toys Item 39,Toys,FunBox,1,1833.46,458.36,1375.1,1375.1
+39,618,FunBox Toys Item 39,Toys,FunBox,3,1833.46,366.69,1466.77,4400.31
+39,664,FunBox Toys Item 39,Toys,FunBox,2,1833.46,0.0,1833.46,3666.92
+39,680,FunBox Toys Item 39,Toys,FunBox,1,1833.46,275.02,1558.44,1558.44
+39,711,FunBox Toys Item 39,Toys,FunBox,1,1833.46,366.69,1466.77,1466.77
+40,68,PlayHub Toys Item 40,Toys,PlayHub,1,2184.73,0.0,2184.73,2184.73
+40,302,PlayHub Toys Item 40,Toys,PlayHub,2,2184.73,109.24,2075.49,4150.98
+40,352,PlayHub Toys Item 40,Toys,PlayHub,1,2184.73,0.0,2184.73,2184.73
+40,373,PlayHub Toys Item 40,Toys,PlayHub,2,2184.73,0.0,2184.73,4369.46
+40,443,PlayHub Toys Item 40,Toys,PlayHub,1,2184.73,0.0,2184.73,2184.73
+40,592,PlayHub Toys Item 40,Toys,PlayHub,1,2184.73,327.71,1857.02,1857.02
+40,601,PlayHub Toys Item 40,Toys,PlayHub,1,2184.73,0.0,2184.73,2184.73
+40,627,PlayHub Toys Item 40,Toys,PlayHub,2,2184.73,0.0,2184.73,4369.46
+40,633,PlayHub Toys Item 40,Toys,PlayHub,1,2184.73,218.47,1966.26,1966.26
+40,640,PlayHub Toys Item 40,Toys,PlayHub,3,2184.73,218.47,1966.26,5898.78
+40,651,PlayHub Toys Item 40,Toys,PlayHub,3,2184.73,109.24,2075.49,6226.47
+40,697,PlayHub Toys Item 40,Toys,PlayHub,2,2184.73,0.0,2184.73,4369.46
+40,715,PlayHub Toys Item 40,Toys,PlayHub,2,2184.73,218.47,1966.26,3932.52
+40,722,PlayHub Toys Item 40,Toys,PlayHub,1,2184.73,218.47,1966.26,1966.26
+40,735,PlayHub Toys Item 40,Toys,PlayHub,1,2184.73,0.0,2184.73,2184.73
+40,751,PlayHub Toys Item 40,Toys,PlayHub,1,2184.73,109.24,2075.49,2075.49
+40,778,PlayHub Toys Item 40,Toys,PlayHub,1,2184.73,0.0,2184.73,2184.73
+40,785,PlayHub Toys Item 40,Toys,PlayHub,2,2184.73,436.95,1747.78,3495.56
+41,42,Zenith Electronics Item 41,Electronics,Zenith,1,35219.6,0.0,35219.6,35219.6
+41,200,Zenith Electronics Item 41,Electronics,Zenith,2,35219.6,5282.94,29936.66,59873.32
+41,243,Zenith Electronics Item 41,Electronics,Zenith,3,35219.6,3521.96,31697.64,95092.92
+41,251,Zenith Electronics Item 41,Electronics,Zenith,2,35219.6,0.0,35219.6,70439.2
+41,393,Zenith Electronics Item 41,Electronics,Zenith,2,35219.6,7043.92,28175.68,56351.36
+41,404,Zenith Electronics Item 41,Electronics,Zenith,2,35219.6,3521.96,31697.64,63395.28
+41,672,Zenith Electronics Item 41,Electronics,Zenith,1,35219.6,3521.96,31697.64,31697.64
+41,704,Zenith Electronics Item 41,Electronics,Zenith,2,35219.6,1760.98,33458.62,66917.24
+41,718,Zenith Electronics Item 41,Electronics,Zenith,1,35219.6,5282.94,29936.66,29936.66
+41,725,Zenith Electronics Item 41,Electronics,Zenith,4,35219.6,1760.98,33458.62,133834.48
+41,773,Zenith Electronics Item 41,Electronics,Zenith,2,35219.6,0.0,35219.6,70439.2
+42,70,EthnoWear Fashion Item 42,Fashion,EthnoWear,1,4495.52,674.33,3821.19,3821.19
+42,110,EthnoWear Fashion Item 42,Fashion,EthnoWear,1,4495.52,0.0,4495.52,4495.52
+42,135,EthnoWear Fashion Item 42,Fashion,EthnoWear,2,4495.52,224.78,4270.74,8541.48
+42,193,EthnoWear Fashion Item 42,Fashion,EthnoWear,2,4495.52,0.0,4495.52,8991.04
+42,233,EthnoWear Fashion Item 42,Fashion,EthnoWear,1,4495.52,224.78,4270.74,4270.74
+42,293,EthnoWear Fashion Item 42,Fashion,EthnoWear,2,4495.52,674.33,3821.19,7642.38
+42,350,EthnoWear Fashion Item 42,Fashion,EthnoWear,4,4495.52,899.1,3596.42,14385.68
+42,364,EthnoWear Fashion Item 42,Fashion,EthnoWear,1,4495.52,0.0,4495.52,4495.52
+42,377,EthnoWear Fashion Item 42,Fashion,EthnoWear,1,4495.52,224.78,4270.74,4270.74
+42,448,EthnoWear Fashion Item 42,Fashion,EthnoWear,1,4495.52,0.0,4495.52,4495.52
+42,453,EthnoWear Fashion Item 42,Fashion,EthnoWear,2,4495.52,224.78,4270.74,8541.48
+42,581,EthnoWear Fashion Item 42,Fashion,EthnoWear,1,4495.52,449.55,4045.97,4045.97
+42,617,EthnoWear Fashion Item 42,Fashion,EthnoWear,1,4495.52,449.55,4045.97,4045.97
+42,620,EthnoWear Fashion Item 42,Fashion,EthnoWear,1,4495.52,899.1,3596.42,3596.42
+42,622,EthnoWear Fashion Item 42,Fashion,EthnoWear,2,4495.52,1123.88,3371.64,6743.28
+42,752,EthnoWear Fashion Item 42,Fashion,EthnoWear,1,4495.52,674.33,3821.19,3821.19
+42,753,EthnoWear Fashion Item 42,Fashion,EthnoWear,4,4495.52,0.0,4495.52,17982.08
+43,89,PageTurner Books Item 43,Books,PageTurner,1,365.34,36.53,328.81,328.81
+43,101,PageTurner Books Item 43,Books,PageTurner,1,365.34,0.0,365.34,365.34
+43,259,PageTurner Books Item 43,Books,PageTurner,4,365.34,73.07,292.27,1169.08
+43,318,PageTurner Books Item 43,Books,PageTurner,1,365.34,54.8,310.54,310.54
+43,331,PageTurner Books Item 43,Books,PageTurner,3,365.34,0.0,365.34,1096.02
+43,428,PageTurner Books Item 43,Books,PageTurner,1,365.34,54.8,310.54,310.54
+43,544,PageTurner Books Item 43,Books,PageTurner,1,365.34,0.0,365.34,365.34
+43,596,PageTurner Books Item 43,Books,PageTurner,1,365.34,0.0,365.34,365.34
+43,639,PageTurner Books Item 43,Books,PageTurner,3,365.34,18.27,347.07,1041.21
+43,659,PageTurner Books Item 43,Books,PageTurner,1,365.34,54.8,310.54,310.54
+43,663,PageTurner Books Item 43,Books,PageTurner,1,365.34,36.53,328.81,328.81
+43,753,PageTurner Books Item 43,Books,PageTurner,2,365.34,36.53,328.81,657.62
+43,786,PageTurner Books Item 43,Books,PageTurner,1,365.34,0.0,365.34,365.34
+44,66,ProGear Sports Item 44,Sports,ProGear,2,7064.89,0.0,7064.89,14129.78
+44,97,ProGear Sports Item 44,Sports,ProGear,3,7064.89,0.0,7064.89,21194.67
+44,102,ProGear Sports Item 44,Sports,ProGear,1,7064.89,0.0,7064.89,7064.89
+44,114,ProGear Sports Item 44,Sports,ProGear,3,7064.89,0.0,7064.89,21194.67
+44,202,ProGear Sports Item 44,Sports,ProGear,1,7064.89,0.0,7064.89,7064.89
+44,282,ProGear Sports Item 44,Sports,ProGear,1,7064.89,0.0,7064.89,7064.89
+44,286,ProGear Sports Item 44,Sports,ProGear,4,7064.89,1059.73,6005.16,24020.64
+44,335,ProGear Sports Item 44,Sports,ProGear,1,7064.89,0.0,7064.89,7064.89
+44,351,ProGear Sports Item 44,Sports,ProGear,1,7064.89,0.0,7064.89,7064.89
+44,401,ProGear Sports Item 44,Sports,ProGear,1,7064.89,0.0,7064.89,7064.89
+44,403,ProGear Sports Item 44,Sports,ProGear,1,7064.89,353.24,6711.65,6711.65
+44,422,ProGear Sports Item 44,Sports,ProGear,1,7064.89,1059.73,6005.16,6005.16
+44,486,ProGear Sports Item 44,Sports,ProGear,1,7064.89,1059.73,6005.16,6005.16
+44,489,ProGear Sports Item 44,Sports,ProGear,1,7064.89,353.24,6711.65,6711.65
+44,496,ProGear Sports Item 44,Sports,ProGear,2,7064.89,1059.73,6005.16,12010.32
+44,522,ProGear Sports Item 44,Sports,ProGear,1,7064.89,0.0,7064.89,7064.89
+44,576,ProGear Sports Item 44,Sports,ProGear,1,7064.89,1412.98,5651.91,5651.91
+44,632,ProGear Sports Item 44,Sports,ProGear,1,7064.89,0.0,7064.89,7064.89
+44,653,ProGear Sports Item 44,Sports,ProGear,2,7064.89,353.24,6711.65,13423.3
+44,655,ProGear Sports Item 44,Sports,ProGear,2,7064.89,1059.73,6005.16,12010.32
+44,699,ProGear Sports Item 44,Sports,ProGear,1,7064.89,0.0,7064.89,7064.89
+44,732,ProGear Sports Item 44,Sports,ProGear,2,7064.89,706.49,6358.4,12716.8
+45,44,VoltX Electronics Item 45,Electronics,VoltX,1,18348.63,917.43,17431.2,17431.2
+45,72,VoltX Electronics Item 45,Electronics,VoltX,1,18348.63,3669.73,14678.9,14678.9
+45,138,VoltX Electronics Item 45,Electronics,VoltX,1,18348.63,0.0,18348.63,18348.63
+45,192,VoltX Electronics Item 45,Electronics,VoltX,1,18348.63,0.0,18348.63,18348.63
+45,331,VoltX Electronics Item 45,Electronics,VoltX,2,18348.63,2752.29,15596.34,31192.68
+45,363,VoltX Electronics Item 45,Electronics,VoltX,3,18348.63,917.43,17431.2,52293.6
+45,388,VoltX Electronics Item 45,Electronics,VoltX,1,18348.63,0.0,18348.63,18348.63
+45,430,VoltX Electronics Item 45,Electronics,VoltX,1,18348.63,0.0,18348.63,18348.63
+45,523,VoltX Electronics Item 45,Electronics,VoltX,2,18348.63,0.0,18348.63,36697.26
+45,559,VoltX Electronics Item 45,Electronics,VoltX,1,18348.63,0.0,18348.63,18348.63
+45,614,VoltX Electronics Item 45,Electronics,VoltX,2,18348.63,0.0,18348.63,36697.26
+45,674,VoltX Electronics Item 45,Electronics,VoltX,2,18348.63,0.0,18348.63,36697.26
+45,722,VoltX Electronics Item 45,Electronics,VoltX,2,18348.63,917.43,17431.2,34862.4
+45,750,VoltX Electronics Item 45,Electronics,VoltX,2,18348.63,0.0,18348.63,36697.26
+46,60,HerbalPure Beauty Item 46,Beauty,HerbalPure,2,1096.16,0.0,1096.16,2192.32
+46,62,HerbalPure Beauty Item 46,Beauty,HerbalPure,1,1096.16,0.0,1096.16,1096.16
+46,278,HerbalPure Beauty Item 46,Beauty,HerbalPure,1,1096.16,54.81,1041.35,1041.35
+46,372,HerbalPure Beauty Item 46,Beauty,HerbalPure,1,1096.16,164.42,931.74,931.74
+46,390,HerbalPure Beauty Item 46,Beauty,HerbalPure,1,1096.16,0.0,1096.16,1096.16
+46,392,HerbalPure Beauty Item 46,Beauty,HerbalPure,2,1096.16,54.81,1041.35,2082.7
+46,415,HerbalPure Beauty Item 46,Beauty,HerbalPure,2,1096.16,0.0,1096.16,2192.32
+46,468,HerbalPure Beauty Item 46,Beauty,HerbalPure,1,1096.16,219.23,876.93,876.93
+46,609,HerbalPure Beauty Item 46,Beauty,HerbalPure,1,1096.16,0.0,1096.16,1096.16
+46,641,HerbalPure Beauty Item 46,Beauty,HerbalPure,1,1096.16,164.42,931.74,931.74
+46,757,HerbalPure Beauty Item 46,Beauty,HerbalPure,3,1096.16,109.62,986.54,2959.62
+47,65,Aura Beauty Item 47,Beauty,Aura,2,736.14,0.0,736.14,1472.28
+47,66,Aura Beauty Item 47,Beauty,Aura,1,736.14,0.0,736.14,736.14
+47,68,Aura Beauty Item 47,Beauty,Aura,2,736.14,0.0,736.14,1472.28
+47,152,Aura Beauty Item 47,Beauty,Aura,1,736.14,36.81,699.33,699.33
+47,187,Aura Beauty Item 47,Beauty,Aura,2,736.14,147.23,588.91,1177.82
+47,454,Aura Beauty Item 47,Beauty,Aura,1,736.14,0.0,736.14,736.14
+47,586,Aura Beauty Item 47,Beauty,Aura,1,736.14,147.23,588.91,588.91
+47,595,Aura Beauty Item 47,Beauty,Aura,2,736.14,0.0,736.14,1472.28
+47,620,Aura Beauty Item 47,Beauty,Aura,1,736.14,147.23,588.91,588.91
+47,654,Aura Beauty Item 47,Beauty,Aura,1,736.14,0.0,736.14,736.14
+47,717,Aura Beauty Item 47,Beauty,Aura,2,736.14,0.0,736.14,1472.28
+48,138,ActiveX Sports Item 48,Sports,ActiveX,1,8577.5,0.0,8577.5,8577.5
+48,145,ActiveX Sports Item 48,Sports,ActiveX,1,8577.5,0.0,8577.5,8577.5
+48,146,ActiveX Sports Item 48,Sports,ActiveX,1,8577.5,428.88,8148.62,8148.62
+48,205,ActiveX Sports Item 48,Sports,ActiveX,1,8577.5,0.0,8577.5,8577.5
+48,264,ActiveX Sports Item 48,Sports,ActiveX,1,8577.5,1286.62,7290.88,7290.88
+48,292,ActiveX Sports Item 48,Sports,ActiveX,1,8577.5,857.75,7719.75,7719.75
+48,306,ActiveX Sports Item 48,Sports,ActiveX,1,8577.5,1286.62,7290.88,7290.88
+48,439,ActiveX Sports Item 48,Sports,ActiveX,2,8577.5,0.0,8577.5,17155.0
+48,498,ActiveX Sports Item 48,Sports,ActiveX,1,8577.5,1715.5,6862.0,6862.0
+48,530,ActiveX Sports Item 48,Sports,ActiveX,1,8577.5,1286.62,7290.88,7290.88
+48,770,ActiveX Sports Item 48,Sports,ActiveX,2,8577.5,857.75,7719.75,15439.5
+48,789,ActiveX Sports Item 48,Sports,ActiveX,1,8577.5,0.0,8577.5,8577.5
+48,796,ActiveX Sports Item 48,Sports,ActiveX,1,8577.5,1715.5,6862.0,6862.0
+49,29,PlayHub Toys Item 49,Toys,PlayHub,2,2666.04,0.0,2666.04,5332.08
+49,46,PlayHub Toys Item 49,Toys,PlayHub,3,2666.04,399.91,2266.13,6798.39
+49,57,PlayHub Toys Item 49,Toys,PlayHub,1,2666.04,399.91,2266.13,2266.13
+49,121,PlayHub Toys Item 49,Toys,PlayHub,1,2666.04,133.3,2532.74,2532.74
+49,154,PlayHub Toys Item 49,Toys,PlayHub,1,2666.04,399.91,2266.13,2266.13
+49,225,PlayHub Toys Item 49,Toys,PlayHub,1,2666.04,0.0,2666.04,2666.04
+49,229,PlayHub Toys Item 49,Toys,PlayHub,1,2666.04,0.0,2666.04,2666.04
+49,234,PlayHub Toys Item 49,Toys,PlayHub,2,2666.04,0.0,2666.04,5332.08
+49,246,PlayHub Toys Item 49,Toys,PlayHub,2,2666.04,0.0,2666.04,5332.08
+49,313,PlayHub Toys Item 49,Toys,PlayHub,2,2666.04,0.0,2666.04,5332.08
+49,448,PlayHub Toys Item 49,Toys,PlayHub,3,2666.04,0.0,2666.04,7998.12
+49,463,PlayHub Toys Item 49,Toys,PlayHub,3,2666.04,0.0,2666.04,7998.12
+49,502,PlayHub Toys Item 49,Toys,PlayHub,2,2666.04,0.0,2666.04,5332.08
+49,511,PlayHub Toys Item 49,Toys,PlayHub,1,2666.04,133.3,2532.74,2532.74
+49,518,PlayHub Toys Item 49,Toys,PlayHub,1,2666.04,0.0,2666.04,2666.04
+49,603,PlayHub Toys Item 49,Toys,PlayHub,1,2666.04,399.91,2266.13,2266.13
+49,615,PlayHub Toys Item 49,Toys,PlayHub,4,2666.04,0.0,2666.04,10664.16
+50,16,PageTurner Books Item 50,Books,PageTurner,1,1690.2,253.53,1436.67,1436.67
+50,143,PageTurner Books Item 50,Books,PageTurner,3,1690.2,169.02,1521.18,4563.54
+50,277,PageTurner Books Item 50,Books,PageTurner,1,1690.2,0.0,1690.2,1690.2
+50,312,PageTurner Books Item 50,Books,PageTurner,3,1690.2,84.51,1605.69,4817.07
+50,443,PageTurner Books Item 50,Books,PageTurner,1,1690.2,422.55,1267.65,1267.65
+50,582,PageTurner Books Item 50,Books,PageTurner,2,1690.2,169.02,1521.18,3042.36
+50,647,PageTurner Books Item 50,Books,PageTurner,1,1690.2,84.51,1605.69,1605.69
+50,676,PageTurner Books Item 50,Books,PageTurner,2,1690.2,0.0,1690.2,3380.4
+51,12,ProGear Sports Item 51,Sports,ProGear,1,8056.62,402.83,7653.79,7653.79
+51,106,ProGear Sports Item 51,Sports,ProGear,1,8056.62,402.83,7653.79,7653.79
+51,126,ProGear Sports Item 51,Sports,ProGear,1,8056.62,805.66,7250.96,7250.96
+51,130,ProGear Sports Item 51,Sports,ProGear,1,8056.62,0.0,8056.62,8056.62
+51,262,ProGear Sports Item 51,Sports,ProGear,1,8056.62,805.66,7250.96,7250.96
+51,368,ProGear Sports Item 51,Sports,ProGear,1,8056.62,0.0,8056.62,8056.62
+51,510,ProGear Sports Item 51,Sports,ProGear,2,8056.62,0.0,8056.62,16113.24
+51,557,ProGear Sports Item 51,Sports,ProGear,4,8056.62,805.66,7250.96,29003.84
+51,601,ProGear Sports Item 51,Sports,ProGear,1,8056.62,0.0,8056.62,8056.62
+51,642,ProGear Sports Item 51,Sports,ProGear,2,8056.62,0.0,8056.62,16113.24
+52,239,Harvest Grocery Item 52,Grocery,Harvest,1,246.64,0.0,246.64,246.64
+52,338,Harvest Grocery Item 52,Grocery,Harvest,2,246.64,49.33,197.31,394.62
+52,444,Harvest Grocery Item 52,Grocery,Harvest,1,246.64,0.0,246.64,246.64
+52,495,Harvest Grocery Item 52,Grocery,Harvest,1,246.64,24.66,221.98,221.98
+52,583,Harvest Grocery Item 52,Grocery,Harvest,4,246.64,12.33,234.31,937.24
+52,589,Harvest Grocery Item 52,Grocery,Harvest,2,246.64,12.33,234.31,468.62
+52,663,Harvest Grocery Item 52,Grocery,Harvest,1,246.64,0.0,246.64,246.64
+52,758,Harvest Grocery Item 52,Grocery,Harvest,1,246.64,0.0,246.64,246.64
+52,762,Harvest Grocery Item 52,Grocery,Harvest,1,246.64,0.0,246.64,246.64
+53,128,StreetLine Fashion Item 53,Fashion,StreetLine,1,905.75,135.86,769.89,769.89
+53,153,StreetLine Fashion Item 53,Fashion,StreetLine,3,905.75,90.58,815.17,2445.51
+53,356,StreetLine Fashion Item 53,Fashion,StreetLine,1,905.75,0.0,905.75,905.75
+53,377,StreetLine Fashion Item 53,Fashion,StreetLine,3,905.75,45.29,860.46,2581.38
+53,399,StreetLine Fashion Item 53,Fashion,StreetLine,2,905.75,0.0,905.75,1811.5
+53,435,StreetLine Fashion Item 53,Fashion,StreetLine,1,905.75,181.15,724.6,724.6
+53,497,StreetLine Fashion Item 53,Fashion,StreetLine,2,905.75,226.44,679.31,1358.62
+53,631,StreetLine Fashion Item 53,Fashion,StreetLine,1,905.75,90.58,815.17,815.17
+54,8,GlowCraft Beauty Item 54,Beauty,GlowCraft,1,1855.67,278.35,1577.32,1577.32
+54,11,GlowCraft Beauty Item 54,Beauty,GlowCraft,2,1855.67,185.57,1670.1,3340.2
+54,170,GlowCraft Beauty Item 54,Beauty,GlowCraft,2,1855.67,92.78,1762.89,3525.78
+54,262,GlowCraft Beauty Item 54,Beauty,GlowCraft,1,1855.67,0.0,1855.67,1855.67
+54,320,GlowCraft Beauty Item 54,Beauty,GlowCraft,2,1855.67,0.0,1855.67,3711.34
+54,424,GlowCraft Beauty Item 54,Beauty,GlowCraft,1,1855.67,0.0,1855.67,1855.67
+54,598,GlowCraft Beauty Item 54,Beauty,GlowCraft,3,1855.67,0.0,1855.67,5567.01
+54,707,GlowCraft Beauty Item 54,Beauty,GlowCraft,2,1855.67,92.78,1762.89,3525.78
+55,15,StreetLine Fashion Item 55,Fashion,StreetLine,1,4731.36,0.0,4731.36,4731.36
+55,126,StreetLine Fashion Item 55,Fashion,StreetLine,1,4731.36,0.0,4731.36,4731.36
+55,133,StreetLine Fashion Item 55,Fashion,StreetLine,2,4731.36,236.57,4494.79,8989.58
+55,186,StreetLine Fashion Item 55,Fashion,StreetLine,1,4731.36,0.0,4731.36,4731.36
+55,264,StreetLine Fashion Item 55,Fashion,StreetLine,1,4731.36,709.7,4021.66,4021.66
+55,369,StreetLine Fashion Item 55,Fashion,StreetLine,3,4731.36,0.0,4731.36,14194.08
+55,391,StreetLine Fashion Item 55,Fashion,StreetLine,1,4731.36,0.0,4731.36,4731.36
+55,459,StreetLine Fashion Item 55,Fashion,StreetLine,1,4731.36,236.57,4494.79,4494.79
+55,488,StreetLine Fashion Item 55,Fashion,StreetLine,2,4731.36,0.0,4731.36,9462.72
+55,507,StreetLine Fashion Item 55,Fashion,StreetLine,1,4731.36,0.0,4731.36,4731.36
+55,520,StreetLine Fashion Item 55,Fashion,StreetLine,3,4731.36,0.0,4731.36,14194.08
+55,570,StreetLine Fashion Item 55,Fashion,StreetLine,1,4731.36,0.0,4731.36,4731.36
+55,616,StreetLine Fashion Item 55,Fashion,StreetLine,1,4731.36,1182.84,3548.52,3548.52
+55,645,StreetLine Fashion Item 55,Fashion,StreetLine,1,4731.36,709.7,4021.66,4021.66
+55,727,StreetLine Fashion Item 55,Fashion,StreetLine,3,4731.36,709.7,4021.66,12064.98
+55,740,StreetLine Fashion Item 55,Fashion,StreetLine,2,4731.36,236.57,4494.79,8989.58
+56,130,ToyJoy Toys Item 56,Toys,ToyJoy,1,817.95,40.9,777.05,777.05
+56,142,ToyJoy Toys Item 56,Toys,ToyJoy,2,817.95,0.0,817.95,1635.9
+56,198,ToyJoy Toys Item 56,Toys,ToyJoy,4,817.95,0.0,817.95,3271.8
+56,280,ToyJoy Toys Item 56,Toys,ToyJoy,1,817.95,122.69,695.26,695.26
+56,347,ToyJoy Toys Item 56,Toys,ToyJoy,1,817.95,0.0,817.95,817.95
+56,449,ToyJoy Toys Item 56,Toys,ToyJoy,3,817.95,0.0,817.95,2453.85
+56,506,ToyJoy Toys Item 56,Toys,ToyJoy,1,817.95,0.0,817.95,817.95
+56,708,ToyJoy Toys Item 56,Toys,ToyJoy,1,817.95,40.9,777.05,777.05
+56,749,ToyJoy Toys Item 56,Toys,ToyJoy,1,817.95,0.0,817.95,817.95
+56,758,ToyJoy Toys Item 56,Toys,ToyJoy,1,817.95,0.0,817.95,817.95
+56,764,ToyJoy Toys Item 56,Toys,ToyJoy,2,817.95,0.0,817.95,1635.9
+57,21,Apex Electronics Item 57,Electronics,Apex,1,22489.03,4497.81,17991.22,17991.22
+57,55,Apex Electronics Item 57,Electronics,Apex,1,22489.03,0.0,22489.03,22489.03
+57,119,Apex Electronics Item 57,Electronics,Apex,3,22489.03,2248.9,20240.13,60720.39
+57,144,Apex Electronics Item 57,Electronics,Apex,2,22489.03,5622.26,16866.77,33733.54
+57,226,Apex Electronics Item 57,Electronics,Apex,2,22489.03,0.0,22489.03,44978.06
+57,385,Apex Electronics Item 57,Electronics,Apex,1,22489.03,1124.45,21364.58,21364.58
+57,392,Apex Electronics Item 57,Electronics,Apex,2,22489.03,1124.45,21364.58,42729.16
+57,432,Apex Electronics Item 57,Electronics,Apex,2,22489.03,0.0,22489.03,44978.06
+57,584,Apex Electronics Item 57,Electronics,Apex,1,22489.03,4497.81,17991.22,17991.22
+57,677,Apex Electronics Item 57,Electronics,Apex,1,22489.03,0.0,22489.03,22489.03
+57,754,Apex Electronics Item 57,Electronics,Apex,1,22489.03,0.0,22489.03,22489.03
+57,786,Apex Electronics Item 57,Electronics,Apex,2,22489.03,4497.81,17991.22,35982.44
+58,57,HomeEase Home & Kitchen Item 58,Home & Kitchen,HomeEase,4,5479.04,821.86,4657.18,18628.72
+58,87,HomeEase Home & Kitchen Item 58,Home & Kitchen,HomeEase,1,5479.04,273.95,5205.09,5205.09
+58,276,HomeEase Home & Kitchen Item 58,Home & Kitchen,HomeEase,1,5479.04,547.9,4931.14,4931.14
+58,300,HomeEase Home & Kitchen Item 58,Home & Kitchen,HomeEase,2,5479.04,0.0,5479.04,10958.08
+58,354,HomeEase Home & Kitchen Item 58,Home & Kitchen,HomeEase,1,5479.04,547.9,4931.14,4931.14
+58,360,HomeEase Home & Kitchen Item 58,Home & Kitchen,HomeEase,2,5479.04,273.95,5205.09,10410.18
+58,404,HomeEase Home & Kitchen Item 58,Home & Kitchen,HomeEase,1,5479.04,273.95,5205.09,5205.09
+58,469,HomeEase Home & Kitchen Item 58,Home & Kitchen,HomeEase,2,5479.04,1095.81,4383.23,8766.46
+58,573,HomeEase Home & Kitchen Item 58,Home & Kitchen,HomeEase,1,5479.04,0.0,5479.04,5479.04
+58,774,HomeEase Home & Kitchen Item 58,Home & Kitchen,HomeEase,1,5479.04,0.0,5479.04,5479.04
+59,362,Harvest Grocery Item 59,Grocery,Harvest,3,80.34,0.0,80.34,241.02
+59,411,Harvest Grocery Item 59,Grocery,Harvest,3,80.34,0.0,80.34,241.02
+59,521,Harvest Grocery Item 59,Grocery,Harvest,4,80.34,4.02,76.32,305.28
+59,545,Harvest Grocery Item 59,Grocery,Harvest,1,80.34,8.03,72.31,72.31
+59,701,Harvest Grocery Item 59,Grocery,Harvest,1,80.34,16.07,64.27,64.27
+60,33,EthnoWear Fashion Item 60,Fashion,EthnoWear,4,2322.92,0.0,2322.92,9291.68
+60,97,EthnoWear Fashion Item 60,Fashion,EthnoWear,1,2322.92,0.0,2322.92,2322.92
+60,201,EthnoWear Fashion Item 60,Fashion,EthnoWear,1,2322.92,580.73,1742.19,1742.19
+60,221,EthnoWear Fashion Item 60,Fashion,EthnoWear,3,2322.92,0.0,2322.92,6968.76
+60,301,EthnoWear Fashion Item 60,Fashion,EthnoWear,2,2322.92,232.29,2090.63,4181.26
+60,396,EthnoWear Fashion Item 60,Fashion,EthnoWear,1,2322.92,464.58,1858.34,1858.34
+60,490,EthnoWear Fashion Item 60,Fashion,EthnoWear,2,2322.92,232.29,2090.63,4181.26
+60,572,EthnoWear Fashion Item 60,Fashion,EthnoWear,1,2322.92,580.73,1742.19,1742.19
+60,615,EthnoWear Fashion Item 60,Fashion,EthnoWear,1,2322.92,0.0,2322.92,2322.92
+60,631,EthnoWear Fashion Item 60,Fashion,EthnoWear,1,2322.92,116.15,2206.77,2206.77
+60,772,EthnoWear Fashion Item 60,Fashion,EthnoWear,1,2322.92,116.15,2206.77,2206.77
+60,787,EthnoWear Fashion Item 60,Fashion,EthnoWear,1,2322.92,0.0,2322.92,2322.92
+61,39,GlowCraft Beauty Item 61,Beauty,GlowCraft,2,1728.75,0.0,1728.75,3457.5
+61,47,GlowCraft Beauty Item 61,Beauty,GlowCraft,1,1728.75,0.0,1728.75,1728.75
+61,99,GlowCraft Beauty Item 61,Beauty,GlowCraft,2,1728.75,0.0,1728.75,3457.5
+61,125,GlowCraft Beauty Item 61,Beauty,GlowCraft,2,1728.75,0.0,1728.75,3457.5
+61,155,GlowCraft Beauty Item 61,Beauty,GlowCraft,1,1728.75,0.0,1728.75,1728.75
+61,336,GlowCraft Beauty Item 61,Beauty,GlowCraft,2,1728.75,86.44,1642.31,3284.62
+61,387,GlowCraft Beauty Item 61,Beauty,GlowCraft,1,1728.75,0.0,1728.75,1728.75
+61,405,GlowCraft Beauty Item 61,Beauty,GlowCraft,1,1728.75,0.0,1728.75,1728.75
+61,412,GlowCraft Beauty Item 61,Beauty,GlowCraft,1,1728.75,259.31,1469.44,1469.44
+61,462,GlowCraft Beauty Item 61,Beauty,GlowCraft,2,1728.75,0.0,1728.75,3457.5
+61,464,GlowCraft Beauty Item 61,Beauty,GlowCraft,1,1728.75,0.0,1728.75,1728.75
+61,482,GlowCraft Beauty Item 61,Beauty,GlowCraft,2,1728.75,432.19,1296.56,2593.12
+61,674,GlowCraft Beauty Item 61,Beauty,GlowCraft,2,1728.75,0.0,1728.75,3457.5
+61,771,GlowCraft Beauty Item 61,Beauty,GlowCraft,1,1728.75,172.88,1555.87,1555.87
+61,785,GlowCraft Beauty Item 61,Beauty,GlowCraft,1,1728.75,0.0,1728.75,1728.75
+62,119,ToyJoy Toys Item 62,Toys,ToyJoy,1,2980.94,0.0,2980.94,2980.94
+62,123,ToyJoy Toys Item 62,Toys,ToyJoy,3,2980.94,149.05,2831.89,8495.67
+62,193,ToyJoy Toys Item 62,Toys,ToyJoy,2,2980.94,596.19,2384.75,4769.5
+62,240,ToyJoy Toys Item 62,Toys,ToyJoy,1,2980.94,0.0,2980.94,2980.94
+62,348,ToyJoy Toys Item 62,Toys,ToyJoy,3,2980.94,0.0,2980.94,8942.82
+62,354,ToyJoy Toys Item 62,Toys,ToyJoy,1,2980.94,0.0,2980.94,2980.94
+62,465,ToyJoy Toys Item 62,Toys,ToyJoy,3,2980.94,149.05,2831.89,8495.67
+62,539,ToyJoy Toys Item 62,Toys,ToyJoy,1,2980.94,149.05,2831.89,2831.89
+62,771,ToyJoy Toys Item 62,Toys,ToyJoy,1,2980.94,447.14,2533.8,2533.8
+63,103,FitNation Sports Item 63,Sports,FitNation,3,7768.92,0.0,7768.92,23306.76
+63,136,FitNation Sports Item 63,Sports,FitNation,1,7768.92,388.45,7380.47,7380.47
+63,232,FitNation Sports Item 63,Sports,FitNation,1,7768.92,0.0,7768.92,7768.92
+63,243,FitNation Sports Item 63,Sports,FitNation,2,7768.92,0.0,7768.92,15537.84
+63,258,FitNation Sports Item 63,Sports,FitNation,3,7768.92,0.0,7768.92,23306.76
+63,321,FitNation Sports Item 63,Sports,FitNation,1,7768.92,388.45,7380.47,7380.47
+63,342,FitNation Sports Item 63,Sports,FitNation,2,7768.92,1553.78,6215.14,12430.28
+63,384,FitNation Sports Item 63,Sports,FitNation,2,7768.92,776.89,6992.03,13984.06
+63,549,FitNation Sports Item 63,Sports,FitNation,1,7768.92,1942.23,5826.69,5826.69
+63,577,FitNation Sports Item 63,Sports,FitNation,1,7768.92,1942.23,5826.69,5826.69
+63,652,FitNation Sports Item 63,Sports,FitNation,1,7768.92,0.0,7768.92,7768.92
+63,756,FitNation Sports Item 63,Sports,FitNation,1,7768.92,1165.34,6603.58,6603.58
+63,757,FitNation Sports Item 63,Sports,FitNation,1,7768.92,0.0,7768.92,7768.92
+64,27,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,2,6855.58,0.0,6855.58,13711.16
+64,61,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,1,6855.58,685.56,6170.02,6170.02
+64,62,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,1,6855.58,0.0,6855.58,6855.58
+64,137,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,2,6855.58,1028.34,5827.24,11654.48
+64,158,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,2,6855.58,0.0,6855.58,13711.16
+64,161,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,3,6855.58,0.0,6855.58,20566.74
+64,166,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,1,6855.58,0.0,6855.58,6855.58
+64,173,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,1,6855.58,0.0,6855.58,6855.58
+64,287,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,1,6855.58,1713.9,5141.68,5141.68
+64,464,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,1,6855.58,342.78,6512.8,6512.8
+64,470,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,2,6855.58,0.0,6855.58,13711.16
+64,492,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,1,6855.58,1028.34,5827.24,5827.24
+64,492,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,2,6855.58,685.56,6170.02,12340.04
+64,501,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,3,6855.58,0.0,6855.58,20566.74
+64,518,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,1,6855.58,0.0,6855.58,6855.58
+64,715,CasaJoy Home & Kitchen Item 64,Home & Kitchen,CasaJoy,3,6855.58,342.78,6512.8,19538.4
+65,110,UrbanWeave Fashion Item 65,Fashion,UrbanWeave,1,4654.17,0.0,4654.17,4654.17
+65,142,UrbanWeave Fashion Item 65,Fashion,UrbanWeave,2,4654.17,698.13,3956.04,7912.08
+65,151,UrbanWeave Fashion Item 65,Fashion,UrbanWeave,1,4654.17,698.13,3956.04,3956.04
+65,218,UrbanWeave Fashion Item 65,Fashion,UrbanWeave,3,4654.17,0.0,4654.17,13962.51
+65,225,UrbanWeave Fashion Item 65,Fashion,UrbanWeave,2,4654.17,0.0,4654.17,9308.34
+65,658,UrbanWeave Fashion Item 65,Fashion,UrbanWeave,2,4654.17,0.0,4654.17,9308.34
+65,673,UrbanWeave Fashion Item 65,Fashion,UrbanWeave,3,4654.17,0.0,4654.17,13962.51
+65,709,UrbanWeave Fashion Item 65,Fashion,UrbanWeave,2,4654.17,232.71,4421.46,8842.92
+66,161,ToyJoy Toys Item 66,Toys,ToyJoy,2,2892.54,0.0,2892.54,5785.08
+66,174,ToyJoy Toys Item 66,Toys,ToyJoy,2,2892.54,144.63,2747.91,5495.82
+66,179,ToyJoy Toys Item 66,Toys,ToyJoy,1,2892.54,144.63,2747.91,2747.91
+66,255,ToyJoy Toys Item 66,Toys,ToyJoy,1,2892.54,0.0,2892.54,2892.54
+66,255,ToyJoy Toys Item 66,Toys,ToyJoy,1,2892.54,0.0,2892.54,2892.54
+66,341,ToyJoy Toys Item 66,Toys,ToyJoy,1,2892.54,0.0,2892.54,2892.54
+66,400,ToyJoy Toys Item 66,Toys,ToyJoy,2,2892.54,0.0,2892.54,5785.08
+66,463,ToyJoy Toys Item 66,Toys,ToyJoy,1,2892.54,0.0,2892.54,2892.54
+66,484,ToyJoy Toys Item 66,Toys,ToyJoy,1,2892.54,0.0,2892.54,2892.54
+66,621,ToyJoy Toys Item 66,Toys,ToyJoy,1,2892.54,433.88,2458.66,2458.66
+66,635,ToyJoy Toys Item 66,Toys,ToyJoy,3,2892.54,289.25,2603.29,7809.87
+66,681,ToyJoy Toys Item 66,Toys,ToyJoy,2,2892.54,578.51,2314.03,4628.06
+67,18,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,2,3972.77,0.0,3972.77,7945.54
+67,163,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,1,3972.77,993.19,2979.58,2979.58
+67,168,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,1,3972.77,0.0,3972.77,3972.77
+67,209,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,1,3972.77,595.92,3376.85,3376.85
+67,296,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,1,3972.77,198.64,3774.13,3774.13
+67,303,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,1,3972.77,0.0,3972.77,3972.77
+67,353,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,2,3972.77,595.92,3376.85,6753.7
+67,422,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,1,3972.77,794.55,3178.22,3178.22
+67,453,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,1,3972.77,0.0,3972.77,3972.77
+67,454,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,2,3972.77,0.0,3972.77,7945.54
+67,461,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,1,3972.77,198.64,3774.13,3774.13
+67,524,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,2,3972.77,794.55,3178.22,6356.44
+67,580,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,4,3972.77,0.0,3972.77,15891.08
+67,709,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,3,3972.77,595.92,3376.85,10130.55
+67,796,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,1,3972.77,0.0,3972.77,3972.77
+67,797,UrbanWeave Fashion Item 67,Fashion,UrbanWeave,1,3972.77,595.92,3376.85,3376.85
+68,67,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,4,2683.34,0.0,2683.34,10733.36
+68,69,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,1,2683.34,268.33,2415.01,2415.01
+68,82,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,1,2683.34,0.0,2683.34,2683.34
+68,105,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,1,2683.34,0.0,2683.34,2683.34
+68,160,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,1,2683.34,0.0,2683.34,2683.34
+68,172,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,2,2683.34,0.0,2683.34,5366.68
+68,243,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,1,2683.34,0.0,2683.34,2683.34
+68,277,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,1,2683.34,670.84,2012.5,2012.5
+68,403,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,1,2683.34,0.0,2683.34,2683.34
+68,438,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,1,2683.34,670.84,2012.5,2012.5
+68,618,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,1,2683.34,0.0,2683.34,2683.34
+68,695,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,1,2683.34,0.0,2683.34,2683.34
+68,719,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,1,2683.34,0.0,2683.34,2683.34
+68,791,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,4,2683.34,536.67,2146.67,8586.68
+68,791,UrbanWeave Fashion Item 68,Fashion,UrbanWeave,2,2683.34,0.0,2683.34,5366.68
+69,53,Harvest Grocery Item 69,Grocery,Harvest,1,162.04,40.51,121.53,121.53
+69,106,Harvest Grocery Item 69,Grocery,Harvest,1,162.04,16.2,145.84,145.84
+69,206,Harvest Grocery Item 69,Grocery,Harvest,1,162.04,16.2,145.84,145.84
+69,223,Harvest Grocery Item 69,Grocery,Harvest,3,162.04,16.2,145.84,437.52
+69,258,Harvest Grocery Item 69,Grocery,Harvest,1,162.04,0.0,162.04,162.04
+69,263,Harvest Grocery Item 69,Grocery,Harvest,2,162.04,0.0,162.04,324.08
+69,349,Harvest Grocery Item 69,Grocery,Harvest,2,162.04,0.0,162.04,324.08
+69,394,Harvest Grocery Item 69,Grocery,Harvest,1,162.04,0.0,162.04,162.04
+69,483,Harvest Grocery Item 69,Grocery,Harvest,1,162.04,0.0,162.04,162.04
+69,499,Harvest Grocery Item 69,Grocery,Harvest,2,162.04,0.0,162.04,324.08
+69,637,Harvest Grocery Item 69,Grocery,Harvest,1,162.04,0.0,162.04,162.04
+69,650,Harvest Grocery Item 69,Grocery,Harvest,1,162.04,16.2,145.84,145.84
+69,652,Harvest Grocery Item 69,Grocery,Harvest,2,162.04,0.0,162.04,324.08
+69,667,Harvest Grocery Item 69,Grocery,Harvest,1,162.04,0.0,162.04,162.04
+69,670,Harvest Grocery Item 69,Grocery,Harvest,1,162.04,40.51,121.53,121.53
+69,731,Harvest Grocery Item 69,Grocery,Harvest,3,162.04,0.0,162.04,486.12
+69,740,Harvest Grocery Item 69,Grocery,Harvest,1,162.04,8.1,153.94,153.94
+69,772,Harvest Grocery Item 69,Grocery,Harvest,2,162.04,8.1,153.94,307.88
+70,58,HerbalPure Beauty Item 70,Beauty,HerbalPure,1,554.39,0.0,554.39,554.39
+70,123,HerbalPure Beauty Item 70,Beauty,HerbalPure,1,554.39,27.72,526.67,526.67
+70,147,HerbalPure Beauty Item 70,Beauty,HerbalPure,1,554.39,0.0,554.39,554.39
+70,240,HerbalPure Beauty Item 70,Beauty,HerbalPure,2,554.39,0.0,554.39,1108.78
+70,317,HerbalPure Beauty Item 70,Beauty,HerbalPure,1,554.39,55.44,498.95,498.95
+70,320,HerbalPure Beauty Item 70,Beauty,HerbalPure,1,554.39,0.0,554.39,554.39
+70,341,HerbalPure Beauty Item 70,Beauty,HerbalPure,2,554.39,0.0,554.39,1108.78
+70,437,HerbalPure Beauty Item 70,Beauty,HerbalPure,2,554.39,0.0,554.39,1108.78
+70,599,HerbalPure Beauty Item 70,Beauty,HerbalPure,1,554.39,27.72,526.67,526.67
+70,607,HerbalPure Beauty Item 70,Beauty,HerbalPure,4,554.39,27.72,526.67,2106.68
+71,28,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,1,3642.84,546.43,3096.41,3096.41
+71,74,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,1,3642.84,546.43,3096.41,3096.41
+71,169,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,2,3642.84,364.28,3278.56,6557.12
+71,183,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,2,3642.84,0.0,3642.84,7285.68
+71,241,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,1,3642.84,0.0,3642.84,3642.84
+71,315,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,2,3642.84,0.0,3642.84,7285.68
+71,365,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,1,3642.84,0.0,3642.84,3642.84
+71,445,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,3,3642.84,546.43,3096.41,9289.23
+71,481,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,2,3642.84,0.0,3642.84,7285.68
+71,569,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,1,3642.84,0.0,3642.84,3642.84
+71,582,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,3,3642.84,546.43,3096.41,9289.23
+71,589,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,3,3642.84,0.0,3642.84,10928.52
+71,781,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,1,3642.84,728.57,2914.27,2914.27
+71,788,KitchenPro Home & Kitchen Item 71,Home & Kitchen,KitchenPro,4,3642.84,364.28,3278.56,13114.24
+72,139,FunBox Toys Item 72,Toys,FunBox,1,2629.9,657.48,1972.42,1972.42
+72,166,FunBox Toys Item 72,Toys,FunBox,3,2629.9,394.48,2235.42,6706.26
+72,183,FunBox Toys Item 72,Toys,FunBox,1,2629.9,0.0,2629.9,2629.9
+72,263,FunBox Toys Item 72,Toys,FunBox,4,2629.9,0.0,2629.9,10519.6
+72,304,FunBox Toys Item 72,Toys,FunBox,1,2629.9,262.99,2366.91,2366.91
+72,315,FunBox Toys Item 72,Toys,FunBox,2,2629.9,394.48,2235.42,4470.84
+72,328,FunBox Toys Item 72,Toys,FunBox,2,2629.9,394.48,2235.42,4470.84
+72,371,FunBox Toys Item 72,Toys,FunBox,2,2629.9,262.99,2366.91,4733.82
+72,445,FunBox Toys Item 72,Toys,FunBox,1,2629.9,0.0,2629.9,2629.9
+72,464,FunBox Toys Item 72,Toys,FunBox,1,2629.9,0.0,2629.9,2629.9
+72,634,FunBox Toys Item 72,Toys,FunBox,1,2629.9,262.99,2366.91,2366.91
+72,669,FunBox Toys Item 72,Toys,FunBox,1,2629.9,0.0,2629.9,2629.9
+72,705,FunBox Toys Item 72,Toys,FunBox,3,2629.9,0.0,2629.9,7889.7
+73,48,Harvest Grocery Item 73,Grocery,Harvest,1,395.19,0.0,395.19,395.19
+73,60,Harvest Grocery Item 73,Grocery,Harvest,3,395.19,0.0,395.19,1185.57
+73,81,Harvest Grocery Item 73,Grocery,Harvest,1,395.19,39.52,355.67,355.67
+73,123,Harvest Grocery Item 73,Grocery,Harvest,1,395.19,59.28,335.91,335.91
+73,192,Harvest Grocery Item 73,Grocery,Harvest,1,395.19,0.0,395.19,395.19
+73,218,Harvest Grocery Item 73,Grocery,Harvest,2,395.19,39.52,355.67,711.34
+73,244,Harvest Grocery Item 73,Grocery,Harvest,2,395.19,0.0,395.19,790.38
+73,429,Harvest Grocery Item 73,Grocery,Harvest,2,395.19,0.0,395.19,790.38
+73,477,Harvest Grocery Item 73,Grocery,Harvest,1,395.19,0.0,395.19,395.19
+73,495,Harvest Grocery Item 73,Grocery,Harvest,1,395.19,39.52,355.67,355.67
+73,553,Harvest Grocery Item 73,Grocery,Harvest,1,395.19,19.76,375.43,375.43
+73,589,Harvest Grocery Item 73,Grocery,Harvest,1,395.19,0.0,395.19,395.19
+73,595,Harvest Grocery Item 73,Grocery,Harvest,1,395.19,0.0,395.19,395.19
+73,631,Harvest Grocery Item 73,Grocery,Harvest,3,395.19,98.8,296.39,889.17
+73,734,Harvest Grocery Item 73,Grocery,Harvest,1,395.19,0.0,395.19,395.19
+74,2,FreshMart Grocery Item 74,Grocery,FreshMart,3,855.32,85.53,769.79,2309.37
+74,16,FreshMart Grocery Item 74,Grocery,FreshMart,1,855.32,0.0,855.32,855.32
+74,31,FreshMart Grocery Item 74,Grocery,FreshMart,1,855.32,0.0,855.32,855.32
+74,69,FreshMart Grocery Item 74,Grocery,FreshMart,2,855.32,0.0,855.32,1710.64
+74,96,FreshMart Grocery Item 74,Grocery,FreshMart,1,855.32,85.53,769.79,769.79
+74,295,FreshMart Grocery Item 74,Grocery,FreshMart,3,855.32,171.06,684.26,2052.78
+74,452,FreshMart Grocery Item 74,Grocery,FreshMart,1,855.32,0.0,855.32,855.32
+74,581,FreshMart Grocery Item 74,Grocery,FreshMart,2,855.32,0.0,855.32,1710.64
+74,588,FreshMart Grocery Item 74,Grocery,FreshMart,2,855.32,85.53,769.79,1539.58
+74,623,FreshMart Grocery Item 74,Grocery,FreshMart,1,855.32,0.0,855.32,855.32
+74,691,FreshMart Grocery Item 74,Grocery,FreshMart,1,855.32,0.0,855.32,855.32
+74,717,FreshMart Grocery Item 74,Grocery,FreshMart,1,855.32,0.0,855.32,855.32
+74,727,FreshMart Grocery Item 74,Grocery,FreshMart,1,855.32,85.53,769.79,769.79
+74,739,FreshMart Grocery Item 74,Grocery,FreshMart,4,855.32,128.3,727.02,2908.08
+75,231,ToyJoy Toys Item 75,Toys,ToyJoy,1,2341.28,0.0,2341.28,2341.28
+75,246,ToyJoy Toys Item 75,Toys,ToyJoy,1,2341.28,468.26,1873.02,1873.02
+75,280,ToyJoy Toys Item 75,Toys,ToyJoy,1,2341.28,0.0,2341.28,2341.28
+75,405,ToyJoy Toys Item 75,Toys,ToyJoy,1,2341.28,234.13,2107.15,2107.15
+75,486,ToyJoy Toys Item 75,Toys,ToyJoy,1,2341.28,0.0,2341.28,2341.28
+75,536,ToyJoy Toys Item 75,Toys,ToyJoy,3,2341.28,117.06,2224.22,6672.66
+75,565,ToyJoy Toys Item 75,Toys,ToyJoy,2,2341.28,234.13,2107.15,4214.3
+75,576,ToyJoy Toys Item 75,Toys,ToyJoy,1,2341.28,351.19,1990.09,1990.09
+75,640,ToyJoy Toys Item 75,Toys,ToyJoy,1,2341.28,234.13,2107.15,2107.15
+75,648,ToyJoy Toys Item 75,Toys,ToyJoy,1,2341.28,351.19,1990.09,1990.09
+75,757,ToyJoy Toys Item 75,Toys,ToyJoy,2,2341.28,0.0,2341.28,4682.56
+76,8,VoltX Electronics Item 76,Electronics,VoltX,2,50336.58,0.0,50336.58,100673.16
+76,109,VoltX Electronics Item 76,Electronics,VoltX,1,50336.58,2516.83,47819.75,47819.75
+76,186,VoltX Electronics Item 76,Electronics,VoltX,2,50336.58,0.0,50336.58,100673.16
+76,210,VoltX Electronics Item 76,Electronics,VoltX,3,50336.58,0.0,50336.58,151009.74
+76,217,VoltX Electronics Item 76,Electronics,VoltX,1,50336.58,7550.49,42786.09,42786.09
+76,335,VoltX Electronics Item 76,Electronics,VoltX,1,50336.58,10067.32,40269.26,40269.26
+76,350,VoltX Electronics Item 76,Electronics,VoltX,1,50336.58,7550.49,42786.09,42786.09
+76,409,VoltX Electronics Item 76,Electronics,VoltX,2,50336.58,5033.66,45302.92,90605.84
+76,546,VoltX Electronics Item 76,Electronics,VoltX,3,50336.58,0.0,50336.58,151009.74
+76,625,VoltX Electronics Item 76,Electronics,VoltX,2,50336.58,5033.66,45302.92,90605.84
+76,633,VoltX Electronics Item 76,Electronics,VoltX,2,50336.58,12584.14,37752.44,75504.88
+76,682,VoltX Electronics Item 76,Electronics,VoltX,2,50336.58,0.0,50336.58,100673.16
+76,736,VoltX Electronics Item 76,Electronics,VoltX,2,50336.58,0.0,50336.58,100673.16
+76,776,VoltX Electronics Item 76,Electronics,VoltX,1,50336.58,0.0,50336.58,50336.58
+76,778,VoltX Electronics Item 76,Electronics,VoltX,2,50336.58,0.0,50336.58,100673.16
+77,19,ToyJoy Toys Item 77,Toys,ToyJoy,2,966.26,48.31,917.95,1835.9
+77,86,ToyJoy Toys Item 77,Toys,ToyJoy,1,966.26,0.0,966.26,966.26
+77,122,ToyJoy Toys Item 77,Toys,ToyJoy,1,966.26,0.0,966.26,966.26
+77,128,ToyJoy Toys Item 77,Toys,ToyJoy,1,966.26,241.56,724.7,724.7
+77,159,ToyJoy Toys Item 77,Toys,ToyJoy,3,966.26,0.0,966.26,2898.78
+77,261,ToyJoy Toys Item 77,Toys,ToyJoy,4,966.26,0.0,966.26,3865.04
+77,264,ToyJoy Toys Item 77,Toys,ToyJoy,2,966.26,96.63,869.63,1739.26
+77,265,ToyJoy Toys Item 77,Toys,ToyJoy,2,966.26,96.63,869.63,1739.26
+77,292,ToyJoy Toys Item 77,Toys,ToyJoy,2,966.26,144.94,821.32,1642.64
+77,361,ToyJoy Toys Item 77,Toys,ToyJoy,3,966.26,0.0,966.26,2898.78
+77,522,ToyJoy Toys Item 77,Toys,ToyJoy,1,966.26,0.0,966.26,966.26
+77,543,ToyJoy Toys Item 77,Toys,ToyJoy,3,966.26,96.63,869.63,2608.89
+77,628,ToyJoy Toys Item 77,Toys,ToyJoy,1,966.26,0.0,966.26,966.26
+77,638,ToyJoy Toys Item 77,Toys,ToyJoy,1,966.26,144.94,821.32,821.32
+77,665,ToyJoy Toys Item 77,Toys,ToyJoy,1,966.26,0.0,966.26,966.26
+77,714,ToyJoy Toys Item 77,Toys,ToyJoy,1,966.26,193.25,773.01,773.01
+77,747,ToyJoy Toys Item 77,Toys,ToyJoy,1,966.26,48.31,917.95,917.95
+78,105,FreshMart Grocery Item 78,Grocery,FreshMart,3,302.45,0.0,302.45,907.35
+78,188,FreshMart Grocery Item 78,Grocery,FreshMart,2,302.45,0.0,302.45,604.9
+78,307,FreshMart Grocery Item 78,Grocery,FreshMart,1,302.45,0.0,302.45,302.45
+78,346,FreshMart Grocery Item 78,Grocery,FreshMart,1,302.45,0.0,302.45,302.45
+78,420,FreshMart Grocery Item 78,Grocery,FreshMart,3,302.45,0.0,302.45,907.35
+78,488,FreshMart Grocery Item 78,Grocery,FreshMart,1,302.45,15.12,287.33,287.33
+78,560,FreshMart Grocery Item 78,Grocery,FreshMart,1,302.45,60.49,241.96,241.96
+78,626,FreshMart Grocery Item 78,Grocery,FreshMart,1,302.45,0.0,302.45,302.45
+78,653,FreshMart Grocery Item 78,Grocery,FreshMart,1,302.45,0.0,302.45,302.45
+78,683,FreshMart Grocery Item 78,Grocery,FreshMart,1,302.45,0.0,302.45,302.45
+78,689,FreshMart Grocery Item 78,Grocery,FreshMart,1,302.45,15.12,287.33,287.33
+78,738,FreshMart Grocery Item 78,Grocery,FreshMart,1,302.45,0.0,302.45,302.45
+78,779,FreshMart Grocery Item 78,Grocery,FreshMart,1,302.45,0.0,302.45,302.45
+79,96,PageTurner Books Item 79,Books,PageTurner,2,1313.46,0.0,1313.46,2626.92
+79,144,PageTurner Books Item 79,Books,PageTurner,4,1313.46,0.0,1313.46,5253.84
+79,294,PageTurner Books Item 79,Books,PageTurner,2,1313.46,328.36,985.1,1970.2
+79,299,PageTurner Books Item 79,Books,PageTurner,3,1313.46,197.02,1116.44,3349.32
+79,467,PageTurner Books Item 79,Books,PageTurner,1,1313.46,197.02,1116.44,1116.44
+79,508,PageTurner Books Item 79,Books,PageTurner,2,1313.46,0.0,1313.46,2626.92
+79,724,PageTurner Books Item 79,Books,PageTurner,3,1313.46,65.67,1247.79,3743.37
+80,14,GlowCraft Beauty Item 80,Beauty,GlowCraft,1,2283.3,0.0,2283.3,2283.3
+80,36,GlowCraft Beauty Item 80,Beauty,GlowCraft,2,2283.3,0.0,2283.3,4566.6
+80,49,GlowCraft Beauty Item 80,Beauty,GlowCraft,1,2283.3,0.0,2283.3,2283.3
+80,115,GlowCraft Beauty Item 80,Beauty,GlowCraft,3,2283.3,0.0,2283.3,6849.9
+80,281,GlowCraft Beauty Item 80,Beauty,GlowCraft,1,2283.3,342.5,1940.8,1940.8
+80,313,GlowCraft Beauty Item 80,Beauty,GlowCraft,1,2283.3,0.0,2283.3,2283.3
+80,397,GlowCraft Beauty Item 80,Beauty,GlowCraft,1,2283.3,342.5,1940.8,1940.8
+80,424,GlowCraft Beauty Item 80,Beauty,GlowCraft,1,2283.3,0.0,2283.3,2283.3
+80,469,GlowCraft Beauty Item 80,Beauty,GlowCraft,1,2283.3,570.83,1712.47,1712.47
+80,470,GlowCraft Beauty Item 80,Beauty,GlowCraft,1,2283.3,456.66,1826.64,1826.64
+80,508,GlowCraft Beauty Item 80,Beauty,GlowCraft,2,2283.3,0.0,2283.3,4566.6
+80,571,GlowCraft Beauty Item 80,Beauty,GlowCraft,1,2283.3,342.5,1940.8,1940.8
+80,675,GlowCraft Beauty Item 80,Beauty,GlowCraft,1,2283.3,114.17,2169.13,2169.13
+80,688,GlowCraft Beauty Item 80,Beauty,GlowCraft,3,2283.3,456.66,1826.64,5479.92
+80,728,GlowCraft Beauty Item 80,Beauty,GlowCraft,4,2283.3,456.66,1826.64,7306.56
+80,729,GlowCraft Beauty Item 80,Beauty,GlowCraft,1,2283.3,0.0,2283.3,2283.3
+81,72,LitWorld Books Item 81,Books,LitWorld,2,404.29,20.21,384.08,768.16
+81,139,LitWorld Books Item 81,Books,LitWorld,2,404.29,0.0,404.29,808.58
+81,223,LitWorld Books Item 81,Books,LitWorld,1,404.29,40.43,363.86,363.86
+81,446,LitWorld Books Item 81,Books,LitWorld,2,404.29,40.43,363.86,727.72
+81,551,LitWorld Books Item 81,Books,LitWorld,4,404.29,40.43,363.86,1455.44
+81,567,LitWorld Books Item 81,Books,LitWorld,1,404.29,0.0,404.29,404.29
+81,699,LitWorld Books Item 81,Books,LitWorld,1,404.29,0.0,404.29,404.29
+81,703,LitWorld Books Item 81,Books,LitWorld,1,404.29,60.64,343.65,343.65
+82,64,PageTurner Books Item 82,Books,PageTurner,1,1847.34,369.47,1477.87,1477.87
+82,100,PageTurner Books Item 82,Books,PageTurner,1,1847.34,0.0,1847.34,1847.34
+82,178,PageTurner Books Item 82,Books,PageTurner,4,1847.34,0.0,1847.34,7389.36
+82,241,PageTurner Books Item 82,Books,PageTurner,1,1847.34,0.0,1847.34,1847.34
+82,421,PageTurner Books Item 82,Books,PageTurner,2,1847.34,0.0,1847.34,3694.68
+82,471,PageTurner Books Item 82,Books,PageTurner,1,1847.34,0.0,1847.34,1847.34
+82,608,PageTurner Books Item 82,Books,PageTurner,1,1847.34,184.73,1662.61,1662.61
+82,635,PageTurner Books Item 82,Books,PageTurner,1,1847.34,0.0,1847.34,1847.34
+82,665,PageTurner Books Item 82,Books,PageTurner,2,1847.34,277.1,1570.24,3140.48
+83,18,FunBox Toys Item 83,Toys,FunBox,1,2413.63,241.36,2172.27,2172.27
+83,30,FunBox Toys Item 83,Toys,FunBox,1,2413.63,120.68,2292.95,2292.95
+83,102,FunBox Toys Item 83,Toys,FunBox,1,2413.63,482.73,1930.9,1930.9
+83,149,FunBox Toys Item 83,Toys,FunBox,1,2413.63,0.0,2413.63,2413.63
+83,466,FunBox Toys Item 83,Toys,FunBox,1,2413.63,0.0,2413.63,2413.63
+83,491,FunBox Toys Item 83,Toys,FunBox,2,2413.63,0.0,2413.63,4827.26
+83,587,FunBox Toys Item 83,Toys,FunBox,2,2413.63,120.68,2292.95,4585.9
+83,619,FunBox Toys Item 83,Toys,FunBox,1,2413.63,120.68,2292.95,2292.95
+83,659,FunBox Toys Item 83,Toys,FunBox,1,2413.63,241.36,2172.27,2172.27
+83,695,FunBox Toys Item 83,Toys,FunBox,1,2413.63,0.0,2413.63,2413.63
+83,735,FunBox Toys Item 83,Toys,FunBox,1,2413.63,120.68,2292.95,2292.95
+83,755,FunBox Toys Item 83,Toys,FunBox,1,2413.63,0.0,2413.63,2413.63
+84,31,FitNation Sports Item 84,Sports,FitNation,1,4592.01,0.0,4592.01,4592.01
+84,129,FitNation Sports Item 84,Sports,FitNation,1,4592.01,0.0,4592.01,4592.01
+84,160,FitNation Sports Item 84,Sports,FitNation,1,4592.01,0.0,4592.01,4592.01
+84,172,FitNation Sports Item 84,Sports,FitNation,2,4592.01,0.0,4592.01,9184.02
+84,184,FitNation Sports Item 84,Sports,FitNation,1,4592.01,0.0,4592.01,4592.01
+84,234,FitNation Sports Item 84,Sports,FitNation,1,4592.01,918.4,3673.61,3673.61
+84,337,FitNation Sports Item 84,Sports,FitNation,1,4592.01,0.0,4592.01,4592.01
+84,474,FitNation Sports Item 84,Sports,FitNation,1,4592.01,688.8,3903.21,3903.21
+84,485,FitNation Sports Item 84,Sports,FitNation,1,4592.01,688.8,3903.21,3903.21
+84,493,FitNation Sports Item 84,Sports,FitNation,1,4592.01,0.0,4592.01,4592.01
+84,525,FitNation Sports Item 84,Sports,FitNation,1,4592.01,229.6,4362.41,4362.41
+84,597,FitNation Sports Item 84,Sports,FitNation,2,4592.01,1148.0,3444.01,6888.02
+84,642,FitNation Sports Item 84,Sports,FitNation,1,4592.01,229.6,4362.41,4362.41
+84,648,FitNation Sports Item 84,Sports,FitNation,2,4592.01,0.0,4592.01,9184.02
+84,661,FitNation Sports Item 84,Sports,FitNation,1,4592.01,459.2,4132.81,4132.81
+84,728,FitNation Sports Item 84,Sports,FitNation,1,4592.01,0.0,4592.01,4592.01
+85,13,Nova Electronics Item 85,Electronics,Nova,1,56703.11,0.0,56703.11,56703.11
+85,94,Nova Electronics Item 85,Electronics,Nova,2,56703.11,5670.31,51032.8,102065.6
+85,124,Nova Electronics Item 85,Electronics,Nova,1,56703.11,2835.16,53867.95,53867.95
+85,145,Nova Electronics Item 85,Electronics,Nova,1,56703.11,11340.62,45362.49,45362.49
+85,185,Nova Electronics Item 85,Electronics,Nova,1,56703.11,0.0,56703.11,56703.11
+85,225,Nova Electronics Item 85,Electronics,Nova,1,56703.11,14175.78,42527.33,42527.33
+85,415,Nova Electronics Item 85,Electronics,Nova,1,56703.11,11340.62,45362.49,45362.49
+85,423,Nova Electronics Item 85,Electronics,Nova,1,56703.11,5670.31,51032.8,51032.8
+85,428,Nova Electronics Item 85,Electronics,Nova,1,56703.11,11340.62,45362.49,45362.49
+85,477,Nova Electronics Item 85,Electronics,Nova,3,56703.11,0.0,56703.11,170109.33
+85,560,Nova Electronics Item 85,Electronics,Nova,2,56703.11,0.0,56703.11,113406.22
+85,630,Nova Electronics Item 85,Electronics,Nova,3,56703.11,0.0,56703.11,170109.33
+85,713,Nova Electronics Item 85,Electronics,Nova,1,56703.11,0.0,56703.11,56703.11
+85,742,Nova Electronics Item 85,Electronics,Nova,1,56703.11,5670.31,51032.8,51032.8
+85,743,Nova Electronics Item 85,Electronics,Nova,2,56703.11,5670.31,51032.8,102065.6
+86,7,EthnoWear Fashion Item 86,Fashion,EthnoWear,1,1778.58,0.0,1778.58,1778.58
+86,28,EthnoWear Fashion Item 86,Fashion,EthnoWear,1,1778.58,88.93,1689.65,1689.65
+86,82,EthnoWear Fashion Item 86,Fashion,EthnoWear,2,1778.58,0.0,1778.58,3557.16
+86,167,EthnoWear Fashion Item 86,Fashion,EthnoWear,2,1778.58,355.72,1422.86,2845.72
+86,168,EthnoWear Fashion Item 86,Fashion,EthnoWear,1,1778.58,0.0,1778.58,1778.58
+86,395,EthnoWear Fashion Item 86,Fashion,EthnoWear,1,1778.58,0.0,1778.58,1778.58
+86,616,EthnoWear Fashion Item 86,Fashion,EthnoWear,2,1778.58,88.93,1689.65,3379.3
+86,744,EthnoWear Fashion Item 86,Fashion,EthnoWear,1,1778.58,0.0,1778.58,1778.58
+86,790,EthnoWear Fashion Item 86,Fashion,EthnoWear,1,1778.58,0.0,1778.58,1778.58
+87,127,DailyKart Grocery Item 87,Grocery,DailyKart,1,108.33,16.25,92.08,92.08
+87,177,DailyKart Grocery Item 87,Grocery,DailyKart,2,108.33,10.83,97.5,195.0
+87,198,DailyKart Grocery Item 87,Grocery,DailyKart,1,108.33,10.83,97.5,97.5
+87,214,DailyKart Grocery Item 87,Grocery,DailyKart,2,108.33,0.0,108.33,216.66
+87,240,DailyKart Grocery Item 87,Grocery,DailyKart,2,108.33,0.0,108.33,216.66
+87,298,DailyKart Grocery Item 87,Grocery,DailyKart,3,108.33,0.0,108.33,324.99
+87,305,DailyKart Grocery Item 87,Grocery,DailyKart,2,108.33,10.83,97.5,195.0
+87,423,DailyKart Grocery Item 87,Grocery,DailyKart,2,108.33,16.25,92.08,184.16
+87,477,DailyKart Grocery Item 87,Grocery,DailyKart,1,108.33,0.0,108.33,108.33
+87,552,DailyKart Grocery Item 87,Grocery,DailyKart,1,108.33,0.0,108.33,108.33
+87,568,DailyKart Grocery Item 87,Grocery,DailyKart,3,108.33,0.0,108.33,324.99
+87,615,DailyKart Grocery Item 87,Grocery,DailyKart,4,108.33,5.42,102.91,411.64
+87,655,DailyKart Grocery Item 87,Grocery,DailyKart,1,108.33,16.25,92.08,92.08
+88,81,VoltX Electronics Item 88,Electronics,VoltX,1,54296.9,8144.54,46152.36,46152.36
+88,231,VoltX Electronics Item 88,Electronics,VoltX,1,54296.9,0.0,54296.9,54296.9
+88,237,VoltX Electronics Item 88,Electronics,VoltX,2,54296.9,0.0,54296.9,108593.8
+88,237,VoltX Electronics Item 88,Electronics,VoltX,1,54296.9,5429.69,48867.21,48867.21
+88,268,VoltX Electronics Item 88,Electronics,VoltX,3,54296.9,0.0,54296.9,162890.7
+88,326,VoltX Electronics Item 88,Electronics,VoltX,2,54296.9,5429.69,48867.21,97734.42
+88,358,VoltX Electronics Item 88,Electronics,VoltX,1,54296.9,0.0,54296.9,54296.9
+88,456,VoltX Electronics Item 88,Electronics,VoltX,1,54296.9,8144.54,46152.36,46152.36
+88,528,VoltX Electronics Item 88,Electronics,VoltX,1,54296.9,10859.38,43437.52,43437.52
+88,579,VoltX Electronics Item 88,Electronics,VoltX,3,54296.9,0.0,54296.9,162890.7
+88,740,VoltX Electronics Item 88,Electronics,VoltX,4,54296.9,0.0,54296.9,217187.6
+88,790,VoltX Electronics Item 88,Electronics,VoltX,1,54296.9,0.0,54296.9,54296.9
+88,797,VoltX Electronics Item 88,Electronics,VoltX,2,54296.9,13574.22,40722.68,81445.36
+89,9,Nova Electronics Item 89,Electronics,Nova,2,58400.68,11680.14,46720.54,93441.08
+89,33,Nova Electronics Item 89,Electronics,Nova,1,58400.68,5840.07,52560.61,52560.61
+89,195,Nova Electronics Item 89,Electronics,Nova,2,58400.68,5840.07,52560.61,105121.22
+89,219,Nova Electronics Item 89,Electronics,Nova,2,58400.68,0.0,58400.68,116801.36
+89,239,Nova Electronics Item 89,Electronics,Nova,1,58400.68,5840.07,52560.61,52560.61
+89,242,Nova Electronics Item 89,Electronics,Nova,3,58400.68,11680.14,46720.54,140161.62
+89,247,Nova Electronics Item 89,Electronics,Nova,4,58400.68,0.0,58400.68,233602.72
+89,274,Nova Electronics Item 89,Electronics,Nova,1,58400.68,0.0,58400.68,58400.68
+89,322,Nova Electronics Item 89,Electronics,Nova,3,58400.68,0.0,58400.68,175202.04
+89,333,Nova Electronics Item 89,Electronics,Nova,3,58400.68,0.0,58400.68,175202.04
+89,377,Nova Electronics Item 89,Electronics,Nova,1,58400.68,0.0,58400.68,58400.68
+89,439,Nova Electronics Item 89,Electronics,Nova,1,58400.68,2920.03,55480.65,55480.65
+89,440,Nova Electronics Item 89,Electronics,Nova,1,58400.68,2920.03,55480.65,55480.65
+89,451,Nova Electronics Item 89,Electronics,Nova,1,58400.68,0.0,58400.68,58400.68
+89,473,Nova Electronics Item 89,Electronics,Nova,2,58400.68,0.0,58400.68,116801.36
+89,676,Nova Electronics Item 89,Electronics,Nova,1,58400.68,0.0,58400.68,58400.68
+89,739,Nova Electronics Item 89,Electronics,Nova,3,58400.68,0.0,58400.68,175202.04
+89,758,Nova Electronics Item 89,Electronics,Nova,4,58400.68,8760.1,49640.58,198562.32
+90,30,PageTurner Books Item 90,Books,PageTurner,1,1787.7,0.0,1787.7,1787.7
+90,88,PageTurner Books Item 90,Books,PageTurner,1,1787.7,0.0,1787.7,1787.7
+90,99,PageTurner Books Item 90,Books,PageTurner,2,1787.7,0.0,1787.7,3575.4
+90,132,PageTurner Books Item 90,Books,PageTurner,1,1787.7,268.15,1519.55,1519.55
+90,156,PageTurner Books Item 90,Books,PageTurner,1,1787.7,0.0,1787.7,1787.7
+90,169,PageTurner Books Item 90,Books,PageTurner,2,1787.7,89.38,1698.32,3396.64
+90,346,PageTurner Books Item 90,Books,PageTurner,2,1787.7,89.38,1698.32,3396.64
+90,381,PageTurner Books Item 90,Books,PageTurner,1,1787.7,0.0,1787.7,1787.7
+90,385,PageTurner Books Item 90,Books,PageTurner,1,1787.7,178.77,1608.93,1608.93
+90,450,PageTurner Books Item 90,Books,PageTurner,1,1787.7,178.77,1608.93,1608.93
+90,487,PageTurner Books Item 90,Books,PageTurner,4,1787.7,268.15,1519.55,6078.2
+90,521,PageTurner Books Item 90,Books,PageTurner,1,1787.7,178.77,1608.93,1608.93
+90,567,PageTurner Books Item 90,Books,PageTurner,1,1787.7,0.0,1787.7,1787.7
+90,684,PageTurner Books Item 90,Books,PageTurner,1,1787.7,178.77,1608.93,1608.93
+91,45,KitchenPro Home & Kitchen Item 91,Home & Kitchen,KitchenPro,1,5992.04,0.0,5992.04,5992.04
+91,182,KitchenPro Home & Kitchen Item 91,Home & Kitchen,KitchenPro,2,5992.04,0.0,5992.04,11984.08
+91,206,KitchenPro Home & Kitchen Item 91,Home & Kitchen,KitchenPro,3,5992.04,299.6,5692.44,17077.32
+91,279,KitchenPro Home & Kitchen Item 91,Home & Kitchen,KitchenPro,1,5992.04,898.81,5093.23,5093.23
+91,322,KitchenPro Home & Kitchen Item 91,Home & Kitchen,KitchenPro,1,5992.04,0.0,5992.04,5992.04
+91,334,KitchenPro Home & Kitchen Item 91,Home & Kitchen,KitchenPro,2,5992.04,299.6,5692.44,11384.88
+91,586,KitchenPro Home & Kitchen Item 91,Home & Kitchen,KitchenPro,1,5992.04,599.2,5392.84,5392.84
+91,604,KitchenPro Home & Kitchen Item 91,Home & Kitchen,KitchenPro,3,5992.04,0.0,5992.04,17976.12
+91,710,KitchenPro Home & Kitchen Item 91,Home & Kitchen,KitchenPro,1,5992.04,0.0,5992.04,5992.04
+92,32,FitNation Sports Item 92,Sports,FitNation,4,8320.93,0.0,8320.93,33283.72
+92,84,FitNation Sports Item 92,Sports,FitNation,1,8320.93,832.09,7488.84,7488.84
+92,96,FitNation Sports Item 92,Sports,FitNation,1,8320.93,0.0,8320.93,8320.93
+92,158,FitNation Sports Item 92,Sports,FitNation,1,8320.93,2080.23,6240.7,6240.7
+92,177,FitNation Sports Item 92,Sports,FitNation,1,8320.93,832.09,7488.84,7488.84
+92,234,FitNation Sports Item 92,Sports,FitNation,1,8320.93,832.09,7488.84,7488.84
+92,460,FitNation Sports Item 92,Sports,FitNation,1,8320.93,416.05,7904.88,7904.88
+92,465,FitNation Sports Item 92,Sports,FitNation,1,8320.93,1248.14,7072.79,7072.79
+92,472,FitNation Sports Item 92,Sports,FitNation,2,8320.93,1664.19,6656.74,13313.48
+92,494,FitNation Sports Item 92,Sports,FitNation,1,8320.93,1664.19,6656.74,6656.74
+92,502,FitNation Sports Item 92,Sports,FitNation,2,8320.93,416.05,7904.88,15809.76
+92,546,FitNation Sports Item 92,Sports,FitNation,1,8320.93,0.0,8320.93,8320.93
+92,614,FitNation Sports Item 92,Sports,FitNation,1,8320.93,0.0,8320.93,8320.93
+92,654,FitNation Sports Item 92,Sports,FitNation,3,8320.93,2080.23,6240.7,18722.1
+92,675,FitNation Sports Item 92,Sports,FitNation,1,8320.93,416.05,7904.88,7904.88
+93,92,Harvest Grocery Item 93,Grocery,Harvest,1,433.34,0.0,433.34,433.34
+93,117,Harvest Grocery Item 93,Grocery,Harvest,1,433.34,0.0,433.34,433.34
+93,125,Harvest Grocery Item 93,Grocery,Harvest,1,433.34,0.0,433.34,433.34
+93,175,Harvest Grocery Item 93,Grocery,Harvest,1,433.34,21.67,411.67,411.67
+93,207,Harvest Grocery Item 93,Grocery,Harvest,1,433.34,21.67,411.67,411.67
+93,229,Harvest Grocery Item 93,Grocery,Harvest,2,433.34,0.0,433.34,866.68
+93,235,Harvest Grocery Item 93,Grocery,Harvest,1,433.34,0.0,433.34,433.34
+93,311,Harvest Grocery Item 93,Grocery,Harvest,1,433.34,0.0,433.34,433.34
+93,327,Harvest Grocery Item 93,Grocery,Harvest,1,433.34,65.0,368.34,368.34
+93,372,Harvest Grocery Item 93,Grocery,Harvest,4,433.34,0.0,433.34,1733.36
+93,471,Harvest Grocery Item 93,Grocery,Harvest,4,433.34,0.0,433.34,1733.36
+93,551,Harvest Grocery Item 93,Grocery,Harvest,2,433.34,0.0,433.34,866.68
+93,554,Harvest Grocery Item 93,Grocery,Harvest,2,433.34,0.0,433.34,866.68
+93,571,Harvest Grocery Item 93,Grocery,Harvest,1,433.34,43.33,390.01,390.01
+93,606,Harvest Grocery Item 93,Grocery,Harvest,1,433.34,21.67,411.67,411.67
+93,649,Harvest Grocery Item 93,Grocery,Harvest,1,433.34,0.0,433.34,433.34
+93,735,Harvest Grocery Item 93,Grocery,Harvest,2,433.34,43.33,390.01,780.02
+93,736,Harvest Grocery Item 93,Grocery,Harvest,2,433.34,0.0,433.34,866.68
+94,62,Aura Beauty Item 94,Beauty,Aura,2,1909.64,95.48,1814.16,3628.32
+94,70,Aura Beauty Item 94,Beauty,Aura,1,1909.64,190.96,1718.68,1718.68
+94,214,Aura Beauty Item 94,Beauty,Aura,1,1909.64,381.93,1527.71,1527.71
+94,285,Aura Beauty Item 94,Beauty,Aura,2,1909.64,0.0,1909.64,3819.28
+94,350,Aura Beauty Item 94,Beauty,Aura,1,1909.64,190.96,1718.68,1718.68
+94,374,Aura Beauty Item 94,Beauty,Aura,1,1909.64,0.0,1909.64,1909.64
+94,556,Aura Beauty Item 94,Beauty,Aura,1,1909.64,0.0,1909.64,1909.64
+94,746,Aura Beauty Item 94,Beauty,Aura,1,1909.64,190.96,1718.68,1718.68
+95,95,FunBox Toys Item 95,Toys,FunBox,1,1132.96,0.0,1132.96,1132.96
+95,118,FunBox Toys Item 95,Toys,FunBox,2,1132.96,0.0,1132.96,2265.92
+95,133,FunBox Toys Item 95,Toys,FunBox,1,1132.96,0.0,1132.96,1132.96
+95,151,FunBox Toys Item 95,Toys,FunBox,4,1132.96,169.94,963.02,3852.08
+95,165,FunBox Toys Item 95,Toys,FunBox,1,1132.96,113.3,1019.66,1019.66
+95,282,FunBox Toys Item 95,Toys,FunBox,1,1132.96,0.0,1132.96,1132.96
+95,415,FunBox Toys Item 95,Toys,FunBox,1,1132.96,56.65,1076.31,1076.31
+95,482,FunBox Toys Item 95,Toys,FunBox,1,1132.96,226.59,906.37,906.37
+95,503,FunBox Toys Item 95,Toys,FunBox,1,1132.96,0.0,1132.96,1132.96
+95,533,FunBox Toys Item 95,Toys,FunBox,1,1132.96,0.0,1132.96,1132.96
+95,602,FunBox Toys Item 95,Toys,FunBox,1,1132.96,0.0,1132.96,1132.96
+95,636,FunBox Toys Item 95,Toys,FunBox,1,1132.96,226.59,906.37,906.37
+95,668,FunBox Toys Item 95,Toys,FunBox,3,1132.96,226.59,906.37,2719.11
+95,766,FunBox Toys Item 95,Toys,FunBox,3,1132.96,56.65,1076.31,3228.93
+95,782,FunBox Toys Item 95,Toys,FunBox,1,1132.96,0.0,1132.96,1132.96
+95,787,FunBox Toys Item 95,Toys,FunBox,1,1132.96,56.65,1076.31,1076.31
+96,6,LitWorld Books Item 96,Books,LitWorld,1,1778.8,0.0,1778.8,1778.8
+96,59,LitWorld Books Item 96,Books,LitWorld,1,1778.8,0.0,1778.8,1778.8
+96,78,LitWorld Books Item 96,Books,LitWorld,1,1778.8,88.94,1689.86,1689.86
+96,89,LitWorld Books Item 96,Books,LitWorld,2,1778.8,266.82,1511.98,3023.96
+96,199,LitWorld Books Item 96,Books,LitWorld,2,1778.8,0.0,1778.8,3557.6
+96,233,LitWorld Books Item 96,Books,LitWorld,1,1778.8,0.0,1778.8,1778.8
+96,266,LitWorld Books Item 96,Books,LitWorld,2,1778.8,266.82,1511.98,3023.96
+96,276,LitWorld Books Item 96,Books,LitWorld,1,1778.8,0.0,1778.8,1778.8
+96,326,LitWorld Books Item 96,Books,LitWorld,1,1778.8,444.7,1334.1,1334.1
+96,505,LitWorld Books Item 96,Books,LitWorld,1,1778.8,0.0,1778.8,1778.8
+96,526,LitWorld Books Item 96,Books,LitWorld,1,1778.8,177.88,1600.92,1600.92
+96,552,LitWorld Books Item 96,Books,LitWorld,1,1778.8,0.0,1778.8,1778.8
+96,555,LitWorld Books Item 96,Books,LitWorld,2,1778.8,0.0,1778.8,3557.6
+96,664,LitWorld Books Item 96,Books,LitWorld,1,1778.8,0.0,1778.8,1778.8
+96,748,LitWorld Books Item 96,Books,LitWorld,1,1778.8,0.0,1778.8,1778.8
+97,40,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,3,2824.94,282.49,2542.45,7627.35
+97,111,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,1,2824.94,282.49,2542.45,2542.45
+97,120,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,3,2824.94,0.0,2824.94,8474.82
+97,127,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,1,2824.94,564.99,2259.95,2259.95
+97,256,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,2,2824.94,141.25,2683.69,5367.38
+97,298,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,1,2824.94,0.0,2824.94,2824.94
+97,319,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,1,2824.94,423.74,2401.2,2401.2
+97,352,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,1,2824.94,0.0,2824.94,2824.94
+97,358,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,1,2824.94,141.25,2683.69,2683.69
+97,367,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,1,2824.94,0.0,2824.94,2824.94
+97,431,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,1,2824.94,564.99,2259.95,2259.95
+97,489,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,1,2824.94,141.25,2683.69,2683.69
+97,529,UrbanWeave Fashion Item 97,Fashion,UrbanWeave,1,2824.94,0.0,2824.94,2824.94
+98,3,EduBooks Books Item 98,Books,EduBooks,3,1478.93,73.95,1404.98,4214.94
+98,3,EduBooks Books Item 98,Books,EduBooks,2,1478.93,147.89,1331.04,2662.08
+98,16,EduBooks Books Item 98,Books,EduBooks,1,1478.93,0.0,1478.93,1478.93
+98,66,EduBooks Books Item 98,Books,EduBooks,1,1478.93,221.84,1257.09,1257.09
+98,179,EduBooks Books Item 98,Books,EduBooks,2,1478.93,295.79,1183.14,2366.28
+98,236,EduBooks Books Item 98,Books,EduBooks,1,1478.93,0.0,1478.93,1478.93
+98,408,EduBooks Books Item 98,Books,EduBooks,2,1478.93,0.0,1478.93,2957.86
+98,418,EduBooks Books Item 98,Books,EduBooks,1,1478.93,0.0,1478.93,1478.93
+98,426,EduBooks Books Item 98,Books,EduBooks,2,1478.93,0.0,1478.93,2957.86
+98,511,EduBooks Books Item 98,Books,EduBooks,1,1478.93,0.0,1478.93,1478.93
+98,512,EduBooks Books Item 98,Books,EduBooks,1,1478.93,295.79,1183.14,1183.14
+98,537,EduBooks Books Item 98,Books,EduBooks,1,1478.93,147.89,1331.04,1331.04
+98,555,EduBooks Books Item 98,Books,EduBooks,1,1478.93,0.0,1478.93,1478.93
+98,638,EduBooks Books Item 98,Books,EduBooks,2,1478.93,295.79,1183.14,2366.28
+98,723,EduBooks Books Item 98,Books,EduBooks,1,1478.93,147.89,1331.04,1331.04
+98,726,EduBooks Books Item 98,Books,EduBooks,3,1478.93,73.95,1404.98,4214.94
+99,58,Harvest Grocery Item 99,Grocery,Harvest,4,991.34,49.57,941.77,3767.08
+99,65,Harvest Grocery Item 99,Grocery,Harvest,2,991.34,0.0,991.34,1982.68
+99,115,Harvest Grocery Item 99,Grocery,Harvest,1,991.34,0.0,991.34,991.34
+99,140,Harvest Grocery Item 99,Grocery,Harvest,2,991.34,0.0,991.34,1982.68
+99,297,Harvest Grocery Item 99,Grocery,Harvest,2,991.34,99.13,892.21,1784.42
+99,349,Harvest Grocery Item 99,Grocery,Harvest,1,991.34,198.27,793.07,793.07
+99,456,Harvest Grocery Item 99,Grocery,Harvest,1,991.34,198.27,793.07,793.07
+99,483,Harvest Grocery Item 99,Grocery,Harvest,3,991.34,49.57,941.77,2825.31
+99,511,Harvest Grocery Item 99,Grocery,Harvest,1,991.34,99.13,892.21,892.21
+99,525,Harvest Grocery Item 99,Grocery,Harvest,4,991.34,0.0,991.34,3965.36
+99,543,Harvest Grocery Item 99,Grocery,Harvest,1,991.34,0.0,991.34,991.34
+99,575,Harvest Grocery Item 99,Grocery,Harvest,1,991.34,148.7,842.64,842.64
+99,681,Harvest Grocery Item 99,Grocery,Harvest,1,991.34,0.0,991.34,991.34
+99,712,Harvest Grocery Item 99,Grocery,Harvest,1,991.34,99.13,892.21,892.21
+100,16,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,1,922.99,0.0,922.99,922.99
+100,24,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,1,922.99,92.3,830.69,830.69
+100,47,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,1,922.99,92.3,830.69,830.69
+100,98,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,1,922.99,92.3,830.69,830.69
+100,182,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,1,922.99,92.3,830.69,830.69
+100,208,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,1,922.99,92.3,830.69,830.69
+100,213,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,2,922.99,0.0,922.99,1845.98
+100,343,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,1,922.99,138.45,784.54,784.54
+100,376,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,1,922.99,184.6,738.39,738.39
+100,416,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,1,922.99,138.45,784.54,784.54
+100,510,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,1,922.99,0.0,922.99,922.99
+100,689,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,1,922.99,0.0,922.99,922.99
+100,779,CasaJoy Home & Kitchen Item 100,Home & Kitchen,CasaJoy,2,922.99,0.0,922.99,1845.98
+101,74,KitchenPro Home & Kitchen Item 101,Home & Kitchen,KitchenPro,4,2856.53,571.31,2285.22,9140.88
+101,157,KitchenPro Home & Kitchen Item 101,Home & Kitchen,KitchenPro,1,2856.53,285.65,2570.88,2570.88
+101,211,KitchenPro Home & Kitchen Item 101,Home & Kitchen,KitchenPro,4,2856.53,0.0,2856.53,11426.12
+101,303,KitchenPro Home & Kitchen Item 101,Home & Kitchen,KitchenPro,1,2856.53,142.83,2713.7,2713.7
+101,394,KitchenPro Home & Kitchen Item 101,Home & Kitchen,KitchenPro,1,2856.53,285.65,2570.88,2570.88
+101,500,KitchenPro Home & Kitchen Item 101,Home & Kitchen,KitchenPro,3,2856.53,285.65,2570.88,7712.64
+101,585,KitchenPro Home & Kitchen Item 101,Home & Kitchen,KitchenPro,2,2856.53,0.0,2856.53,5713.06
+101,695,KitchenPro Home & Kitchen Item 101,Home & Kitchen,KitchenPro,1,2856.53,142.83,2713.7,2713.7
+101,724,KitchenPro Home & Kitchen Item 101,Home & Kitchen,KitchenPro,3,2856.53,428.48,2428.05,7284.15
+101,772,KitchenPro Home & Kitchen Item 101,Home & Kitchen,KitchenPro,1,2856.53,0.0,2856.53,2856.53
+102,23,FreshMart Grocery Item 102,Grocery,FreshMart,2,76.47,3.82,72.65,145.3
+102,41,FreshMart Grocery Item 102,Grocery,FreshMart,1,76.47,11.47,65.0,65.0
+102,49,FreshMart Grocery Item 102,Grocery,FreshMart,3,76.47,7.65,68.82,206.46
+102,57,FreshMart Grocery Item 102,Grocery,FreshMart,1,76.47,11.47,65.0,65.0
+102,208,FreshMart Grocery Item 102,Grocery,FreshMart,4,76.47,0.0,76.47,305.88
+102,219,FreshMart Grocery Item 102,Grocery,FreshMart,1,76.47,0.0,76.47,76.47
+102,267,FreshMart Grocery Item 102,Grocery,FreshMart,2,76.47,7.65,68.82,137.64
+102,435,FreshMart Grocery Item 102,Grocery,FreshMart,2,76.47,19.12,57.35,114.7
+102,446,FreshMart Grocery Item 102,Grocery,FreshMart,1,76.47,0.0,76.47,76.47
+102,449,FreshMart Grocery Item 102,Grocery,FreshMart,1,76.47,7.65,68.82,68.82
+102,628,FreshMart Grocery Item 102,Grocery,FreshMart,4,76.47,0.0,76.47,305.88
+102,679,FreshMart Grocery Item 102,Grocery,FreshMart,4,76.47,3.82,72.65,290.6
+102,732,FreshMart Grocery Item 102,Grocery,FreshMart,1,76.47,0.0,76.47,76.47
+103,144,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,669.04,6021.35,6021.35
+103,224,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,669.04,6021.35,6021.35
+103,229,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,2,6690.39,0.0,6690.39,13380.78
+103,249,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,1338.08,5352.31,5352.31
+103,300,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,669.04,6021.35,6021.35
+103,302,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,0.0,6690.39,6690.39
+103,412,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,669.04,6021.35,6021.35
+103,421,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,669.04,6021.35,6021.35
+103,457,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,669.04,6021.35,6021.35
+103,495,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,0.0,6690.39,6690.39
+103,512,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,3,6690.39,1338.08,5352.31,16056.93
+103,527,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,669.04,6021.35,6021.35
+103,680,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,1003.56,5686.83,5686.83
+103,716,CasaJoy Home & Kitchen Item 103,Home & Kitchen,CasaJoy,1,6690.39,669.04,6021.35,6021.35
+104,41,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,1,3496.42,0.0,3496.42,3496.42
+104,54,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,1,3496.42,0.0,3496.42,3496.42
+104,84,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,2,3496.42,524.46,2971.96,5943.92
+104,195,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,1,3496.42,0.0,3496.42,3496.42
+104,203,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,4,3496.42,0.0,3496.42,13985.68
+104,316,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,1,3496.42,349.64,3146.78,3146.78
+104,324,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,2,3496.42,0.0,3496.42,6992.84
+104,372,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,3,3496.42,524.46,2971.96,8915.88
+104,381,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,3,3496.42,524.46,2971.96,8915.88
+104,410,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,1,3496.42,0.0,3496.42,3496.42
+104,417,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,2,3496.42,0.0,3496.42,6992.84
+104,516,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,2,3496.42,524.46,2971.96,5943.92
+104,520,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,2,3496.42,174.82,3321.6,6643.2
+104,535,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,2,3496.42,0.0,3496.42,6992.84
+104,768,KitchenPro Home & Kitchen Item 104,Home & Kitchen,KitchenPro,1,3496.42,349.64,3146.78,3146.78
+105,41,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,1,4254.44,0.0,4254.44,4254.44
+105,118,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,1,4254.44,425.44,3829.0,3829.0
+105,122,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,1,4254.44,638.17,3616.27,3616.27
+105,253,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,1,4254.44,1063.61,3190.83,3190.83
+105,294,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,3,4254.44,0.0,4254.44,12763.32
+105,394,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,4,4254.44,212.72,4041.72,16166.88
+105,434,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,1,4254.44,0.0,4254.44,4254.44
+105,450,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,1,4254.44,0.0,4254.44,4254.44
+105,489,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,3,4254.44,0.0,4254.44,12763.32
+105,508,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,1,4254.44,0.0,4254.44,4254.44
+105,539,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,2,4254.44,0.0,4254.44,8508.88
+105,720,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,2,4254.44,0.0,4254.44,8508.88
+105,745,UrbanWeave Fashion Item 105,Fashion,UrbanWeave,1,4254.44,425.44,3829.0,3829.0
+106,58,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,1,4157.5,0.0,4157.5,4157.5
+106,64,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,1,4157.5,0.0,4157.5,4157.5
+106,77,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,4,4157.5,0.0,4157.5,16630.0
+106,117,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,2,4157.5,0.0,4157.5,8315.0
+106,134,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,1,4157.5,0.0,4157.5,4157.5
+106,173,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,3,4157.5,623.62,3533.88,10601.64
+106,331,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,2,4157.5,831.5,3326.0,6652.0
+106,370,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,3,4157.5,0.0,4157.5,12472.5
+106,408,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,2,4157.5,415.75,3741.75,7483.5
+106,423,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,2,4157.5,0.0,4157.5,8315.0
+106,455,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,1,4157.5,623.62,3533.88,3533.88
+106,541,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,1,4157.5,0.0,4157.5,4157.5
+106,549,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,2,4157.5,831.5,3326.0,6652.0
+106,682,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,1,4157.5,415.75,3741.75,3741.75
+106,700,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,1,4157.5,207.88,3949.62,3949.62
+106,795,KitchenPro Home & Kitchen Item 106,Home & Kitchen,KitchenPro,4,4157.5,207.88,3949.62,15798.48
+107,21,UrbanWeave Fashion Item 107,Fashion,UrbanWeave,1,3854.83,963.71,2891.12,2891.12
+107,164,UrbanWeave Fashion Item 107,Fashion,UrbanWeave,4,3854.83,385.48,3469.35,13877.4
+107,216,UrbanWeave Fashion Item 107,Fashion,UrbanWeave,1,3854.83,963.71,2891.12,2891.12
+107,248,UrbanWeave Fashion Item 107,Fashion,UrbanWeave,1,3854.83,0.0,3854.83,3854.83
+107,261,UrbanWeave Fashion Item 107,Fashion,UrbanWeave,1,3854.83,0.0,3854.83,3854.83
+107,272,UrbanWeave Fashion Item 107,Fashion,UrbanWeave,1,3854.83,0.0,3854.83,3854.83
+107,323,UrbanWeave Fashion Item 107,Fashion,UrbanWeave,1,3854.83,0.0,3854.83,3854.83
+107,433,UrbanWeave Fashion Item 107,Fashion,UrbanWeave,1,3854.83,578.22,3276.61,3276.61
+107,448,UrbanWeave Fashion Item 107,Fashion,UrbanWeave,1,3854.83,0.0,3854.83,3854.83
+107,613,UrbanWeave Fashion Item 107,Fashion,UrbanWeave,1,3854.83,770.97,3083.86,3083.86
+107,759,UrbanWeave Fashion Item 107,Fashion,UrbanWeave,1,3854.83,385.48,3469.35,3469.35
+108,4,StreetLine Fashion Item 108,Fashion,StreetLine,1,1699.42,169.94,1529.48,1529.48
+108,91,StreetLine Fashion Item 108,Fashion,StreetLine,1,1699.42,339.88,1359.54,1359.54
+108,148,StreetLine Fashion Item 108,Fashion,StreetLine,1,1699.42,0.0,1699.42,1699.42
+108,299,StreetLine Fashion Item 108,Fashion,StreetLine,1,1699.42,84.97,1614.45,1614.45
+108,328,StreetLine Fashion Item 108,Fashion,StreetLine,1,1699.42,169.94,1529.48,1529.48
+108,406,StreetLine Fashion Item 108,Fashion,StreetLine,1,1699.42,0.0,1699.42,1699.42
+108,436,StreetLine Fashion Item 108,Fashion,StreetLine,1,1699.42,84.97,1614.45,1614.45
+108,744,StreetLine Fashion Item 108,Fashion,StreetLine,1,1699.42,84.97,1614.45,1614.45
+108,768,StreetLine Fashion Item 108,Fashion,StreetLine,1,1699.42,84.97,1614.45,1614.45
+109,49,Zenith Electronics Item 109,Electronics,Zenith,2,21330.35,5332.59,15997.76,31995.52
+109,212,Zenith Electronics Item 109,Electronics,Zenith,2,21330.35,1066.52,20263.83,40527.66
+109,223,Zenith Electronics Item 109,Electronics,Zenith,2,21330.35,1066.52,20263.83,40527.66
+109,268,Zenith Electronics Item 109,Electronics,Zenith,1,21330.35,0.0,21330.35,21330.35
+109,379,Zenith Electronics Item 109,Electronics,Zenith,3,21330.35,1066.52,20263.83,60791.49
+109,380,Zenith Electronics Item 109,Electronics,Zenith,2,21330.35,1066.52,20263.83,40527.66
+109,381,Zenith Electronics Item 109,Electronics,Zenith,4,21330.35,1066.52,20263.83,81055.32
+109,463,Zenith Electronics Item 109,Electronics,Zenith,1,21330.35,0.0,21330.35,21330.35
+109,568,Zenith Electronics Item 109,Electronics,Zenith,1,21330.35,4266.07,17064.28,17064.28
+109,605,Zenith Electronics Item 109,Electronics,Zenith,1,21330.35,0.0,21330.35,21330.35
+110,155,Aura Beauty Item 110,Beauty,Aura,2,2967.1,296.71,2670.39,5340.78
+110,218,Aura Beauty Item 110,Beauty,Aura,2,2967.1,296.71,2670.39,5340.78
+110,294,Aura Beauty Item 110,Beauty,Aura,1,2967.1,0.0,2967.1,2967.1
+110,413,Aura Beauty Item 110,Beauty,Aura,1,2967.1,445.06,2522.04,2522.04
+110,476,Aura Beauty Item 110,Beauty,Aura,2,2967.1,445.06,2522.04,5044.08
+110,517,Aura Beauty Item 110,Beauty,Aura,1,2967.1,0.0,2967.1,2967.1
+110,538,Aura Beauty Item 110,Beauty,Aura,1,2967.1,0.0,2967.1,2967.1
+110,572,Aura Beauty Item 110,Beauty,Aura,3,2967.1,741.78,2225.32,6675.96
+110,584,Aura Beauty Item 110,Beauty,Aura,1,2967.1,0.0,2967.1,2967.1
+110,721,Aura Beauty Item 110,Beauty,Aura,1,2967.1,148.35,2818.75,2818.75
+110,736,Aura Beauty Item 110,Beauty,Aura,1,2967.1,296.71,2670.39,2670.39
+110,788,Aura Beauty Item 110,Beauty,Aura,1,2967.1,0.0,2967.1,2967.1
+111,8,HerbalPure Beauty Item 111,Beauty,HerbalPure,1,966.68,0.0,966.68,966.68
+111,40,HerbalPure Beauty Item 111,Beauty,HerbalPure,1,966.68,0.0,966.68,966.68
+111,136,HerbalPure Beauty Item 111,Beauty,HerbalPure,1,966.68,0.0,966.68,966.68
+111,215,HerbalPure Beauty Item 111,Beauty,HerbalPure,1,966.68,0.0,966.68,966.68
+111,221,HerbalPure Beauty Item 111,Beauty,HerbalPure,1,966.68,48.33,918.35,918.35
+111,289,HerbalPure Beauty Item 111,Beauty,HerbalPure,4,966.68,0.0,966.68,3866.72
+111,375,HerbalPure Beauty Item 111,Beauty,HerbalPure,1,966.68,0.0,966.68,966.68
+111,418,HerbalPure Beauty Item 111,Beauty,HerbalPure,4,966.68,145.0,821.68,3286.72
+111,550,HerbalPure Beauty Item 111,Beauty,HerbalPure,1,966.68,48.33,918.35,918.35
+111,624,HerbalPure Beauty Item 111,Beauty,HerbalPure,1,966.68,145.0,821.68,821.68
+111,668,HerbalPure Beauty Item 111,Beauty,HerbalPure,2,966.68,48.33,918.35,1836.7
+111,672,HerbalPure Beauty Item 111,Beauty,HerbalPure,1,966.68,0.0,966.68,966.68
+111,677,HerbalPure Beauty Item 111,Beauty,HerbalPure,3,966.68,145.0,821.68,2465.04
+112,143,Harvest Grocery Item 112,Grocery,Harvest,1,408.4,0.0,408.4,408.4
+112,230,Harvest Grocery Item 112,Grocery,Harvest,1,408.4,40.84,367.56,367.56
+112,321,Harvest Grocery Item 112,Grocery,Harvest,1,408.4,0.0,408.4,408.4
+112,333,Harvest Grocery Item 112,Grocery,Harvest,1,408.4,20.42,387.98,387.98
+112,441,Harvest Grocery Item 112,Grocery,Harvest,1,408.4,0.0,408.4,408.4
+112,511,Harvest Grocery Item 112,Grocery,Harvest,1,408.4,0.0,408.4,408.4
+112,579,Harvest Grocery Item 112,Grocery,Harvest,1,408.4,40.84,367.56,367.56
+112,683,Harvest Grocery Item 112,Grocery,Harvest,1,408.4,0.0,408.4,408.4
+112,793,Harvest Grocery Item 112,Grocery,Harvest,2,408.4,40.84,367.56,735.12
+113,12,GlowCraft Beauty Item 113,Beauty,GlowCraft,1,1049.76,0.0,1049.76,1049.76
+113,87,GlowCraft Beauty Item 113,Beauty,GlowCraft,2,1049.76,52.49,997.27,1994.54
+113,378,GlowCraft Beauty Item 113,Beauty,GlowCraft,3,1049.76,104.98,944.78,2834.34
+113,460,GlowCraft Beauty Item 113,Beauty,GlowCraft,1,1049.76,104.98,944.78,944.78
+113,515,GlowCraft Beauty Item 113,Beauty,GlowCraft,2,1049.76,0.0,1049.76,2099.52
+113,519,GlowCraft Beauty Item 113,Beauty,GlowCraft,2,1049.76,0.0,1049.76,2099.52
+113,548,GlowCraft Beauty Item 113,Beauty,GlowCraft,4,1049.76,52.49,997.27,3989.08
+113,550,GlowCraft Beauty Item 113,Beauty,GlowCraft,1,1049.76,157.46,892.3,892.3
+113,556,GlowCraft Beauty Item 113,Beauty,GlowCraft,3,1049.76,104.98,944.78,2834.34
+113,696,GlowCraft Beauty Item 113,Beauty,GlowCraft,2,1049.76,104.98,944.78,1889.56
+113,753,GlowCraft Beauty Item 113,Beauty,GlowCraft,1,1049.76,104.98,944.78,944.78
+114,55,HerbalPure Beauty Item 114,Beauty,HerbalPure,1,1416.5,0.0,1416.5,1416.5
+114,112,HerbalPure Beauty Item 114,Beauty,HerbalPure,3,1416.5,0.0,1416.5,4249.5
+114,172,HerbalPure Beauty Item 114,Beauty,HerbalPure,3,1416.5,0.0,1416.5,4249.5
+114,317,HerbalPure Beauty Item 114,Beauty,HerbalPure,1,1416.5,212.48,1204.02,1204.02
+114,330,HerbalPure Beauty Item 114,Beauty,HerbalPure,1,1416.5,70.82,1345.68,1345.68
+114,368,HerbalPure Beauty Item 114,Beauty,HerbalPure,1,1416.5,0.0,1416.5,1416.5
+114,395,HerbalPure Beauty Item 114,Beauty,HerbalPure,3,1416.5,283.3,1133.2,3399.6
+114,411,HerbalPure Beauty Item 114,Beauty,HerbalPure,3,1416.5,141.65,1274.85,3824.55
+114,500,HerbalPure Beauty Item 114,Beauty,HerbalPure,2,1416.5,141.65,1274.85,2549.7
+114,584,HerbalPure Beauty Item 114,Beauty,HerbalPure,1,1416.5,0.0,1416.5,1416.5
+114,597,HerbalPure Beauty Item 114,Beauty,HerbalPure,1,1416.5,0.0,1416.5,1416.5
+114,708,HerbalPure Beauty Item 114,Beauty,HerbalPure,1,1416.5,0.0,1416.5,1416.5
+114,720,HerbalPure Beauty Item 114,Beauty,HerbalPure,2,1416.5,141.65,1274.85,2549.7
+114,730,HerbalPure Beauty Item 114,Beauty,HerbalPure,2,1416.5,70.82,1345.68,2691.36
+115,19,Harvest Grocery Item 115,Grocery,Harvest,1,453.98,45.4,408.58,408.58
+115,73,Harvest Grocery Item 115,Grocery,Harvest,2,453.98,90.8,363.18,726.36
+115,79,Harvest Grocery Item 115,Grocery,Harvest,3,453.98,0.0,453.98,1361.94
+115,194,Harvest Grocery Item 115,Grocery,Harvest,2,453.98,68.1,385.88,771.76
+115,235,Harvest Grocery Item 115,Grocery,Harvest,1,453.98,0.0,453.98,453.98
+115,246,Harvest Grocery Item 115,Grocery,Harvest,2,453.98,45.4,408.58,817.16
+115,308,Harvest Grocery Item 115,Grocery,Harvest,1,453.98,0.0,453.98,453.98
+115,310,Harvest Grocery Item 115,Grocery,Harvest,1,453.98,0.0,453.98,453.98
+115,362,Harvest Grocery Item 115,Grocery,Harvest,1,453.98,68.1,385.88,385.88
+115,363,Harvest Grocery Item 115,Grocery,Harvest,1,453.98,0.0,453.98,453.98
+115,437,Harvest Grocery Item 115,Grocery,Harvest,1,453.98,0.0,453.98,453.98
+115,611,Harvest Grocery Item 115,Grocery,Harvest,1,453.98,22.7,431.28,431.28
+115,622,Harvest Grocery Item 115,Grocery,Harvest,2,453.98,45.4,408.58,817.16
+115,694,Harvest Grocery Item 115,Grocery,Harvest,1,453.98,90.8,363.18,363.18
+115,733,Harvest Grocery Item 115,Grocery,Harvest,1,453.98,90.8,363.18,363.18
+115,752,Harvest Grocery Item 115,Grocery,Harvest,1,453.98,0.0,453.98,453.98
+116,17,LitWorld Books Item 116,Books,LitWorld,1,319.66,15.98,303.68,303.68
+116,34,LitWorld Books Item 116,Books,LitWorld,1,319.66,0.0,319.66,319.66
+116,39,LitWorld Books Item 116,Books,LitWorld,1,319.66,31.97,287.69,287.69
+116,51,LitWorld Books Item 116,Books,LitWorld,1,319.66,15.98,303.68,303.68
+116,52,LitWorld Books Item 116,Books,LitWorld,3,319.66,0.0,319.66,958.98
+116,83,LitWorld Books Item 116,Books,LitWorld,1,319.66,0.0,319.66,319.66
+116,92,LitWorld Books Item 116,Books,LitWorld,1,319.66,0.0,319.66,319.66
+116,113,LitWorld Books Item 116,Books,LitWorld,1,319.66,0.0,319.66,319.66
+116,318,LitWorld Books Item 116,Books,LitWorld,1,319.66,15.98,303.68,303.68
+116,330,LitWorld Books Item 116,Books,LitWorld,1,319.66,0.0,319.66,319.66
+116,390,LitWorld Books Item 116,Books,LitWorld,1,319.66,31.97,287.69,287.69
+116,442,LitWorld Books Item 116,Books,LitWorld,1,319.66,0.0,319.66,319.66
+116,540,LitWorld Books Item 116,Books,LitWorld,4,319.66,0.0,319.66,1278.64
+116,566,LitWorld Books Item 116,Books,LitWorld,2,319.66,0.0,319.66,639.32
+116,583,LitWorld Books Item 116,Books,LitWorld,2,319.66,15.98,303.68,607.36
+116,705,LitWorld Books Item 116,Books,LitWorld,1,319.66,15.98,303.68,303.68
+116,715,LitWorld Books Item 116,Books,LitWorld,1,319.66,0.0,319.66,319.66
+117,20,LitWorld Books Item 117,Books,LitWorld,3,1030.07,0.0,1030.07,3090.21
+117,120,LitWorld Books Item 117,Books,LitWorld,2,1030.07,206.01,824.06,1648.12
+117,152,LitWorld Books Item 117,Books,LitWorld,1,1030.07,206.01,824.06,824.06
+117,171,LitWorld Books Item 117,Books,LitWorld,1,1030.07,154.51,875.56,875.56
+117,372,LitWorld Books Item 117,Books,LitWorld,1,1030.07,103.01,927.06,927.06
+117,381,LitWorld Books Item 117,Books,LitWorld,1,1030.07,51.5,978.57,978.57
+117,398,LitWorld Books Item 117,Books,LitWorld,1,1030.07,0.0,1030.07,1030.07
+117,485,LitWorld Books Item 117,Books,LitWorld,3,1030.07,0.0,1030.07,3090.21
+117,492,LitWorld Books Item 117,Books,LitWorld,2,1030.07,257.52,772.55,1545.1
+117,541,LitWorld Books Item 117,Books,LitWorld,1,1030.07,0.0,1030.07,1030.07
+117,591,LitWorld Books Item 117,Books,LitWorld,1,1030.07,0.0,1030.07,1030.07
+117,621,LitWorld Books Item 117,Books,LitWorld,1,1030.07,0.0,1030.07,1030.07
+117,682,LitWorld Books Item 117,Books,LitWorld,2,1030.07,103.01,927.06,1854.12
+117,711,LitWorld Books Item 117,Books,LitWorld,2,1030.07,51.5,978.57,1957.14
+118,75,PlayHub Toys Item 118,Toys,PlayHub,1,1201.49,240.3,961.19,961.19
+118,228,PlayHub Toys Item 118,Toys,PlayHub,1,1201.49,0.0,1201.49,1201.49
+118,269,PlayHub Toys Item 118,Toys,PlayHub,2,1201.49,300.37,901.12,1802.24
+118,357,PlayHub Toys Item 118,Toys,PlayHub,2,1201.49,0.0,1201.49,2402.98
+118,461,PlayHub Toys Item 118,Toys,PlayHub,1,1201.49,0.0,1201.49,1201.49
+118,494,PlayHub Toys Item 118,Toys,PlayHub,1,1201.49,180.22,1021.27,1021.27
+118,643,PlayHub Toys Item 118,Toys,PlayHub,1,1201.49,120.15,1081.34,1081.34
+118,658,PlayHub Toys Item 118,Toys,PlayHub,2,1201.49,0.0,1201.49,2402.98
+118,737,PlayHub Toys Item 118,Toys,PlayHub,2,1201.49,0.0,1201.49,2402.98
+119,85,EduBooks Books Item 119,Books,EduBooks,1,1183.09,236.62,946.47,946.47
+119,100,EduBooks Books Item 119,Books,EduBooks,1,1183.09,177.46,1005.63,1005.63
+119,107,EduBooks Books Item 119,Books,EduBooks,3,1183.09,236.62,946.47,2839.41
+119,207,EduBooks Books Item 119,Books,EduBooks,1,1183.09,0.0,1183.09,1183.09
+119,240,EduBooks Books Item 119,Books,EduBooks,2,1183.09,0.0,1183.09,2366.18
+119,274,EduBooks Books Item 119,Books,EduBooks,3,1183.09,59.15,1123.94,3371.82
+119,284,EduBooks Books Item 119,Books,EduBooks,2,1183.09,59.15,1123.94,2247.88
+119,301,EduBooks Books Item 119,Books,EduBooks,2,1183.09,0.0,1183.09,2366.18
+119,304,EduBooks Books Item 119,Books,EduBooks,1,1183.09,0.0,1183.09,1183.09
+119,382,EduBooks Books Item 119,Books,EduBooks,1,1183.09,59.15,1123.94,1123.94
+119,401,EduBooks Books Item 119,Books,EduBooks,1,1183.09,0.0,1183.09,1183.09
+119,561,EduBooks Books Item 119,Books,EduBooks,2,1183.09,59.15,1123.94,2247.88
+119,678,EduBooks Books Item 119,Books,EduBooks,1,1183.09,295.77,887.32,887.32
+119,743,EduBooks Books Item 119,Books,EduBooks,1,1183.09,0.0,1183.09,1183.09
+119,765,EduBooks Books Item 119,Books,EduBooks,1,1183.09,177.46,1005.63,1005.63
+119,783,EduBooks Books Item 119,Books,EduBooks,2,1183.09,118.31,1064.78,2129.56
+120,24,PageTurner Books Item 120,Books,PageTurner,3,1229.96,0.0,1229.96,3689.88
+120,43,PageTurner Books Item 120,Books,PageTurner,1,1229.96,123.0,1106.96,1106.96
+120,121,PageTurner Books Item 120,Books,PageTurner,2,1229.96,61.5,1168.46,2336.92
+120,152,PageTurner Books Item 120,Books,PageTurner,2,1229.96,61.5,1168.46,2336.92
+120,154,PageTurner Books Item 120,Books,PageTurner,1,1229.96,0.0,1229.96,1229.96
+120,194,PageTurner Books Item 120,Books,PageTurner,2,1229.96,0.0,1229.96,2459.92
+120,195,PageTurner Books Item 120,Books,PageTurner,3,1229.96,0.0,1229.96,3689.88
+120,205,PageTurner Books Item 120,Books,PageTurner,4,1229.96,0.0,1229.96,4919.84
+120,271,PageTurner Books Item 120,Books,PageTurner,1,1229.96,184.49,1045.47,1045.47
+120,382,PageTurner Books Item 120,Books,PageTurner,3,1229.96,61.5,1168.46,3505.38
+120,531,PageTurner Books Item 120,Books,PageTurner,1,1229.96,0.0,1229.96,1229.96
+120,588,PageTurner Books Item 120,Books,PageTurner,2,1229.96,0.0,1229.96,2459.92
+120,609,PageTurner Books Item 120,Books,PageTurner,2,1229.96,0.0,1229.96,2459.92
+120,648,PageTurner Books Item 120,Books,PageTurner,2,1229.96,0.0,1229.96,2459.92
+120,671,PageTurner Books Item 120,Books,PageTurner,1,1229.96,0.0,1229.96,1229.96
+120,735,PageTurner Books Item 120,Books,PageTurner,2,1229.96,307.49,922.47,1844.94
+120,766,PageTurner Books Item 120,Books,PageTurner,2,1229.96,0.0,1229.96,2459.92
